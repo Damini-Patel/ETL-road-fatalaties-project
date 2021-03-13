@@ -27,4 +27,4 @@ This can be done by analysing:
 ## Data Sources:
 
 - CSV:  https://www.bitre.gov.au
-- API: https://portal-mainroads.opendata.arcgis.com
+- CSV: https://portal-mainroads.opendata.arcgis.com
