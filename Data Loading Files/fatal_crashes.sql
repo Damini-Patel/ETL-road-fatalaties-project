@@ -21,3 +21,21 @@ Heavy_Rigid_Truck_Involvement TEXT,
 Articulated_Truck_Involvement TEXT,
 Speed_Limit INT
 );
+
+--Create table for crashes
+CREATE TABLE fatal_crashes (
+id SERIAL PRIMARY KEY,
+objectid INT,
+acc_id INT,
+longitude INT,
+latitude INT,
+crash_date TEXT,
+crash_time INT,
+severity TEXT
+);
+
+-- Joins tables
+SELECT crashes.crash_id, crashes.number_fatalities, crashes.speed_limit, fatalities.road_user, fatalities.age_group
+FROM crashes
+JOIN fatalities
+ON crashes.id = fatalities.id;
