@@ -1,0 +1,6179 @@
+crash_id,road_user,age_group
+20215023,Pedal cyclist,40_to_64
+20215024,Driver,40_to_64
+20215004,Motorcycle rider,40_to_64
+20215018,Motorcycle rider,40_to_64
+20215001,Passenger,17_to_25
+20215015,Driver,17_to_25
+20215021,Pedestrian,17_to_25
+20215010,Driver,26_to_39
+20215022,Driver,17_to_25
+20215009,Motorcycle rider,40_to_64
+20215002,Motorcycle rider,26_to_39
+20215005,Motorcycle rider,26_to_39
+20215020,Driver,17_to_25
+20215008,Driver,75_or_older
+20215012,Motorcycle rider,17_to_25
+20215016,Driver,40_to_64
+20215019,Motorcycle rider,17_to_25
+20215014,Driver,40_to_64
+20215003,Pedestrian,26_to_39
+20215007,Driver,75_or_older
+20215017,Pedestrian,40_to_64
+20215008,Passenger,40_to_64
+20215006,Driver,40_to_64
+20215011,Motorcycle rider,26_to_39
+20215013,Driver,40_to_64
+20205098,Driver,40_to_64
+20205041,Pedestrian,26_to_39
+20205001,Motorcycle rider,40_to_64
+20205133,Other,17_to_25
+20205013,Motorcycle rider,26_to_39
+20205136,Driver,17_to_25
+20205010,Driver,40_to_64
+20205010,Driver,40_to_64
+20205071,Pedestrian,40_to_64
+20205100,Driver,75_or_older
+20205101,Passenger,0_to_16
+20205111,Passenger,17_to_25
+20205095,Driver,40_to_64
+20205084,Passenger,26_to_39
+20205026,Passenger,0_to_16
+20205014,Motorcycle rider,40_to_64
+20205059,Driver,40_to_64
+20205005,Pedestrian,26_to_39
+20205026,Driver,40_to_64
+20205040,Driver,17_to_25
+20205040,Passenger,17_to_25
+20205125,Driver,40_to_64
+20205017,Passenger,40_to_64
+20205035,Driver,75_or_older
+20205084,Driver,26_to_39
+20205060,Motorcycle rider,40_to_64
+20205096,Motorcycle rider,40_to_64
+20205126,Driver,17_to_25
+20205125,Passenger,40_to_64
+20205029,Driver,17_to_25
+20205120,Driver,40_to_64
+20205135,Passenger,0_to_16
+20205122,Pedestrian,17_to_25
+20205122,Pedestrian,40_to_64
+20205027,Motorcycle rider,40_to_64
+20205049,Driver,17_to_25
+20205065,Driver,40_to_64
+20205058,Driver,40_to_64
+20205068,Driver,17_to_25
+20205074,Driver,40_to_64
+20205124,Driver,26_to_39
+20205066,Driver,26_to_39
+20205119,Driver,17_to_25
+20205128,Motorcycle rider,26_to_39
+20205122,Pedestrian,17_to_25
+20205021,Pedal cyclist,40_to_64
+20205092,Driver,65_to_74
+20205083,Motorcycle rider,40_to_64
+20205075,Driver,65_to_74
+20205106,Driver,65_to_74
+20205009,Passenger,26_to_39
+20205036,Pedestrian,26_to_39
+20205112,Motorcycle rider,40_to_64
+20205009,Driver,26_to_39
+20205094,Motorcycle rider,40_to_64
+20205070,Passenger,26_to_39
+20205023,Driver,40_to_64
+20205103,Driver,26_to_39
+20205030,Driver,40_to_64
+20205055,Driver,40_to_64
+20205103,Passenger,26_to_39
+20205130,Driver,26_to_39
+20205011,Driver,40_to_64
+20205117,Driver,75_or_older
+20205118,Driver,26_to_39
+20205093,Motorcycle rider,40_to_64
+20205053,Motorcycle rider,40_to_64
+20205045,Driver,75_or_older
+20205052,Driver,75_or_older
+20205025,Passenger,40_to_64
+20205034,Driver,17_to_25
+20205064,Motorcycle rider,65_to_74
+20205131,Driver,26_to_39
+20205099,Driver,65_to_74
+20205081,Pedestrian,26_to_39
+20205037,Driver,26_to_39
+20205097,Passenger,17_to_25
+20205121,Driver,75_or_older
+20205007,Pedestrian,40_to_64
+20205088,Passenger,40_to_64
+20205002,Pedal cyclist,0_to_16
+20205024,Driver,17_to_25
+20205022,Driver,40_to_64
+20205042,Passenger,0_to_16
+20205008,Driver,17_to_25
+20205032,Driver,17_to_25
+20205044,Driver,17_to_25
+20205134,Motorcycle rider,26_to_39
+20205020,Pedestrian,26_to_39
+20205129,Driver,26_to_39
+20205003,Driver,17_to_25
+20205115,Motorcycle rider,65_to_74
+20205042,Passenger,0_to_16
+20205086,Driver,75_or_older
+20205051,Pedestrian,26_to_39
+20205077,Pedal cyclist,0_to_16
+20205076,Passenger,17_to_25
+20205085,Passenger,26_to_39
+20205076,Passenger,0_to_16
+20205085,Driver,26_to_39
+20205016,Pedal cyclist,40_to_64
+20205116,Driver,26_to_39
+20205015,Driver,75_or_older
+20205080,Motorcycle rider,26_to_39
+20205082,Motorcycle rider,40_to_64
+20205078,Motorcycle rider,26_to_39
+20205006,Driver,40_to_64
+20205127,Driver,40_to_64
+20205102,Driver,40_to_64
+20205048,Motorcycle rider,40_to_64
+20205102,Driver,17_to_25
+20205123,Driver,17_to_25
+20205056,Motorcycle rider,40_to_64
+20205114,Driver,26_to_39
+20205047,Driver,26_to_39
+20205033,Motorcycle rider,40_to_64
+20205012,Driver,75_or_older
+20205028,Driver,75_or_older
+20205028,Passenger,75_or_older
+20205109,Driver,17_to_25
+20205069,Driver,17_to_25
+20205062,Passenger,40_to_64
+20205038,Motorcycle rider,17_to_25
+20205113,Driver,26_to_39
+20205054,Driver,40_to_64
+20205046,Driver,65_to_74
+20205107,Driver,65_to_74
+20205105,Driver,17_to_25
+20205105,Driver,17_to_25
+20205104,Driver,26_to_39
+20205067,Passenger,75_or_older
+20205091,Passenger,17_to_25
+20205087,Passenger,40_to_64
+20205079,Driver,40_to_64
+20205050,Pedal cyclist,26_to_39
+20205018,Motorcycle rider,26_to_39
+20205061,Motorcycle rider,26_to_39
+20205039,Passenger,75_or_older
+20205090,Driver,65_to_74
+20205057,Driver,40_to_64
+20205108,Driver,40_to_64
+20205043,Passenger,75_or_older
+20205043,Passenger,75_or_older
+20205089,Driver,40_to_64
+20205031,Passenger,75_or_older
+20205073,Motorcycle rider,40_to_64
+20205063,Driver,26_to_39
+20205132,Motorcycle rider,26_to_39
+20205019,Driver,17_to_25
+20205072,Driver,26_to_39
+20205004,Driver,65_to_74
+20205110,Passenger,17_to_25
+20205089,Passenger,26_to_39
+20205031,Driver,40_to_64
+20195142,Passenger,26_to_39
+20195146,Driver,26_to_39
+20195136,Motorcycle rider,75_or_older
+20195008,Passenger,0_to_16
+20195137,Passenger,0_to_16
+20195081,Driver,40_to_64
+20195043,Driver,65_to_74
+20195079,Driver,65_to_74
+20195050,Driver,40_to_64
+20195107,Driver,40_to_64
+20195075,Passenger,17_to_25
+20195107,Passenger,75_or_older
+20195064,Pedestrian,17_to_25
+20195123,Pedestrian,40_to_64
+20195039,Driver,26_to_39
+20195090,Driver,17_to_25
+20195001,Passenger,26_to_39
+20195074,Motorcycle rider,40_to_64
+20195049,Driver,17_to_25
+20195101,Driver,26_to_39
+20195110,Driver,75_or_older
+20195007,Pedestrian,40_to_64
+20195015,Pedestrian,65_to_74
+20195012,Passenger,17_to_25
+20195012,Passenger,0_to_16
+20195040,Driver,40_to_64
+20195053,Driver,40_to_64
+20195145,Driver,17_to_25
+20195144,Passenger,26_to_39
+20195053,Passenger,26_to_39
+20195019,Driver,40_to_64
+20195059,Motorcycle rider,65_to_74
+20195061,Driver,26_to_39
+20195083,Driver,40_to_64
+20195062,Driver,40_to_64
+20195036,Driver,17_to_25
+20195036,Passenger,17_to_25
+20195034,Driver,65_to_74
+20195106,Driver,65_to_74
+20195025,Driver,65_to_74
+20195096,Passenger,65_to_74
+20195023,Driver,75_or_older
+20195131,Driver,75_or_older
+20195102,Pedestrian,0_to_16
+20195051,Motorcycle rider,40_to_64
+20195092,Passenger,17_to_25
+20195119,Driver,26_to_39
+20195072,Driver,26_to_39
+20195067,Motorcycle rider,26_to_39
+20195063,Passenger,26_to_39
+20195063,Passenger,26_to_39
+20195126,Passenger,0_to_16
+20195027,Driver,17_to_25
+20195035,Motorcycle rider,40_to_64
+20195044,Passenger,75_or_older
+20195085,Driver,40_to_64
+20195018,Driver,40_to_64
+20195005,Motorcycle rider,17_to_25
+20195068,Driver,26_to_39
+20195116,Driver,40_to_64
+20195098,Driver,26_to_39
+20195022,Driver,40_to_64
+20195150,Motorcycle rider,40_to_64
+20195138,Driver,40_to_64
+20195037,Passenger,26_to_39
+20195117,Driver,26_to_39
+20195017,Driver,17_to_25
+20195114,Driver,40_to_64
+20195148,Driver,40_to_64
+20195097,Pedestrian,40_to_64
+20195009,Motorcycle rider,17_to_25
+20195099,Driver,17_to_25
+20195042,Pedal cyclist,26_to_39
+20195112,Passenger,26_to_39
+20195086,Driver,40_to_64
+20195091,Passenger,40_to_64
+20195091,Driver,40_to_64
+20195115,Driver,65_to_74
+20195055,Passenger,0_to_16
+20195141,Motorcycle rider,17_to_25
+20195028,Motorcycle rider,40_to_64
+20195056,Driver,40_to_64
+20195095,Driver,17_to_25
+20195139,Driver,26_to_39
+20195052,Driver,65_to_74
+20195149,Passenger,75_or_older
+20195030,Pedestrian,75_or_older
+20195073,Driver,40_to_64
+20195045,Motorcycle rider,26_to_39
+20195010,Motorcycle rider,26_to_39
+20195100,Driver,40_to_64
+20195006,Passenger,40_to_64
+20195066,Passenger,40_to_64
+20195111,Driver,17_to_25
+20195152,Driver,26_to_39
+20195004,Driver,40_to_64
+20195113,Passenger,65_to_74
+20195082,Driver,75_or_older
+20195070,Pedestrian,40_to_64
+20195002,Pedestrian,17_to_25
+20195002,Pedestrian,26_to_39
+20195069,Driver,26_to_39
+20195128,Driver,26_to_39
+20195129,Motorcycle rider,40_to_64
+20195047,Driver,17_to_25
+20195013,Passenger,40_to_64
+20195016,Driver,40_to_64
+20195026,Motorcycle rider,40_to_64
+20195094,Passenger,0_to_16
+20195105,Driver,17_to_25
+20195014,Motorcycle rider,40_to_64
+20195088,Driver,17_to_25
+20195080,Passenger,26_to_39
+20195020,Driver,40_to_64
+20195133,Driver,40_to_64
+20195108,Pedestrian,17_to_25
+20195084,Motorcycle rider,26_to_39
+20195134,Driver,26_to_39
+20195003,Driver,40_to_64
+20195124,Passenger,26_to_39
+20195103,Motorcycle rider,40_to_64
+20195127,Motorcycle rider,17_to_25
+20195087,Motorcycle rider,40_to_64
+20195109,Motorcycle rider,40_to_64
+20195132,Passenger,65_to_74
+20195033,Driver,40_to_64
+20195120,Passenger,17_to_25
+20195031,Driver,40_to_64
+20195147,Driver,17_to_25
+20195151,Motorcycle rider,17_to_25
+20195140,Driver,26_to_39
+20195071,Motorcycle rider,40_to_64
+20195077,Motorcycle rider,40_to_64
+20195093,Motorcycle rider,17_to_25
+20195153,Driver,40_to_64
+20195048,Driver,40_to_64
+20195089,Driver,40_to_64
+20195029,Driver,40_to_64
+20195065,Pedestrian,75_or_older
+20195057,Pedestrian,17_to_25
+20195104,Pedestrian,65_to_74
+20195041,Driver,17_to_25
+20195038,Driver,17_to_25
+20195076,Driver,26_to_39
+20195078,Driver,40_to_64
+20195058,Driver,26_to_39
+20195122,Driver,17_to_25
+20195154,Passenger,75_or_older
+20195021,Driver,75_or_older
+20195021,Passenger,75_or_older
+20195046,Motorcycle rider,17_to_25
+20195130,Passenger,17_to_25
+20195125,Passenger,26_to_39
+20195118,Driver,40_to_64
+20195135,Driver,40_to_64
+20195130,Driver,40_to_64
+20195054,Driver,40_to_64
+20195121,Pedestrian,75_or_older
+20195011,Motorcycle rider,65_to_74
+20195032,Driver,75_or_older
+20195060,Pedestrian,26_to_39
+20195143,Passenger,65_to_74
+20195024,Pedestrian,40_to_64
+20185100,Driver,26_to_39
+20185085,Passenger,17_to_25
+20185139,Passenger,Other
+20185139,Passenger,Other
+20185076,Driver,17_to_25
+20185114,Passenger,40_to_64
+20185139,Driver,65_to_74
+20185132,Driver,17_to_25
+20185097,Driver,75_or_older
+20185134,Pedestrian,26_to_39
+20185138,Driver,40_to_64
+20185036,Pedestrian,17_to_25
+20185035,Pedestrian,26_to_39
+20185016,Driver,17_to_25
+20185104,Driver,40_to_64
+20185048,Driver,75_or_older
+20185049,Driver,17_to_25
+20185005,Motorcycle rider,40_to_64
+20185052,Motorcycle rider,40_to_64
+20185007,Passenger,26_to_39
+20185007,Driver,40_to_64
+20185111,Pedal cyclist,65_to_74
+20185001,Driver,17_to_25
+20185032,Passenger,26_to_39
+20185041,Driver,26_to_39
+20185044,Passenger,26_to_39
+20185067,Driver,65_to_74
+20185008,Driver,40_to_64
+20185094,Driver,17_to_25
+20185095,Motorcycle rider,26_to_39
+20185031,Driver,40_to_64
+20185004,Driver,26_to_39
+20185106,Motorcycle rider,26_to_39
+20185029,Driver,26_to_39
+20185092,Passenger,26_to_39
+20185091,Passenger,75_or_older
+20185103,Driver,17_to_25
+20185070,Passenger,40_to_64
+20185098,Driver,40_to_64
+20185050,Passenger,40_to_64
+20185079,Motorcycle rider,26_to_39
+20185034,Motorcycle rider,26_to_39
+20185028,Motorcycle rider,65_to_74
+20185056,Motorcycle rider,26_to_39
+20185021,Passenger,0_to_16
+20185021,Driver,0_to_16
+20185062,Driver,17_to_25
+20185140,Driver,17_to_25
+20185078,Driver,40_to_64
+20185043,Pedestrian,17_to_25
+20185046,Driver,26_to_39
+20185126,Passenger,0_to_16
+20185027,Passenger,17_to_25
+20185119,Passenger,26_to_39
+20185119,Passenger,26_to_39
+20185126,Passenger,26_to_39
+20185010,Driver,40_to_64
+20185127,Pedestrian,0_to_16
+20185093,Driver,26_to_39
+20185020,Motorcycle rider,40_to_64
+20185145,Passenger,26_to_39
+20185083,Driver,40_to_64
+20185051,Driver,40_to_64
+20185003,Passenger,75_or_older
+20185022,Passenger,40_to_64
+20185022,Passenger,40_to_64
+20185025,Driver,17_to_25
+20185116,Passenger,75_or_older
+20185024,Driver,40_to_64
+20185115,Passenger,40_to_64
+20185006,Driver,26_to_39
+20185058,Motorcycle rider,26_to_39
+20185142,Motorcycle rider,40_to_64
+20185033,Pedal cyclist,40_to_64
+20185087,Driver,40_to_64
+20185011,Pedestrian,0_to_16
+20185038,Driver,Other
+20185018,Driver,17_to_25
+20185112,Passenger,17_to_25
+20185075,Driver,40_to_64
+20185065,Driver,26_to_39
+20185014,Pedal cyclist,26_to_39
+20185045,Passenger,75_or_older
+20185054,Driver,26_to_39
+20185118,Driver,40_to_64
+20185131,Pedestrian,17_to_25
+20185128,Driver,75_or_older
+20185074,Driver,40_to_64
+20185123,Driver,26_to_39
+20185080,Motorcycle rider,40_to_64
+20185135,Driver,40_to_64
+20185129,Motorcycle rider,17_to_25
+20185144,Passenger,26_to_39
+20185086,Pedal cyclist,75_or_older
+20185109,Driver,26_to_39
+20185120,Motorcycle rider,26_to_39
+20185125,Driver,40_to_64
+20185012,Pedestrian,75_or_older
+20185013,Pedestrian,26_to_39
+20185082,Other,0_to_16
+20185141,Passenger,0_to_16
+20185017,Passenger,17_to_25
+20185066,Passenger,17_to_25
+20185066,Driver,26_to_39
+20185026,Driver,26_to_39
+20185023,Passenger,17_to_25
+20185047,Motorcycle rider,40_to_64
+20185117,Motorcycle rider,40_to_64
+20185063,Motorcycle rider,26_to_39
+20185064,Passenger,0_to_16
+20185073,Motorcycle rider,17_to_25
+20185077,Motorcycle rider,17_to_25
+20185039,Passenger,26_to_39
+20185039,Driver,26_to_39
+20185102,Motorcycle rider,40_to_64
+20185040,Passenger,40_to_64
+20185042,Driver,65_to_74
+20185019,Motorcycle rider,26_to_39
+20185136,Driver,75_or_older
+20185069,Driver,17_to_25
+20185137,Driver,17_to_25
+20185060,Driver,26_to_39
+20185071,Motorcycle rider,26_to_39
+20185061,Pedal cyclist,26_to_39
+20185088,Motorcycle rider,40_to_64
+20185143,Driver,40_to_64
+20185143,Passenger,40_to_64
+20185030,Driver,40_to_64
+20185099,Driver,40_to_64
+20185072,Driver,65_to_74
+20185110,Pedestrian,40_to_64
+20185059,Pedestrian,0_to_16
+20185105,Pedestrian,75_or_older
+20185107,Driver,40_to_64
+20185108,Motorcycle rider,40_to_64
+20185057,Motorcycle rider,40_to_64
+20185055,Driver,75_or_older
+20185124,Driver,75_or_older
+20185133,Driver,0_to_16
+20185084,Driver,17_to_25
+20185089,Driver,26_to_39
+20185002,Pedestrian,26_to_39
+20185121,Driver,40_to_64
+20185009,Driver,17_to_25
+20185053,Motorcycle rider,40_to_64
+20185015,Driver,Other
+20185068,Driver,26_to_39
+20185130,Motorcycle rider,40_to_64
+20185113,Driver,75_or_older
+20185122,Passenger,17_to_25
+20185122,Driver,17_to_25
+20185101,Motorcycle rider,40_to_64
+20185081,Passenger,40_to_64
+20185081,Driver,40_to_64
+20185081,Driver,65_to_74
+20185096,Driver,26_to_39
+20185090,Pedestrian,40_to_64
+20185037,Driver,40_to_64
+20175004,Motorcycle rider,26_to_39
+20175126,Driver,26_to_39
+20175026,Driver,40_to_64
+20175051,Motorcycle rider,40_to_64
+20175119,Driver,75_or_older
+20175123,Other,75_or_older
+20175021,Driver,26_to_39
+20175084,Motorcycle rider,26_to_39
+20175073,Motorcycle rider,40_to_64
+20175117,Driver,40_to_64
+20175043,Passenger,40_to_64
+20175067,Motorcycle rider,65_to_74
+20175017,Passenger,40_to_64
+20175046,Pedestrian,75_or_older
+20175151,Pedestrian,75_or_older
+20175053,Passenger,65_to_74
+20175054,Driver,40_to_64
+20175052,Passenger,40_to_64
+20175029,Driver,40_to_64
+20175142,Driver,75_or_older
+20175122,Passenger,17_to_25
+20175083,Motorcycle rider,17_to_25
+20175078,Driver,26_to_39
+20175140,Passenger,26_to_39
+20175045,Driver,40_to_64
+20175140,Driver,40_to_64
+20175036,Driver,75_or_older
+20175010,Driver,17_to_25
+20175012,Pedestrian,40_to_64
+20175079,Pedestrian,26_to_39
+20175072,Pedestrian,40_to_64
+20175014,Driver,40_to_64
+20175038,Driver,26_to_39
+20175132,Passenger,0_to_16
+20175132,Passenger,17_to_25
+20175086,Passenger,26_to_39
+20175090,Driver,40_to_64
+20175107,Pedal cyclist,65_to_74
+20175121,Driver,40_to_64
+20175035,Driver,75_or_older
+20175055,Motorcycle rider,17_to_25
+20175087,Driver,26_to_39
+20175022,Passenger,26_to_39
+20175033,Driver,40_to_64
+20175145,Driver,40_to_64
+20175076,Driver,65_to_74
+20175131,Driver,65_to_74
+20175002,Driver,65_to_74
+20175050,Pedestrian,75_or_older
+20175019,Motorcycle rider,26_to_39
+20175101,Pedal cyclist,40_to_64
+20175027,Driver,26_to_39
+20175093,Driver,40_to_64
+20175130,Motorcycle rider,17_to_25
+20175102,Driver,40_to_64
+20175040,Pedal cyclist,65_to_74
+20175088,Driver,65_to_74
+20175059,Passenger,65_to_74
+20175028,Driver,40_to_64
+20175037,Pedestrian,26_to_39
+20175008,Pedestrian,75_or_older
+20175034,Passenger,26_to_39
+20175066,Driver,75_or_older
+20175100,Passenger,0_to_16
+20175100,Driver,26_to_39
+20175138,Driver,40_to_64
+20175141,Motorcycle rider,40_to_64
+20175094,Pedal cyclist,40_to_64
+20175041,Driver,40_to_64
+20175057,Driver,40_to_64
+20175100,Driver,75_or_older
+20175047,Pedestrian,75_or_older
+20175127,Driver,26_to_39
+20175074,Driver,40_to_64
+20175113,Driver,17_to_25
+20175009,Driver,75_or_older
+20175031,Driver,75_or_older
+20175133,Driver,26_to_39
+20175104,Driver,40_to_64
+20175016,Driver,40_to_64
+20175081,Driver,65_to_74
+20175015,Passenger,17_to_25
+20175001,Other,75_or_older
+20175111,Driver,40_to_64
+20175070,Pedal cyclist,75_or_older
+20175063,Motorcycle rider,17_to_25
+20175095,Motorcycle rider,17_to_25
+20175061,Passenger,40_to_64
+20175006,Driver,40_to_64
+20175007,Driver,40_to_64
+20175091,Driver,40_to_64
+20175011,Driver,40_to_64
+20175011,Passenger,40_to_64
+20175143,Pedestrian,75_or_older
+20175147,Driver,75_or_older
+20175048,Passenger,26_to_39
+20175075,Passenger,17_to_25
+20175098,Motorcycle rider,40_to_64
+20175152,Passenger,40_to_64
+20175060,Driver,40_to_64
+20175124,Pedestrian,65_to_74
+20175110,Driver,40_to_64
+20175025,Other,0_to_16
+20175085,Driver,17_to_25
+20175092,Driver,17_to_25
+20175092,Passenger,26_to_39
+20175136,Passenger,0_to_16
+20175103,Driver,17_to_25
+20175069,Driver,17_to_25
+20175096,Motorcycle rider,40_to_64
+20175114,Pedestrian,17_to_25
+20175116,Motorcycle rider,65_to_74
+20175005,Driver,75_or_older
+20175080,Motorcycle rider,17_to_25
+20175108,Pedal cyclist,17_to_25
+20175049,Motorcycle rider,26_to_39
+20175030,Motorcycle rider,26_to_39
+20175071,Driver,26_to_39
+20175099,Passenger,17_to_25
+20175025,Passenger,26_to_39
+20175135,Driver,17_to_25
+20175068,Passenger,40_to_64
+20175112,Driver,26_to_39
+20175106,Motorcycle rider,40_to_64
+20175042,Driver,17_to_25
+20175125,Driver,75_or_older
+20175056,Other,75_or_older
+20175148,Motorcycle rider,17_to_25
+20175018,Driver,26_to_39
+20175109,Passenger,26_to_39
+20175120,Motorcycle rider,40_to_64
+20175105,Driver,40_to_64
+20175077,Driver,40_to_64
+20175115,Pedal cyclist,65_to_74
+20175137,Pedestrian,0_to_16
+20175039,Driver,75_or_older
+20175065,Driver,40_to_64
+20175134,Passenger,75_or_older
+20175118,Motorcycle rider,17_to_25
+20175149,Driver,40_to_64
+20175023,Passenger,75_or_older
+20175032,Passenger,17_to_25
+20175003,Driver,40_to_64
+20175139,Driver,17_to_25
+20175144,Passenger,17_to_25
+20175128,Driver,40_to_64
+20175044,Passenger,0_to_16
+20175024,Driver,17_to_25
+20175082,Driver,17_to_25
+20175013,Driver,75_or_older
+20175058,Motorcycle rider,17_to_25
+20175089,Driver,17_to_25
+20175064,Passenger,65_to_74
+20175064,Passenger,65_to_74
+20175146,Driver,75_or_older
+20175062,Motorcycle rider,17_to_25
+20175150,Driver,26_to_39
+20175129,Pedestrian,0_to_16
+20175097,Motorcycle pillion passenger,0_to_16
+20165039,Driver,17_to_25
+20165162,Driver,17_to_25
+20165113,Driver,26_to_39
+20165105,Driver,26_to_39
+20165012,Passenger,26_to_39
+20165012,Driver,40_to_64
+20165036,Motorcycle rider,0_to_16
+20165158,Driver,40_to_64
+20165088,Passenger,0_to_16
+20165062,Passenger,17_to_25
+20165062,Driver,17_to_25
+20165110,Passenger,17_to_25
+20165110,Passenger,17_to_25
+20165032,Driver,26_to_39
+20165151,Driver,40_to_64
+20165081,Driver,40_to_64
+20165025,Passenger,17_to_25
+20165131,Pedestrian,26_to_39
+20165027,Motorcycle pillion passenger,0_to_16
+20165011,Driver,26_to_39
+20165041,Motorcycle rider,26_to_39
+20165089,Motorcycle rider,26_to_39
+20165117,Driver,17_to_25
+20165043,Motorcycle rider,26_to_39
+20165119,Driver,26_to_39
+20165160,Driver,40_to_64
+20165168,Driver,26_to_39
+20165077,Motorcycle rider,40_to_64
+20165156,Driver,26_to_39
+20165125,Motorcycle rider,75_or_older
+20165126,Driver,17_to_25
+20165066,Driver,40_to_64
+20165136,Driver,40_to_64
+20165078,Pedestrian,40_to_64
+20165003,Pedestrian,75_or_older
+20165156,Passenger,0_to_16
+20165170,Motorcycle rider,17_to_25
+20165122,Driver,26_to_39
+20165018,Driver,40_to_64
+20165022,Motorcycle rider,17_to_25
+20165071,Motorcycle rider,26_to_39
+20165097,Motorcycle rider,26_to_39
+20165167,Motorcycle pillion passenger,0_to_16
+20165121,Passenger,0_to_16
+20165121,Driver,0_to_16
+20165138,Passenger,17_to_25
+20165138,Passenger,17_to_25
+20165034,Driver,26_to_39
+20165121,Passenger,26_to_39
+20165069,Passenger,26_to_39
+20165069,Driver,26_to_39
+20165087,Driver,75_or_older
+20165128,Motorcycle rider,26_to_39
+20165101,Motorcycle rider,40_to_64
+20165086,Driver,40_to_64
+20165038,Pedestrian,40_to_64
+20165023,Motorcycle rider,40_to_64
+20165007,Passenger,40_to_64
+20165102,Driver,17_to_25
+20165157,Driver,17_to_25
+20165149,Driver,17_to_25
+20165085,Driver,17_to_25
+20165115,Other,17_to_25
+20165146,Motorcycle rider,26_to_39
+20165053,Motorcycle rider,40_to_64
+20165010,Motorcycle rider,40_to_64
+20165109,Driver,65_to_74
+20165007,Passenger,65_to_74
+20165165,Pedestrian,65_to_74
+20165103,Passenger,17_to_25
+20165103,Passenger,17_to_25
+20165107,Driver,26_to_39
+20165103,Driver,26_to_39
+20165050,Driver,26_to_39
+20165099,Driver,40_to_64
+20165068,Driver,40_to_64
+20165058,Motorcycle rider,40_to_64
+20165133,Driver,17_to_25
+20165009,Passenger,17_to_25
+20165095,Motorcycle rider,17_to_25
+20165067,Driver,75_or_older
+20165123,Passenger,75_or_older
+20165123,Driver,75_or_older
+20165028,Passenger,40_to_64
+20165140,Driver,65_to_74
+20165024,Passenger,17_to_25
+20165152,Passenger,0_to_16
+20165037,Driver,26_to_39
+20165106,Passenger,26_to_39
+20165150,Driver,26_to_39
+20165055,Driver,40_to_64
+20165046,Driver,40_to_64
+20165144,Driver,40_to_64
+20165045,Other,0_to_16
+20165073,Driver,26_to_39
+20165054,Motorcycle rider,40_to_64
+20165084,Pedal cyclist,0_to_16
+20165031,Motorcycle rider,17_to_25
+20165090,Driver,17_to_25
+20165005,Driver,40_to_64
+20165083,Motorcycle rider,40_to_64
+20165017,Driver,40_to_64
+20165143,Pedestrian,75_or_older
+20165094,Pedestrian,40_to_64
+20165056,Pedestrian,40_to_64
+20165001,Motorcycle rider,26_to_39
+20165130,Driver,40_to_64
+20165166,Driver,17_to_25
+20165134,Driver,26_to_39
+20165120,Driver,75_or_older
+20165051,Driver,17_to_25
+20165042,Driver,17_to_25
+20165048,Driver,26_to_39
+20165029,Pedestrian,26_to_39
+20165064,Driver,26_to_39
+20165013,Driver,17_to_25
+20165145,Driver,40_to_64
+20165100,Driver,26_to_39
+20165100,Driver,26_to_39
+20165139,Driver,40_to_64
+20165164,Motorcycle rider,40_to_64
+20165049,Driver,40_to_64
+20165163,Motorcycle rider,40_to_64
+20165035,Driver,65_to_74
+20165063,Passenger,26_to_39
+20165008,Driver,40_to_64
+20165061,Pedestrian,75_or_older
+20165002,Driver,26_to_39
+20165112,Driver,26_to_39
+20165033,Driver,17_to_25
+20165135,Passenger,0_to_16
+20165129,Passenger,17_to_25
+20165129,Driver,17_to_25
+20165040,Driver,17_to_25
+20165040,Passenger,17_to_25
+20165091,Driver,26_to_39
+20165141,Pedestrian,0_to_16
+20165111,Pedestrian,17_to_25
+20165047,Motorcycle rider,40_to_64
+20165006,Driver,26_to_39
+20165059,Passenger,17_to_25
+20165044,Driver,17_to_25
+20165059,Passenger,26_to_39
+20165059,Driver,26_to_39
+20165044,Passenger,26_to_39
+20165148,Driver,17_to_25
+20165075,Driver,40_to_64
+20165015,Passenger,17_to_25
+20165020,Driver,17_to_25
+20165137,Motorcycle rider,26_to_39
+20165153,Motorcycle rider,40_to_64
+20165116,Driver,26_to_39
+20165142,Motorcycle rider,26_to_39
+20165093,Motorcycle rider,26_to_39
+20165019,Driver,40_to_64
+20165155,Pedal cyclist,40_to_64
+20165021,Driver,40_to_64
+20165052,Pedal cyclist,65_to_74
+20165161,Driver,65_to_74
+20165044,Driver,40_to_64
+20165080,Motorcycle pillion passenger,17_to_25
+20165080,Driver,17_to_25
+20165169,Passenger,17_to_25
+20165169,Passenger,17_to_25
+20165124,Driver,40_to_64
+20165057,Driver,26_to_39
+20165104,Motorcycle rider,26_to_39
+20165004,Motorcycle rider,40_to_64
+20165098,Passenger,0_to_16
+20165026,Motorcycle rider,40_to_64
+20165147,Motorcycle rider,26_to_39
+20165016,Driver,26_to_39
+20165132,Pedestrian,65_to_74
+20165070,Driver,17_to_25
+20165060,Driver,17_to_25
+20165014,Motorcycle rider,26_to_39
+20165127,Driver,26_to_39
+20165072,Driver,40_to_64
+20165030,Driver,40_to_64
+20165092,Motorcycle rider,40_to_64
+20165076,Driver,40_to_64
+20165159,Driver,40_to_64
+20165082,Driver,75_or_older
+20165096,Driver,17_to_25
+20165154,Driver,17_to_25
+20165118,Driver,17_to_25
+20165108,Driver,26_to_39
+20165096,Driver,26_to_39
+20165079,Driver,40_to_64
+20165082,Passenger,65_to_74
+20165114,Motorcycle rider,65_to_74
+20165065,Pedestrian,40_to_64
+20165074,Passenger,26_to_39
+20155009,Pedal cyclist,40_to_64
+20155044,Passenger,17_to_25
+20155044,Passenger,17_to_25
+20155044,Passenger,17_to_25
+20155034,Motorcycle rider,40_to_64
+20155018,Passenger,40_to_64
+20155021,Passenger,0_to_16
+20155035,Motorcycle rider,40_to_64
+20155116,Motorcycle rider,0_to_16
+20155003,Passenger,0_to_16
+20155081,Pedestrian,26_to_39
+20155102,Motorcycle rider,26_to_39
+20155080,Driver,26_to_39
+20155011,Motorcycle rider,40_to_64
+20155139,Driver,26_to_39
+20155103,Passenger,65_to_74
+20155045,Driver,26_to_39
+20155004,Driver,17_to_25
+20155004,Passenger,26_to_39
+20155058,Driver,26_to_39
+20155112,Driver,17_to_25
+20155006,Passenger,26_to_39
+20155071,Driver,26_to_39
+20155121,Passenger,26_to_39
+20155026,Driver,40_to_64
+20155024,Pedestrian,40_to_64
+20155063,Pedestrian,40_to_64
+20155140,Passenger,40_to_64
+20155114,Passenger,17_to_25
+20155053,Driver,26_to_39
+20155097,Driver,40_to_64
+20155015,Driver,40_to_64
+20155042,Motorcycle rider,40_to_64
+20155076,Passenger,75_or_older
+20155130,Driver,26_to_39
+20155137,Motorcycle rider,26_to_39
+20155008,Driver,40_to_64
+20155086,Driver,40_to_64
+20155008,Passenger,65_to_74
+20155029,Pedestrian,40_to_64
+20155117,Passenger,17_to_25
+20155106,Passenger,17_to_25
+20155135,Driver,40_to_64
+20155099,Driver,26_to_39
+20155030,Driver,26_to_39
+20155129,Driver,26_to_39
+20155111,Driver,40_to_64
+20155072,Passenger,17_to_25
+20155037,Driver,40_to_64
+20155122,Motorcycle rider,65_to_74
+20155120,Pedestrian,40_to_64
+20155072,Driver,40_to_64
+20155043,Pedestrian,0_to_16
+20155096,Pedestrian,0_to_16
+20155135,Passenger,0_to_16
+20155027,Driver,17_to_25
+20155094,Driver,17_to_25
+20155108,Driver,17_to_25
+20155108,Passenger,26_to_39
+20155108,Passenger,26_to_39
+20155028,Passenger,17_to_25
+20155056,Driver,26_to_39
+20155074,Driver,26_to_39
+20155012,Passenger,0_to_16
+20155012,Passenger,17_to_25
+20155012,Passenger,17_to_25
+20155012,Driver,17_to_25
+20155020,Driver,40_to_64
+20155051,Driver,40_to_64
+20155119,Pedal cyclist,75_or_older
+20155061,Motorcycle rider,17_to_25
+20155059,Driver,17_to_25
+20155041,Driver,17_to_25
+20155032,Pedestrian,0_to_16
+20155101,Driver,40_to_64
+20155062,Driver,75_or_older
+20155019,Driver,26_to_39
+20155040,Motorcycle rider,40_to_64
+20155113,Motorcycle pillion passenger,17_to_25
+20155093,Driver,26_to_39
+20155001,Pedestrian,40_to_64
+20155092,Driver,17_to_25
+20155068,Driver,26_to_39
+20155133,Driver,75_or_older
+20155090,Driver,26_to_39
+20155031,Passenger,26_to_39
+20155002,Motorcycle rider,40_to_64
+20155031,Passenger,40_to_64
+20155064,Driver,40_to_64
+20155005,Pedestrian,0_to_16
+20155067,Driver,65_to_74
+20155127,Passenger,17_to_25
+20155107,Driver,26_to_39
+20155016,Passenger,17_to_25
+20155052,Passenger,17_to_25
+20155091,Passenger,26_to_39
+20155083,Driver,75_or_older
+20155131,Driver,26_to_39
+20155132,Passenger,26_to_39
+20155033,Pedestrian,65_to_74
+20155078,Driver,65_to_74
+20155050,Motorcycle rider,17_to_25
+20155136,Pedestrian,17_to_25
+20155085,Passenger,17_to_25
+20155085,Passenger,17_to_25
+20155010,Passenger,40_to_64
+20155010,Driver,40_to_64
+20155069,Motorcycle rider,40_to_64
+20155110,Driver,75_or_older
+20155110,Passenger,75_or_older
+20155138,Driver,75_or_older
+20155128,Driver,40_to_64
+20155013,Driver,40_to_64
+20155070,Passenger,26_to_39
+20155065,Passenger,17_to_25
+20155057,Passenger,0_to_16
+20155054,Driver,17_to_25
+20155036,Driver,40_to_64
+20155036,Passenger,40_to_64
+20155025,Driver,40_to_64
+20155088,Driver,26_to_39
+20155039,Motorcycle rider,17_to_25
+20155007,Motorcycle rider,17_to_25
+20155017,Driver,17_to_25
+20155109,Passenger,26_to_39
+20155077,Driver,40_to_64
+20155124,Driver,40_to_64
+20155017,Passenger,40_to_64
+20155134,Motorcycle rider,26_to_39
+20155125,Passenger,40_to_64
+20155047,Driver,40_to_64
+20155118,Driver,26_to_39
+20155073,Pedal cyclist,65_to_74
+20155126,Pedestrian,0_to_16
+20155125,Passenger,0_to_16
+20155038,Passenger,0_to_16
+20155104,Pedal cyclist,17_to_25
+20155048,Passenger,17_to_25
+20155048,Passenger,17_to_25
+20155123,Driver,75_or_older
+20155060,Motorcycle pillion passenger,26_to_39
+20155105,Driver,26_to_39
+20155141,Passenger,26_to_39
+20155014,Driver,40_to_64
+20155075,Driver,75_or_older
+20155084,Other,75_or_older
+20155087,Driver,40_to_64
+20155022,Pedestrian,65_to_74
+20155095,Passenger,0_to_16
+20155115,Driver,40_to_64
+20155098,Motorcycle rider,26_to_39
+20155100,Motorcycle rider,40_to_64
+20155079,Driver,75_or_older
+20155066,Driver,26_to_39
+20155049,Driver,40_to_64
+20155023,Motorcycle rider,40_to_64
+20155055,Passenger,0_to_16
+20155082,Driver,26_to_39
+20155089,Driver,65_to_74
+20145024,Motorcycle rider,17_to_25
+20145041,Driver,26_to_39
+20145099,Driver,40_to_64
+20145117,Passenger,0_to_16
+20145158,Driver,40_to_64
+20145002,Driver,40_to_64
+20145141,Passenger,40_to_64
+20145048,Driver,26_to_39
+20145091,Driver,17_to_25
+20145101,Driver,40_to_64
+20145088,Motorcycle rider,40_to_64
+20145010,Motorcycle rider,40_to_64
+20145066,Driver,40_to_64
+20145131,Pedestrian,17_to_25
+20145107,Driver,40_to_64
+20145138,Driver,40_to_64
+20145082,Driver,75_or_older
+20145001,Passenger,17_to_25
+20145016,Driver,75_or_older
+20145029,Passenger,0_to_16
+20145096,Passenger,17_to_25
+20145100,Driver,17_to_25
+20145023,Motorcycle rider,40_to_64
+20145017,Motorcycle rider,40_to_64
+20145049,Motorcycle rider,40_to_64
+20145111,Motorcycle rider,17_to_25
+20145027,Motorcycle rider,17_to_25
+20145166,Driver,26_to_39
+20145089,Driver,26_to_39
+20145037,Motorcycle rider,26_to_39
+20145068,Motorcycle rider,40_to_64
+20145026,Pedal cyclist,65_to_74
+20145057,Motorcycle rider,0_to_16
+20145139,Passenger,0_to_16
+20145054,Driver,17_to_25
+20145139,Passenger,0_to_16
+20145139,Passenger,0_to_16
+20145157,Driver,26_to_39
+20145116,Motorcycle rider,17_to_25
+20145060,Driver,0_to_16
+20145151,Pedal cyclist,26_to_39
+20145021,Driver,75_or_older
+20145032,Passenger,75_or_older
+20145124,Driver,17_to_25
+20145129,Passenger,26_to_39
+20145040,Motorcycle rider,26_to_39
+20145094,Driver,40_to_64
+20145019,Passenger,40_to_64
+20145167,Motorcycle rider,40_to_64
+20145123,Driver,26_to_39
+20145126,Pedestrian,26_to_39
+20145036,Pedestrian,75_or_older
+20145063,Passenger,17_to_25
+20145139,Driver,26_to_39
+20145042,Motorcycle rider,26_to_39
+20145154,Driver,26_to_39
+20145065,Motorcycle rider,17_to_25
+20145065,Motorcycle pillion passenger,17_to_25
+20145015,Motorcycle pillion passenger,26_to_39
+20145120,Driver,75_or_older
+20145172,Passenger,40_to_64
+20145006,Motorcycle rider,40_to_64
+20145113,Motorcycle rider,40_to_64
+20145109,Driver,65_to_74
+20145171,Driver,26_to_39
+20145039,Passenger,26_to_39
+20145137,Driver,40_to_64
+20145097,Passenger,40_to_64
+20145047,Passenger,40_to_64
+20145130,Pedestrian,17_to_25
+20145059,Motorcycle rider,65_to_74
+20145022,Passenger,17_to_25
+20145140,Driver,40_to_64
+20145098,Driver,40_to_64
+20145105,Passenger,0_to_16
+20145150,Driver,65_to_74
+20145074,Driver,75_or_older
+20145069,Driver,Other
+20145077,Pedal cyclist,17_to_25
+20145112,Driver,26_to_39
+20145102,Motorcycle rider,40_to_64
+20145045,Driver,40_to_64
+20145067,Driver,65_to_74
+20145095,Pedestrian,75_or_older
+20145106,Driver,17_to_25
+20145018,Driver,17_to_25
+20145011,Driver,26_to_39
+20145170,Driver,26_to_39
+20145128,Passenger,40_to_64
+20145103,Passenger,75_or_older
+20145147,Motorcycle rider,17_to_25
+20145132,Motorcycle rider,17_to_25
+20145085,Driver,17_to_25
+20145085,Passenger,17_to_25
+20145163,Driver,65_to_74
+20145078,Driver,17_to_25
+20145119,Driver,75_or_older
+20145081,Motorcycle rider,26_to_39
+20145143,Driver,40_to_64
+20145087,Driver,65_to_74
+20145161,Pedestrian,75_or_older
+20145080,Driver,40_to_64
+20145090,Driver,40_to_64
+20145031,Driver,26_to_39
+20145086,Motorcycle rider,40_to_64
+20145076,Driver,75_or_older
+20145014,Driver,75_or_older
+20145033,Driver,17_to_25
+20145061,Passenger,26_to_39
+20145159,Driver,26_to_39
+20145028,Motorcycle rider,40_to_64
+20145156,Motorcycle rider,40_to_64
+20145164,Driver,65_to_74
+20145003,Pedestrian,65_to_74
+20145056,Pedestrian,26_to_39
+20145038,Pedestrian,40_to_64
+20145052,Pedestrian,0_to_16
+20145127,Driver,17_to_25
+20145134,Driver,17_to_25
+20145044,Pedal cyclist,26_to_39
+20145071,Driver,40_to_64
+20145136,Motorcycle rider,40_to_64
+20145165,Motorcycle rider,40_to_64
+20145051,Motorcycle rider,65_to_74
+20145121,Pedal cyclist,40_to_64
+20145007,Passenger,65_to_74
+20145062,Pedestrian,17_to_25
+20145004,Passenger,17_to_25
+20145008,Passenger,26_to_39
+20145004,Passenger,26_to_39
+20145043,Driver,40_to_64
+20145115,Driver,17_to_25
+20145034,Motorcycle rider,75_or_older
+20145160,Passenger,17_to_25
+20145169,Motorcycle rider,26_to_39
+20145084,Pedal cyclist,26_to_39
+20145050,Driver,65_to_74
+20145025,Pedestrian,40_to_64
+20145133,Driver,26_to_39
+20145133,Passenger,26_to_39
+20145135,Driver,40_to_64
+20145093,Driver,17_to_25
+20145146,Driver,75_or_older
+20145114,Motorcycle rider,40_to_64
+20145009,Passenger,17_to_25
+20145152,Motorcycle rider,17_to_25
+20145013,Passenger,26_to_39
+20145149,Pedal cyclist,26_to_39
+20145092,Passenger,17_to_25
+20145030,Driver,26_to_39
+20145110,Passenger,40_to_64
+20145162,Motorcycle rider,40_to_64
+20145005,Driver,40_to_64
+20145142,Motorcycle rider,40_to_64
+20145153,Driver,65_to_74
+20145073,Pedal cyclist,65_to_74
+20145145,Pedestrian,26_to_39
+20145125,Pedestrian,40_to_64
+20145046,Pedestrian,75_or_older
+20145012,Driver,17_to_25
+20145079,Motorcycle rider,26_to_39
+20145064,Passenger,17_to_25
+20145122,Pedal cyclist,40_to_64
+20145168,Driver,40_to_64
+20145168,Driver,40_to_64
+20145035,Driver,40_to_64
+20145173,Driver,75_or_older
+20145070,Passenger,0_to_16
+20145070,Passenger,17_to_25
+20145083,Passenger,17_to_25
+20145155,Driver,17_to_25
+20145144,Passenger,17_to_25
+20145083,Driver,40_to_64
+20145058,Driver,40_to_64
+20145075,Driver,40_to_64
+20145104,Motorcycle rider,65_to_74
+20145148,Driver,17_to_25
+20145118,Motorcycle rider,26_to_39
+20145053,Pedestrian,0_to_16
+20145020,Motorcycle rider,40_to_64
+20145055,Motorcycle rider,26_to_39
+20145108,Motorcycle rider,40_to_64
+20145072,Driver,75_or_older
+20135075,Pedal cyclist,0_to_16
+20135130,Motorcycle rider,40_to_64
+20135038,Motorcycle rider,40_to_64
+20135024,Passenger,0_to_16
+20135043,Motorcycle pillion passenger,17_to_25
+20135084,Passenger,17_to_25
+20135091,Passenger,26_to_39
+20135004,Motorcycle rider,40_to_64
+20135012,Pedal cyclist,65_to_74
+20135056,Pedestrian,75_or_older
+20135007,Pedestrian,40_to_64
+20135065,Pedestrian,75_or_older
+20135076,Passenger,17_to_25
+20135111,Pedestrian,75_or_older
+20135032,Passenger,65_to_74
+20135029,Driver,26_to_39
+20135034,Driver,40_to_64
+20135140,Passenger,26_to_39
+20135018,Driver,26_to_39
+20135066,Motorcycle rider,17_to_25
+20135067,Driver,26_to_39
+20135116,Driver,65_to_74
+20135064,Pedestrian,40_to_64
+20135078,Pedestrian,40_to_64
+20135093,Pedestrian,75_or_older
+20135132,Driver,65_to_74
+20135033,Pedestrian,40_to_64
+20135055,Pedestrian,17_to_25
+20135047,Passenger,0_to_16
+20135074,Driver,26_to_39
+20135010,Pedal cyclist,40_to_64
+20135039,Pedal cyclist,17_to_25
+20135118,Driver,75_or_older
+20135062,Driver,26_to_39
+20135071,Passenger,17_to_25
+20135068,Motorcycle rider,40_to_64
+20135082,Driver,65_to_74
+20135117,Pedestrian,40_to_64
+20135021,Pedestrian,40_to_64
+20135021,Pedestrian,40_to_64
+20135119,Driver,26_to_39
+20135077,Driver,26_to_39
+20135085,Driver,40_to_64
+20135050,Driver,40_to_64
+20135134,Motorcycle rider,65_to_74
+20135063,Passenger,17_to_25
+20135063,Driver,17_to_25
+20135057,Driver,26_to_39
+20135123,Motorcycle rider,26_to_39
+20135145,Driver,40_to_64
+20135101,Pedestrian,40_to_64
+20135103,Pedestrian,17_to_25
+20135113,Pedestrian,40_to_64
+20135136,Driver,40_to_64
+20135121,Passenger,26_to_39
+20135146,Driver,65_to_74
+20135005,Driver,26_to_39
+20135129,Motorcycle rider,26_to_39
+20135079,Driver,26_to_39
+20135097,Motorcycle rider,26_to_39
+20135079,Driver,40_to_64
+20135015,Driver,40_to_64
+20135006,Pedestrian,0_to_16
+20135053,Driver,65_to_74
+20135052,Driver,17_to_25
+20135011,Motorcycle rider,40_to_64
+20135147,Driver,26_to_39
+20135135,Driver,26_to_39
+20135096,Driver,75_or_older
+20135059,Passenger,0_to_16
+20135059,Passenger,0_to_16
+20135143,Driver,17_to_25
+20135028,Driver,40_to_64
+20135059,Driver,26_to_39
+20135072,Motorcycle rider,40_to_64
+20135095,Pedestrian,26_to_39
+20135126,Passenger,17_to_25
+20135100,Passenger,17_to_25
+20135094,Passenger,26_to_39
+20135051,Driver,40_to_64
+20135148,Driver,65_to_74
+20135088,Driver,75_or_older
+20135036,Driver,26_to_39
+20135127,Motorcycle rider,40_to_64
+20135036,Driver,65_to_74
+20135137,Pedestrian,26_to_39
+20135016,Pedestrian,75_or_older
+20135048,Driver,17_to_25
+20135090,Pedal cyclist,0_to_16
+20135138,Driver,17_to_25
+20135035,Passenger,17_to_25
+20135035,Driver,26_to_39
+20135149,Other,26_to_39
+20135009,Passenger,26_to_39
+20135122,Motorcycle rider,26_to_39
+20135023,Driver,40_to_64
+20135013,Driver,75_or_older
+20135025,Driver,75_or_older
+20135025,Passenger,75_or_older
+20135128,Pedal cyclist,40_to_64
+20135031,Other,65_to_74
+20135020,Driver,26_to_39
+20135102,Driver,40_to_64
+20135058,Pedestrian,40_to_64
+20135105,Driver,40_to_64
+20135022,Motorcycle rider,40_to_64
+20135139,Motorcycle rider,40_to_64
+20135044,Other,40_to_64
+20135107,Pedestrian,40_to_64
+20135037,Pedestrian,65_to_74
+20135120,Pedestrian,26_to_39
+20135009,Driver,40_to_64
+20135026,Motorcycle rider,65_to_74
+20135035,Passenger,40_to_64
+20135001,Driver,17_to_25
+20135124,Driver,40_to_64
+20135092,Motorcycle rider,65_to_74
+20135042,Driver,26_to_39
+20135014,Motorcycle rider,26_to_39
+20135104,Driver,65_to_74
+20135030,Pedestrian,65_to_74
+20135041,Driver,17_to_25
+20135073,Motorcycle rider,40_to_64
+20135008,Driver,17_to_25
+20135060,Passenger,40_to_64
+20135046,Motorcycle rider,26_to_39
+20135114,Driver,26_to_39
+20135110,Pedestrian,17_to_25
+20135089,Passenger,65_to_74
+20135144,Driver,17_to_25
+20135133,Driver,26_to_39
+20135069,Motorcycle pillion passenger,26_to_39
+20135054,Passenger,26_to_39
+20135054,Passenger,26_to_39
+20135141,Driver,40_to_64
+20135061,Pedestrian,17_to_25
+20135112,Motorcycle rider,26_to_39
+20135045,Driver,26_to_39
+20135109,Driver,17_to_25
+20135054,Driver,40_to_64
+20135003,Pedestrian,65_to_74
+20135040,Driver,0_to_16
+20135098,Driver,17_to_25
+20135106,Driver,26_to_39
+20135081,Driver,26_to_39
+20135115,Other,0_to_16
+20135087,Driver,26_to_39
+20135125,Passenger,26_to_39
+20135017,Driver,40_to_64
+20135086,Driver,65_to_74
+20135108,Driver,75_or_older
+20135083,Motorcycle rider,17_to_25
+20135099,Driver,17_to_25
+20135027,Passenger,17_to_25
+20135027,Passenger,17_to_25
+20135080,Driver,40_to_64
+20135002,Pedestrian,0_to_16
+20135019,Pedestrian,0_to_16
+20135142,Pedestrian,0_to_16
+20135131,Passenger,0_to_16
+20135070,Pedestrian,17_to_25
+20135049,Motorcycle rider,40_to_64
+20125167,Driver,26_to_39
+20125090,Driver,17_to_25
+20125051,Driver,17_to_25
+20125025,Driver,75_or_older
+20125061,Driver,17_to_25
+20125142,Driver,17_to_25
+20125109,Driver,17_to_25
+20125020,Driver,26_to_39
+20125115,Driver,40_to_64
+20125085,Driver,40_to_64
+20125028,Driver,40_to_64
+20125059,Pedestrian,17_to_25
+20125015,Pedestrian,40_to_64
+20125071,Motorcycle pillion passenger,26_to_39
+20125071,Motorcycle rider,40_to_64
+20125068,Driver,65_to_74
+20125048,Passenger,17_to_25
+20125130,Passenger,17_to_25
+20125063,Driver,26_to_39
+20125012,Passenger,40_to_64
+20125105,Driver,75_or_older
+20125133,Passenger,17_to_25
+20125079,Driver,75_or_older
+20125007,Motorcycle rider,17_to_25
+20125149,Passenger,17_to_25
+20125119,Passenger,26_to_39
+20125119,Driver,26_to_39
+20125153,Motorcycle rider,40_to_64
+20125138,Driver,17_to_25
+20125001,Pedestrian,40_to_64
+20125049,Pedestrian,40_to_64
+20125170,Pedestrian,26_to_39
+20125002,Pedestrian,40_to_64
+20125152,Driver,26_to_39
+20125133,Passenger,0_to_16
+20125062,Driver,17_to_25
+20125062,Passenger,17_to_25
+20125062,Driver,26_to_39
+20125043,Driver,40_to_64
+20125022,Passenger,40_to_64
+20125037,Driver,17_to_25
+20125165,Motorcycle rider,26_to_39
+20125054,Passenger,26_to_39
+20125082,Driver,26_to_39
+20125104,Driver,26_to_39
+20125084,Driver,75_or_older
+20125120,Driver,26_to_39
+20125120,Passenger,26_to_39
+20125166,Driver,26_to_39
+20125009,Driver,40_to_64
+20125082,Driver,26_to_39
+20125039,Motorcycle rider,26_to_39
+20125120,Passenger,26_to_39
+20125132,Driver,40_to_64
+20125163,Driver,26_to_39
+20125114,Driver,40_to_64
+20125095,Driver,40_to_64
+20125092,Passenger,0_to_16
+20125158,Driver,17_to_25
+20125154,Motorcycle rider,26_to_39
+20125101,Motorcycle rider,65_to_74
+20125024,Motorcycle pillion passenger,17_to_25
+20125100,Driver,17_to_25
+20125137,Driver,40_to_64
+20125046,Driver,40_to_64
+20125087,Pedestrian,40_to_64
+20125038,Pedestrian,40_to_64
+20125042,Driver,40_to_64
+20125128,Passenger,0_to_16
+20125018,Driver,26_to_39
+20125018,Passenger,40_to_64
+20125026,Driver,17_to_25
+20125073,Motorcycle rider,17_to_25
+20125014,Passenger,26_to_39
+20125070,Driver,40_to_64
+20125126,Driver,40_to_64
+20125083,Pedestrian,75_or_older
+20125129,Pedestrian,26_to_39
+20125064,Driver,65_to_74
+20125086,Driver,17_to_25
+20125099,Driver,26_to_39
+20125117,Driver,26_to_39
+20125155,Driver,40_to_64
+20125069,Motorcycle rider,40_to_64
+20125143,Passenger,0_to_16
+20125052,Driver,26_to_39
+20125131,Driver,40_to_64
+20125143,Driver,40_to_64
+20125124,Driver,17_to_25
+20125171,Driver,17_to_25
+20125011,Driver,17_to_25
+20125123,Motorcycle rider,40_to_64
+20125017,Pedestrian,75_or_older
+20125139,Pedestrian,65_to_74
+20125023,Driver,26_to_39
+20125161,Driver,17_to_25
+20125141,Driver,26_to_39
+20125006,Driver,40_to_64
+20125006,Passenger,40_to_64
+20125107,Passenger,26_to_39
+20125053,Motorcycle rider,40_to_64
+20125148,Passenger,75_or_older
+20125041,Driver,40_to_64
+20125093,Motorcycle rider,26_to_39
+20125164,Motorcycle rider,26_to_39
+20125112,Motorcycle rider,40_to_64
+20125044,Driver,40_to_64
+20125144,Passenger,65_to_74
+20125144,Driver,65_to_74
+20125045,Pedestrian,65_to_74
+20125060,Pedestrian,75_or_older
+20125147,Driver,40_to_64
+20125034,Passenger,26_to_39
+20125067,Passenger,75_or_older
+20125098,Pedal cyclist,75_or_older
+20125019,Driver,75_or_older
+20125102,Passenger,0_to_16
+20125081,Driver,0_to_16
+20125031,Motorcycle rider,17_to_25
+20125029,Driver,17_to_25
+20125089,Driver,26_to_39
+20125004,Driver,26_to_39
+20125103,Motorcycle rider,26_to_39
+20125118,Driver,40_to_64
+20125135,Pedestrian,40_to_64
+20125113,Pedestrian,40_to_64
+20125140,Pedestrian,17_to_25
+20125075,Motorcycle rider,26_to_39
+20125094,Driver,26_to_39
+20125088,Driver,17_to_25
+20125040,Passenger,40_to_64
+20125027,Driver,40_to_64
+20125110,Driver,17_to_25
+20125162,Driver,26_to_39
+20125077,Passenger,26_to_39
+20125047,Passenger,17_to_25
+20125156,Motorcycle rider,17_to_25
+20125169,Passenger,26_to_39
+20125076,Driver,40_to_64
+20125013,Pedestrian,40_to_64
+20125008,Driver,17_to_25
+20125016,Motorcycle pillion passenger,17_to_25
+20125108,Driver,26_to_39
+20125159,Driver,26_to_39
+20125050,Driver,26_to_39
+20125005,Motorcycle pillion passenger,26_to_39
+20125157,Passenger,40_to_64
+20125030,Pedal cyclist,26_to_39
+20125150,Driver,26_to_39
+20125057,Motorcycle rider,26_to_39
+20125106,Motorcycle rider,17_to_25
+20125058,Driver,26_to_39
+20125055,Motorcycle rider,26_to_39
+20125168,Motorcycle rider,40_to_64
+20125091,Driver,40_to_64
+20125072,Pedestrian,40_to_64
+20125096,Passenger,0_to_16
+20125151,Driver,17_to_25
+20125036,Driver,40_to_64
+20125080,Motorcycle rider,40_to_64
+20125032,Pedal cyclist,65_to_74
+20125127,Driver,26_to_39
+20125134,Passenger,26_to_39
+20125010,Passenger,40_to_64
+20125056,Driver,40_to_64
+20125065,Motorcycle rider,17_to_25
+20125097,Motorcycle rider,26_to_39
+20125122,Motorcycle rider,40_to_64
+20125074,Pedestrian,26_to_39
+20125116,Motorcycle rider,26_to_39
+20125121,Motorcycle rider,40_to_64
+20125145,Pedestrian,40_to_64
+20125146,Pedestrian,0_to_16
+20125003,Motorcycle rider,26_to_39
+20125021,Passenger,26_to_39
+20125035,Passenger,17_to_25
+20125160,Driver,40_to_64
+20125125,Motorcycle rider,0_to_16
+20125078,Driver,65_to_74
+20125136,Pedestrian,75_or_older
+20125111,Passenger,40_to_64
+20125033,Driver,26_to_39
+20125066,Pedestrian,65_to_74
+20115108,Driver,17_to_25
+20115108,Passenger,17_to_25
+20115130,Driver,17_to_25
+20115025,Driver,26_to_39
+20115048,Passenger,17_to_25
+20115158,Driver,75_or_older
+20115132,Driver,17_to_25
+20115132,Passenger,26_to_39
+20115027,Driver,75_or_older
+20115027,Passenger,75_or_older
+20115117,Pedestrian,17_to_25
+20115032,Pedestrian,26_to_39
+20115060,Driver,26_to_39
+20115118,Driver,17_to_25
+20115153,Driver,65_to_74
+20115121,Passenger,26_to_39
+20115077,Motorcycle rider,40_to_64
+20115052,Driver,40_to_64
+20115097,Motorcycle rider,40_to_64
+20115001,Driver,26_to_39
+20115142,Motorcycle rider,17_to_25
+20115134,Motorcycle rider,40_to_64
+20115104,Motorcycle rider,40_to_64
+20115068,Driver,75_or_older
+20115046,Driver,26_to_39
+20115023,Driver,40_to_64
+20115133,Driver,40_to_64
+20115162,Motorcycle rider,40_to_64
+20115131,Passenger,65_to_74
+20115160,Pedestrian,17_to_25
+20115091,Pedestrian,75_or_older
+20115051,Driver,65_to_74
+20115090,Driver,75_or_older
+20115070,Passenger,17_to_25
+20115092,Motorcycle rider,17_to_25
+20115092,Motorcycle rider,17_to_25
+20115038,Driver,26_to_39
+20115137,Motorcycle rider,26_to_39
+20115062,Driver,26_to_39
+20115019,Driver,40_to_64
+20115150,Passenger,0_to_16
+20115005,Driver,17_to_25
+20115041,Driver,26_to_39
+20115049,Motorcycle rider,75_or_older
+20115021,Driver,17_to_25
+20115112,Motorcycle rider,40_to_64
+20115151,Driver,40_to_64
+20115143,Driver,40_to_64
+20115022,Pedestrian,75_or_older
+20115129,Motorcycle rider,40_to_64
+20115054,Passenger,0_to_16
+20115094,Passenger,26_to_39
+20115094,Driver,26_to_39
+20115086,Motorcycle rider,26_to_39
+20115007,Passenger,17_to_25
+20115124,Passenger,75_or_older
+20115076,Driver,75_or_older
+20115016,Driver,75_or_older
+20115006,Motorcycle rider,17_to_25
+20115081,Driver,26_to_39
+20115120,Passenger,26_to_39
+20115115,Driver,40_to_64
+20115008,Driver,40_to_64
+20115075,Driver,65_to_74
+20115024,Pedestrian,40_to_64
+20115095,Pedestrian,0_to_16
+20115165,Passenger,17_to_25
+20115028,Passenger,0_to_16
+20115010,Passenger,26_to_39
+20115010,Passenger,26_to_39
+20115035,Motorcycle rider,17_to_25
+20115102,Driver,17_to_25
+20115102,Passenger,17_to_25
+20115061,Driver,26_to_39
+20115071,Passenger,26_to_39
+20115020,Motorcycle rider,40_to_64
+20115126,Driver,40_to_64
+20115043,Driver,40_to_64
+20115003,Pedestrian,40_to_64
+20115138,Pedestrian,40_to_64
+20115140,Pedestrian,65_to_74
+20115156,Passenger,40_to_64
+20115105,Driver,75_or_older
+20115159,Passenger,0_to_16
+20115099,Driver,17_to_25
+20115033,Driver,17_to_25
+20115014,Driver,26_to_39
+20115082,Pedestrian,40_to_64
+20115114,Driver,65_to_74
+20115067,Driver,17_to_25
+20115013,Driver,26_to_39
+20115103,Driver,40_to_64
+20115057,Motorcycle rider,0_to_16
+20115017,Driver,17_to_25
+20115064,Motorcycle rider,26_to_39
+20115148,Passenger,40_to_64
+20115018,Driver,75_or_older
+20115034,Driver,40_to_64
+20115011,Driver,65_to_74
+20115059,Driver,65_to_74
+20115125,Pedestrian,75_or_older
+20115063,Pedestrian,40_to_64
+20115161,Pedestrian,26_to_39
+20115079,Pedestrian,40_to_64
+20115145,Pedestrian,17_to_25
+20115055,Driver,40_to_64
+20115080,Driver,17_to_25
+20115128,Passenger,17_to_25
+20115119,Driver,17_to_25
+20115096,Driver,17_to_25
+20115073,Passenger,26_to_39
+20115012,Driver,75_or_older
+20115084,Driver,17_to_25
+20115084,Passenger,40_to_64
+20115098,Driver,40_to_64
+20115050,Driver,65_to_74
+20115083,Pedestrian,0_to_16
+20115074,Pedestrian,65_to_74
+20115154,Driver,26_to_39
+20115157,Passenger,17_to_25
+20115122,Motorcycle rider,17_to_25
+20115029,Motorcycle rider,17_to_25
+20115149,Passenger,0_to_16
+20115149,Passenger,26_to_39
+20115042,Passenger,17_to_25
+20115042,Driver,17_to_25
+20115040,Driver,17_to_25
+20115101,Driver,40_to_64
+20115078,Motorcycle rider,40_to_64
+20115072,Driver,26_to_39
+20115047,Pedal cyclist,17_to_25
+20115135,Driver,75_or_older
+20115037,Motorcycle rider,26_to_39
+20115136,Passenger,40_to_64
+20115109,Pedestrian,75_or_older
+20115107,Motorcycle rider,26_to_39
+20115002,Driver,0_to_16
+20115026,Driver,40_to_64
+20115039,Driver,17_to_25
+20115110,Motorcycle rider,26_to_39
+20115045,Passenger,75_or_older
+20115139,Driver,17_to_25
+20115031,Driver,40_to_64
+20115066,Pedal cyclist,40_to_64
+20115166,Driver,65_to_74
+20115088,Pedestrian,17_to_25
+20115015,Pedestrian,40_to_64
+20115146,Pedestrian,17_to_25
+20115058,Driver,40_to_64
+20115030,Driver,17_to_25
+20115093,Motorcycle rider,17_to_25
+20115163,Motorcycle rider,17_to_25
+20115087,Driver,26_to_39
+20115155,Driver,17_to_25
+20115085,Driver,26_to_39
+20115116,Passenger,0_to_16
+20115100,Passenger,26_to_39
+20115009,Motorcycle rider,40_to_64
+20115111,Driver,65_to_74
+20115044,Passenger,0_to_16
+20115141,Passenger,26_to_39
+20115152,Driver,40_to_64
+20115141,Driver,40_to_64
+20115089,Driver,65_to_74
+20115106,Pedestrian,65_to_74
+20115167,Pedestrian,26_to_39
+20115127,Pedestrian,40_to_64
+20115127,Pedestrian,40_to_64
+20115164,Driver,40_to_64
+20115069,Driver,17_to_25
+20115053,Driver,26_to_39
+20115036,Driver,75_or_older
+20115144,Motorcycle rider,40_to_64
+20115113,Passenger,17_to_25
+20115147,Driver,26_to_39
+20115065,Driver,26_to_39
+20115056,Passenger,40_to_64
+20115123,Pedal cyclist,40_to_64
+20115004,Driver,17_to_25
+20105165,Passenger,0_to_16
+20105053,Motorcycle rider,17_to_25
+20105165,Driver,17_to_25
+20105050,Driver,17_to_25
+20105150,Driver,17_to_25
+20105059,Pedal cyclist,26_to_39
+20105073,Passenger,40_to_64
+20105094,Driver,40_to_64
+20105090,Motorcycle rider,40_to_64
+20105131,Driver,17_to_25
+20105089,Passenger,17_to_25
+20105089,Driver,17_to_25
+20105119,Driver,26_to_39
+20105036,Motorcycle rider,17_to_25
+20105027,Driver,26_to_39
+20105143,Passenger,26_to_39
+20105143,Passenger,17_to_25
+20105006,Passenger,0_to_16
+20105006,Driver,26_to_39
+20105152,Driver,26_to_39
+20105167,Passenger,26_to_39
+20105015,Driver,65_to_74
+20105041,Driver,65_to_74
+20105089,Driver,40_to_64
+20105038,Driver,17_to_25
+20105106,Driver,40_to_64
+20105169,Driver,40_to_64
+20105075,Passenger,17_to_25
+20105075,Driver,17_to_25
+20105101,Driver,17_to_25
+20105140,Passenger,26_to_39
+20105116,Motorcycle rider,26_to_39
+20105130,Motorcycle rider,40_to_64
+20105132,Motorcycle rider,40_to_64
+20105140,Driver,26_to_39
+20105138,Motorcycle rider,65_to_74
+20105115,Driver,75_or_older
+20105123,Driver,26_to_39
+20105157,Driver,17_to_25
+20105162,Driver,26_to_39
+20105063,Driver,26_to_39
+20105004,Driver,40_to_64
+20105095,Driver,40_to_64
+20105125,Driver,40_to_64
+20105118,Pedal cyclist,40_to_64
+20105155,Driver,40_to_64
+20105003,Driver,65_to_74
+20105173,Pedestrian,40_to_64
+20105018,Passenger,0_to_16
+20105083,Passenger,17_to_25
+20105159,Motorcycle rider,40_to_64
+20105110,Driver,75_or_older
+20105057,Driver,17_to_25
+20105111,Motorcycle rider,17_to_25
+20105064,Motorcycle rider,26_to_39
+20105016,Motorcycle rider,26_to_39
+20105032,Driver,40_to_64
+20105161,Driver,40_to_64
+20105045,Driver,40_to_64
+20105114,Motorcycle rider,40_to_64
+20105128,Driver,26_to_39
+20105014,Driver,17_to_25
+20105144,Motorcycle rider,17_to_25
+20105080,Driver,40_to_64
+20105009,Driver,40_to_64
+20105174,Passenger,0_to_16
+20105135,Motorcycle rider,26_to_39
+20105176,Driver,40_to_64
+20105026,Motorcycle rider,40_to_64
+20105085,Driver,65_to_74
+20105174,Driver,17_to_25
+20105011,Driver,75_or_older
+20105017,Passenger,75_or_older
+20105001,Motorcycle rider,26_to_39
+20105087,Driver,40_to_64
+20105028,Passenger,40_to_64
+20105145,Driver,26_to_39
+20105082,Driver,65_to_74
+20105002,Passenger,17_to_25
+20105156,Passenger,26_to_39
+20105136,Driver,26_to_39
+20105172,Driver,26_to_39
+20105040,Passenger,17_to_25
+20105084,Motorcycle pillion passenger,0_to_16
+20105105,Driver,17_to_25
+20105084,Driver,26_to_39
+20105124,Driver,40_to_64
+20105158,Motorcycle rider,26_to_39
+20105120,Motorcycle rider,26_to_39
+20105007,Passenger,17_to_25
+20105097,Driver,26_to_39
+20105151,Passenger,26_to_39
+20105171,Passenger,26_to_39
+20105171,Driver,26_to_39
+20105076,Driver,17_to_25
+20105046,Driver,26_to_39
+20105153,Driver,26_to_39
+20105070,Passenger,0_to_16
+20105070,Passenger,0_to_16
+20105109,Passenger,0_to_16
+20105023,Driver,17_to_25
+20105052,Driver,26_to_39
+20105020,Passenger,75_or_older
+20105030,Driver,75_or_older
+20105100,Motorcycle rider,17_to_25
+20105104,Motorcycle rider,26_to_39
+20105163,Driver,40_to_64
+20105092,Passenger,65_to_74
+20105164,Pedestrian,40_to_64
+20105034,Passenger,17_to_25
+20105034,Driver,17_to_25
+20105025,Driver,17_to_25
+20105042,Driver,40_to_64
+20105113,Driver,40_to_64
+20105008,Motorcycle pillion passenger,40_to_64
+20105061,Driver,40_to_64
+20105047,Driver,26_to_39
+20105019,Driver,26_to_39
+20105033,Driver,40_to_64
+20105146,Pedestrian,26_to_39
+20105121,Driver,40_to_64
+20105139,Driver,75_or_older
+20105062,Driver,26_to_39
+20105072,Driver,26_to_39
+20105103,Driver,17_to_25
+20105031,Passenger,17_to_25
+20105093,Driver,26_to_39
+20105035,Driver,40_to_64
+20105051,Motorcycle rider,40_to_64
+20105134,Motorcycle rider,65_to_74
+20105044,Motorcycle rider,26_to_39
+20105049,Passenger,0_to_16
+20105049,Driver,17_to_25
+20105168,Driver,17_to_25
+20105065,Driver,17_to_25
+20105012,Passenger,40_to_64
+20105096,Driver,65_to_74
+20105037,Pedestrian,0_to_16
+20105112,Pedestrian,17_to_25
+20105024,Pedestrian,40_to_64
+20105108,Pedestrian,17_to_25
+20105142,Driver,40_to_64
+20105081,Driver,40_to_64
+20105127,Passenger,17_to_25
+20105054,Motorcycle rider,17_to_25
+20105066,Driver,40_to_64
+20105068,Motorcycle rider,26_to_39
+20105160,Driver,17_to_25
+20105175,Passenger,26_to_39
+20105126,Motorcycle rider,40_to_64
+20105043,Driver,17_to_25
+20105048,Driver,26_to_39
+20105048,Passenger,26_to_39
+20105099,Passenger,26_to_39
+20105099,Driver,26_to_39
+20105091,Motorcycle rider,26_to_39
+20105060,Driver,40_to_64
+20105102,Pedal cyclist,65_to_74
+20105010,Pedestrian,0_to_16
+20105039,Pedestrian,40_to_64
+20105022,Passenger,40_to_64
+20105137,Driver,17_to_25
+20105071,Pedestrian,17_to_25
+20105149,Driver,40_to_64
+20105058,Driver,40_to_64
+20105129,Driver,26_to_39
+20105056,Driver,26_to_39
+20105098,Other,75_or_older
+20105029,Passenger,75_or_older
+20105055,Motorcycle pillion passenger,17_to_25
+20105117,Pedal cyclist,40_to_64
+20105078,Motorcycle rider,40_to_64
+20105086,Passenger,65_to_74
+20105086,Driver,65_to_74
+20105067,Pedestrian,0_to_16
+20105133,Pedestrian,40_to_64
+20105147,Pedestrian,40_to_64
+20105021,Passenger,0_to_16
+20105013,Driver,26_to_39
+20105077,Passenger,75_or_older
+20105170,Motorcycle rider,26_to_39
+20105166,Pedestrian,40_to_64
+20105141,Motorcycle rider,40_to_64
+20105088,Motorcycle rider,40_to_64
+20105074,Driver,40_to_64
+20105122,Driver,75_or_older
+20105107,Driver,17_to_25
+20105122,Passenger,65_to_74
+20105069,Pedestrian,17_to_25
+20105079,Driver,17_to_25
+20105005,Driver,17_to_25
+20105154,Motorcycle rider,40_to_64
+20105148,Driver,40_to_64
+20095079,Driver,26_to_39
+20095069,Passenger,26_to_39
+20095172,Driver,26_to_39
+20095028,Driver,0_to_16
+20095169,Motorcycle rider,26_to_39
+20095113,Driver,26_to_39
+20095070,Driver,40_to_64
+20095018,Driver,65_to_74
+20095067,Passenger,26_to_39
+20095094,Passenger,75_or_older
+20095040,Motorcycle rider,40_to_64
+20095101,Passenger,65_to_74
+20095086,Pedestrian,26_to_39
+20095026,Driver,40_to_64
+20095123,Pedestrian,65_to_74
+20095097,Driver,26_to_39
+20095101,Driver,75_or_older
+20095090,Driver,75_or_older
+20095125,Driver,17_to_25
+20095064,Motorcycle rider,40_to_64
+20095057,Driver,17_to_25
+20095061,Driver,17_to_25
+20095035,Driver,26_to_39
+20095085,Driver,26_to_39
+20095041,Driver,40_to_64
+20095105,Driver,17_to_25
+20095036,Driver,40_to_64
+20095020,Driver,40_to_64
+20095050,Passenger,75_or_older
+20095163,Driver,17_to_25
+20095170,Driver,26_to_39
+20095104,Motorcycle rider,40_to_64
+20095021,Motorcycle rider,40_to_64
+20095111,Driver,40_to_64
+20095044,Pedestrian,65_to_74
+20095127,Driver,17_to_25
+20095092,Driver,40_to_64
+20095056,Driver,40_to_64
+20095149,Driver,40_to_64
+20095164,Passenger,0_to_16
+20095046,Driver,17_to_25
+20095083,Driver,26_to_39
+20095083,Passenger,26_to_39
+20095174,Driver,26_to_39
+20095174,Passenger,40_to_64
+20095107,Passenger,0_to_16
+20095023,Driver,26_to_39
+20095009,Driver,40_to_64
+20095066,Driver,40_to_64
+20095027,Passenger,0_to_16
+20095027,Driver,40_to_64
+20095166,Passenger,0_to_16
+20095146,Passenger,0_to_16
+20095166,Driver,17_to_25
+20095106,Passenger,26_to_39
+20095077,Motorcycle rider,40_to_64
+20095131,Passenger,40_to_64
+20095124,Driver,40_to_64
+20095098,Driver,40_to_64
+20095089,Driver,40_to_64
+20095030,Pedestrian,40_to_64
+20095030,Pedestrian,40_to_64
+20095154,Pedestrian,0_to_16
+20095095,Pedestrian,40_to_64
+20095095,Pedestrian,26_to_39
+20095115,Passenger,0_to_16
+20095048,Motorcycle rider,40_to_64
+20095083,Driver,40_to_64
+20095151,Passenger,65_to_74
+20095147,Driver,65_to_74
+20095110,Driver,65_to_74
+20095167,Motorcycle rider,26_to_39
+20095161,Passenger,17_to_25
+20095158,Driver,17_to_25
+20095060,Driver,26_to_39
+20095062,Driver,65_to_74
+20095136,Driver,40_to_64
+20095082,Pedestrian,17_to_25
+20095082,Pedestrian,17_to_25
+20095025,Driver,17_to_25
+20095099,Pedestrian,40_to_64
+20095074,Motorcycle rider,40_to_64
+20095102,Passenger,65_to_74
+20095054,Motorcycle rider,26_to_39
+20095139,Motorcycle rider,40_to_64
+20095047,Driver,40_to_64
+20095160,Pedestrian,26_to_39
+20095019,Pedestrian,40_to_64
+20095103,Driver,17_to_25
+20095118,Passenger,0_to_16
+20095091,Passenger,0_to_16
+20095156,Passenger,17_to_25
+20095156,Passenger,26_to_39
+20095037,Driver,26_to_39
+20095075,Passenger,0_to_16
+20095012,Passenger,26_to_39
+20095122,Driver,26_to_39
+20095153,Pedestrian,75_or_older
+20095114,Passenger,26_to_39
+20095038,Driver,17_to_25
+20095137,Driver,17_to_25
+20095117,Motorcycle rider,26_to_39
+20095073,Driver,40_to_64
+20095003,Passenger,17_to_25
+20095109,Motorcycle rider,26_to_39
+20095063,Passenger,26_to_39
+20095144,Driver,26_to_39
+20095039,Driver,0_to_16
+20095052,Driver,17_to_25
+20095112,Driver,40_to_64
+20095013,Driver,40_to_64
+20095093,Driver,40_to_64
+20095002,Pedestrian,17_to_25
+20095051,Motorcycle rider,17_to_25
+20095157,Passenger,26_to_39
+20095017,Passenger,17_to_25
+20095017,Driver,17_to_25
+20095053,Driver,17_to_25
+20095152,Driver,17_to_25
+20095135,Passenger,40_to_64
+20095119,Driver,17_to_25
+20095072,Motorcycle rider,26_to_39
+20095005,Driver,26_to_39
+20095145,Motorcycle rider,65_to_74
+20095006,Pedestrian,26_to_39
+20095134,Pedestrian,40_to_64
+20095108,Pedestrian,26_to_39
+20095120,Pedestrian,0_to_16
+20095031,Driver,17_to_25
+20095155,Driver,65_to_74
+20095159,Passenger,17_to_25
+20095055,Driver,26_to_39
+20095065,Motorcycle rider,26_to_39
+20095029,Motorcycle rider,40_to_64
+20095015,Driver,40_to_64
+20095015,Passenger,40_to_64
+20095121,Passenger,75_or_older
+20095121,Passenger,75_or_older
+20095007,Driver,26_to_39
+20095141,Driver,26_to_39
+20095165,Driver,40_to_64
+20095010,Passenger,17_to_25
+20095171,Driver,40_to_64
+20095081,Motorcycle rider,26_to_39
+20095116,Driver,26_to_39
+20095130,Driver,26_to_39
+20095148,Motorcycle rider,17_to_25
+20095045,Passenger,0_to_16
+20095076,Motorcycle rider,17_to_25
+20095022,Motorcycle rider,26_to_39
+20095175,Driver,40_to_64
+20095126,Driver,40_to_64
+20095138,Motorcycle rider,40_to_64
+20095042,Driver,65_to_74
+20095049,Pedestrian,26_to_39
+20095071,Pedestrian,75_or_older
+20095096,Pedestrian,26_to_39
+20095078,Passenger,0_to_16
+20095059,Driver,26_to_39
+20095016,Passenger,17_to_25
+20095024,Driver,17_to_25
+20095004,Motorcycle rider,26_to_39
+20095043,Passenger,26_to_39
+20095140,Motorcycle rider,26_to_39
+20095133,Motorcycle rider,40_to_64
+20095080,Motorcycle rider,40_to_64
+20095011,Driver,26_to_39
+20095162,Motorcycle rider,17_to_25
+20095162,Passenger,17_to_25
+20095088,Driver,17_to_25
+20095150,Motorcycle rider,17_to_25
+20095168,Driver,17_to_25
+20095033,Driver,40_to_64
+20095087,Driver,40_to_64
+20095032,Driver,65_to_74
+20095132,Pedestrian,40_to_64
+20095043,Driver,26_to_39
+20095034,Driver,17_to_25
+20095058,Driver,65_to_74
+20095100,Driver,26_to_39
+20095128,Driver,26_to_39
+20095176,Passenger,40_to_64
+20095008,Passenger,0_to_16
+20095014,Driver,26_to_39
+20095084,Driver,17_to_25
+20095001,Passenger,17_to_25
+20095129,Motorcycle rider,40_to_64
+20095142,Motorcycle rider,40_to_64
+20095173,Pedestrian,17_to_25
+20095068,Pedestrian,17_to_25
+20095143,Passenger,40_to_64
+20085029,Driver,17_to_25
+20085152,Passenger,0_to_16
+20085171,Driver,40_to_64
+20085069,Passenger,0_to_16
+20085093,Motorcycle rider,17_to_25
+20085114,Driver,17_to_25
+20085069,Driver,26_to_39
+20085084,Motorcycle rider,26_to_39
+20085160,Passenger,26_to_39
+20085160,Passenger,26_to_39
+20085155,Motorcycle rider,26_to_39
+20085106,Driver,26_to_39
+20085005,Driver,26_to_39
+20085054,Motorcycle rider,40_to_64
+20085107,Driver,40_to_64
+20085006,Driver,65_to_74
+20085072,Motorcycle rider,17_to_25
+20085050,Driver,26_to_39
+20085022,Driver,40_to_64
+20085127,Driver,17_to_25
+20085061,Pedal cyclist,65_to_74
+20085150,Pedestrian,17_to_25
+20085120,Motorcycle rider,17_to_25
+20085133,Driver,26_to_39
+20085147,Passenger,26_to_39
+20085147,Driver,26_to_39
+20085090,Motorcycle rider,26_to_39
+20085126,Driver,26_to_39
+20085138,Driver,75_or_older
+20085172,Driver,17_to_25
+20085021,Motorcycle rider,17_to_25
+20085143,Passenger,17_to_25
+20085124,Driver,40_to_64
+20085098,Driver,65_to_74
+20085017,Pedal cyclist,0_to_16
+20085002,Driver,17_to_25
+20085115,Driver,26_to_39
+20085039,Passenger,40_to_64
+20085117,Pedestrian,65_to_74
+20085030,Driver,65_to_74
+20085059,Pedestrian,17_to_25
+20085146,Pedestrian,65_to_74
+20085079,Driver,0_to_16
+20085087,Driver,17_to_25
+20085165,Driver,26_to_39
+20085009,Driver,40_to_64
+20085119,Passenger,17_to_25
+20085035,Passenger,17_to_25
+20085035,Driver,17_to_25
+20085121,Motorcycle rider,26_to_39
+20085145,Motorcycle rider,40_to_64
+20085042,Driver,17_to_25
+20085100,Motorcycle rider,65_to_74
+20085182,Driver,26_to_39
+20085033,Passenger,75_or_older
+20085083,Passenger,0_to_16
+20085032,Motorcycle rider,26_to_39
+20085085,Driver,26_to_39
+20085036,Driver,40_to_64
+20085040,Driver,40_to_64
+20085113,Motorcycle rider,26_to_39
+20085092,Driver,17_to_25
+20085156,Driver,40_to_64
+20085101,Passenger,75_or_older
+20085043,Motorcycle rider,17_to_25
+20085161,Motorcycle rider,26_to_39
+20085038,Passenger,40_to_64
+20085166,Motorcycle rider,65_to_74
+20085163,Motorcycle rider,26_to_39
+20085142,Motorcycle rider,26_to_39
+20085096,Driver,17_to_25
+20085031,Motorcycle rider,40_to_64
+20085130,Driver,17_to_25
+20085130,Passenger,17_to_25
+20085130,Passenger,17_to_25
+20085118,Driver,17_to_25
+20085137,Driver,40_to_64
+20085023,Driver,40_to_64
+20085078,Driver,17_to_25
+20085074,Driver,26_to_39
+20085066,Driver,17_to_25
+20085094,Driver,26_to_39
+20085048,Driver,40_to_64
+20085183,Motorcycle rider,40_to_64
+20085041,Passenger,40_to_64
+20085154,Pedestrian,40_to_64
+20085026,Pedestrian,40_to_64
+20085028,Pedestrian,65_to_74
+20085139,Driver,40_to_64
+20085153,Driver,65_to_74
+20085109,Other,17_to_25
+20085110,Motorcycle rider,26_to_39
+20085052,Driver,40_to_64
+20085014,Driver,40_to_64
+20085122,Driver,40_to_64
+20085024,Passenger,75_or_older
+20085105,Passenger,0_to_16
+20085112,Passenger,0_to_16
+20085037,Driver,40_to_64
+20085123,Driver,17_to_25
+20085082,Motorcycle rider,17_to_25
+20085173,Driver,40_to_64
+20085159,Driver,26_to_39
+20085060,Passenger,0_to_16
+20085060,Passenger,0_to_16
+20085108,Driver,17_to_25
+20085091,Passenger,26_to_39
+20085007,Driver,40_to_64
+20085060,Driver,17_to_25
+20085010,Driver,26_to_39
+20085099,Driver,26_to_39
+20085060,Passenger,17_to_25
+20085174,Motorcycle rider,75_or_older
+20085018,Passenger,17_to_25
+20085053,Motorcycle rider,17_to_25
+20085049,Driver,17_to_25
+20085149,Driver,26_to_39
+20085055,Motorcycle rider,40_to_64
+20085149,Driver,40_to_64
+20085157,Pedestrian,75_or_older
+20085185,Pedestrian,26_to_39
+20085128,Pedestrian,40_to_64
+20085075,Driver,17_to_25
+20085091,Passenger,40_to_64
+20085181,Driver,40_to_64
+20085131,Driver,17_to_25
+20085065,Driver,17_to_25
+20085012,Driver,26_to_39
+20085080,Motorcycle rider,17_to_25
+20085020,Motorcycle rider,17_to_25
+20085167,Motorcycle rider,17_to_25
+20085135,Passenger,26_to_39
+20085086,Driver,17_to_25
+20085134,Passenger,40_to_64
+20085134,Driver,65_to_74
+20085177,Driver,75_or_older
+20085067,Pedal cyclist,75_or_older
+20085129,Pedestrian,40_to_64
+20085025,Driver,40_to_64
+20085034,Pedestrian,26_to_39
+20085144,Pedestrian,26_to_39
+20085179,Pedestrian,40_to_64
+20085102,Driver,17_to_25
+20085076,Driver,17_to_25
+20085051,Driver,17_to_25
+20085071,Driver,26_to_39
+20085158,Passenger,0_to_16
+20085175,Driver,17_to_25
+20085175,Passenger,17_to_25
+20085111,Driver,17_to_25
+20085008,Motorcycle rider,40_to_64
+20085058,Driver,75_or_older
+20085178,Driver,40_to_64
+20085019,Driver,65_to_74
+20085151,Pedestrian,0_to_16
+20085045,Driver,26_to_39
+20085140,Passenger,0_to_16
+20085184,Passenger,17_to_25
+20085011,Driver,26_to_39
+20085077,Driver,26_to_39
+20085168,Driver,40_to_64
+20085103,Passenger,0_to_16
+20085140,Passenger,17_to_25
+20085148,Driver,40_to_64
+20085103,Passenger,65_to_74
+20085103,Driver,65_to_74
+20085004,Motorcycle rider,40_to_64
+20085073,Motorcycle rider,40_to_64
+20085013,Driver,26_to_39
+20085125,Motorcycle rider,26_to_39
+20085180,Driver,75_or_older
+20085176,Passenger,0_to_16
+20085176,Driver,17_to_25
+20085170,Motorcycle rider,26_to_39
+20085176,Driver,40_to_64
+20085088,Driver,65_to_74
+20085081,Driver,26_to_39
+20085169,Passenger,0_to_16
+20085136,Driver,26_to_39
+20085162,Driver,40_to_64
+20085097,Passenger,40_to_64
+20085070,Driver,40_to_64
+20085046,Passenger,0_to_16
+20085063,Driver,17_to_25
+20085068,Driver,26_to_39
+20085057,Motorcycle rider,17_to_25
+20085015,Driver,26_to_39
+20085116,Driver,26_to_39
+20085062,Pedestrian,40_to_64
+20085095,Driver,17_to_25
+20085089,Driver,17_to_25
+20085056,Driver,26_to_39
+20085164,Passenger,17_to_25
+20085132,Driver,17_to_25
+20085104,Passenger,40_to_64
+20085044,Passenger,17_to_25
+20085141,Motorcycle rider,17_to_25
+20085027,Passenger,26_to_39
+20085027,Driver,26_to_39
+20085104,Driver,40_to_64
+20085064,Pedestrian,0_to_16
+20085016,Motorcycle rider,40_to_64
+20085003,Pedestrian,26_to_39
+20085047,Passenger,26_to_39
+20085001,Driver,26_to_39
+20075069,Passenger,0_to_16
+20075069,Passenger,26_to_39
+20075014,Motorcycle rider,26_to_39
+20075069,Passenger,26_to_39
+20075071,Passenger,17_to_25
+20075104,Driver,17_to_25
+20075102,Driver,26_to_39
+20075005,Driver,40_to_64
+20075085,Motorcycle rider,17_to_25
+20075044,Motorcycle rider,17_to_25
+20075096,Motorcycle pillion passenger,40_to_64
+20075095,Driver,26_to_39
+20075148,Passenger,0_to_16
+20075156,Driver,17_to_25
+20075211,Passenger,26_to_39
+20075211,Passenger,26_to_39
+20075064,Passenger,26_to_39
+20075105,Driver,40_to_64
+20075200,Driver,40_to_64
+20075113,Pedestrian,40_to_64
+20075177,Pedestrian,17_to_25
+20075101,Driver,26_to_39
+20075048,Motorcycle rider,40_to_64
+20075191,Motorcycle rider,40_to_64
+20075033,Passenger,0_to_16
+20075195,Passenger,40_to_64
+20075116,Passenger,17_to_25
+20075116,Passenger,17_to_25
+20075163,Driver,17_to_25
+20075188,Driver,26_to_39
+20075091,Driver,26_to_39
+20075192,Driver,17_to_25
+20075065,Motorcycle rider,40_to_64
+20075162,Driver,17_to_25
+20075184,Motorcycle rider,26_to_39
+20075058,Motorcycle rider,40_to_64
+20075114,Driver,75_or_older
+20075010,Passenger,75_or_older
+20075019,Passenger,0_to_16
+20075022,Passenger,17_to_25
+20075062,Passenger,17_to_25
+20075193,Pedal cyclist,40_to_64
+20075123,Motorcycle rider,40_to_64
+20075022,Driver,40_to_64
+20075196,Pedestrian,65_to_74
+20075080,Passenger,0_to_16
+20075035,Driver,26_to_39
+20075106,Driver,26_to_39
+20075208,Driver,40_to_64
+20075180,Driver,17_to_25
+20075013,Passenger,17_to_25
+20075150,Passenger,0_to_16
+20075078,Motorcycle rider,26_to_39
+20075142,Driver,17_to_25
+20075143,Motorcycle rider,17_to_25
+20075026,Driver,26_to_39
+20075131,Driver,40_to_64
+20075141,Driver,40_to_64
+20075061,Motorcycle rider,40_to_64
+20075134,Passenger,17_to_25
+20075013,Passenger,17_to_25
+20075054,Passenger,17_to_25
+20075023,Passenger,17_to_25
+20075168,Passenger,26_to_39
+20075212,Driver,26_to_39
+20075045,Passenger,17_to_25
+20075040,Passenger,26_to_39
+20075187,Driver,26_to_39
+20075045,Passenger,40_to_64
+20075039,Driver,40_to_64
+20075070,Motorcycle rider,40_to_64
+20075117,Driver,75_or_older
+20075004,Driver,26_to_39
+20075122,Driver,17_to_25
+20075015,Passenger,17_to_25
+20075015,Passenger,17_to_25
+20075037,Passenger,26_to_39
+20075214,Driver,40_to_64
+20075161,Passenger,40_to_64
+20075161,Driver,65_to_74
+20075097,Pedestrian,17_to_25
+20075155,Motorcycle rider,17_to_25
+20075149,Driver,17_to_25
+20075024,Passenger,40_to_64
+20075024,Driver,40_to_64
+20075098,Driver,26_to_39
+20075093,Driver,26_to_39
+20075202,Driver,40_to_64
+20075042,Driver,40_to_64
+20075181,Motorcycle rider,26_to_39
+20075063,Passenger,75_or_older
+20075145,Driver,75_or_older
+20075145,Passenger,75_or_older
+20075041,Driver,26_to_39
+20075119,Passenger,40_to_64
+20075119,Driver,40_to_64
+20075049,Driver,40_to_64
+20075057,Driver,65_to_74
+20075032,Pedestrian,40_to_64
+20075098,Passenger,17_to_25
+20075098,Passenger,40_to_64
+20075043,Motorcycle pillion passenger,0_to_16
+20075201,Motorcycle rider,26_to_39
+20075068,Driver,26_to_39
+20075018,Passenger,40_to_64
+20075018,Driver,40_to_64
+20075012,Motorcycle rider,0_to_16
+20075152,Driver,26_to_39
+20075073,Driver,75_or_older
+20075025,Passenger,17_to_25
+20075111,Driver,26_to_39
+20075144,Driver,17_to_25
+20075016,Driver,26_to_39
+20075094,Driver,26_to_39
+20075079,Passenger,26_to_39
+20075086,Driver,40_to_64
+20075204,Driver,65_to_74
+20075197,Pedestrian,26_to_39
+20075132,Driver,0_to_16
+20075034,Motorcycle rider,0_to_16
+20075136,Driver,17_to_25
+20075074,Driver,26_to_39
+20075179,Driver,40_to_64
+20075190,Motorcycle rider,26_to_39
+20075030,Driver,26_to_39
+20075036,Driver,40_to_64
+20075209,Driver,26_to_39
+20075052,Passenger,0_to_16
+20075133,Pedestrian,40_to_64
+20075153,Driver,40_to_64
+20075112,Driver,75_or_older
+20075108,Passenger,17_to_25
+20075008,Pedal cyclist,26_to_39
+20075027,Driver,17_to_25
+20075067,Driver,26_to_39
+20075158,Driver,26_to_39
+20075099,Driver,26_to_39
+20075199,Passenger,26_to_39
+20075017,Driver,17_to_25
+20075139,Driver,26_to_39
+20075118,Driver,26_to_39
+20075001,Driver,26_to_39
+20075213,Pedal cyclist,40_to_64
+20075173,Motorcycle rider,40_to_64
+20075173,Motorcycle pillion passenger,40_to_64
+20075129,Driver,40_to_64
+20075170,Pedestrian,17_to_25
+20075050,Driver,26_to_39
+20075050,Passenger,40_to_64
+20075087,Driver,26_to_39
+20075138,Driver,40_to_64
+20075154,Driver,17_to_25
+20075077,Driver,17_to_25
+20075051,Driver,17_to_25
+20075167,Driver,17_to_25
+20075072,Driver,17_to_25
+20075126,Pedestrian,26_to_39
+20075160,Motorcycle rider,40_to_64
+20075002,Pedestrian,26_to_39
+20075076,Pedestrian,75_or_older
+20075127,Driver,40_to_64
+20075183,Driver,17_to_25
+20075206,Driver,17_to_25
+20075178,Driver,26_to_39
+20075205,Driver,26_to_39
+20075082,Motorcycle rider,26_to_39
+20075082,Motorcycle pillion passenger,26_to_39
+20075011,Motorcycle rider,40_to_64
+20075194,Driver,26_to_39
+20075207,Motorcycle rider,26_to_39
+20075060,Driver,17_to_25
+20075186,Driver,26_to_39
+20075166,Driver,40_to_64
+20075109,Motorcycle rider,40_to_64
+20075182,Passenger,17_to_25
+20075151,Driver,17_to_25
+20075157,Driver,26_to_39
+20075055,Driver,40_to_64
+20075020,Driver,40_to_64
+20075009,Driver,40_to_64
+20075203,Driver,40_to_64
+20075120,Driver,65_to_74
+20075172,Passenger,65_to_74
+20075029,Pedestrian,17_to_25
+20075146,Passenger,0_to_16
+20075031,Motorcycle rider,17_to_25
+20075046,Passenger,0_to_16
+20075210,Driver,40_to_64
+20075088,Driver,17_to_25
+20075066,Driver,17_to_25
+20075147,Driver,26_to_39
+20075130,Motorcycle rider,26_to_39
+20075081,Driver,26_to_39
+20075175,Pedal cyclist,26_to_39
+20075107,Driver,26_to_39
+20075038,Driver,40_to_64
+20075059,Passenger,26_to_39
+20075110,Driver,40_to_64
+20075092,Pedestrian,26_to_39
+20075007,Pedestrian,75_or_older
+20075198,Pedestrian,75_or_older
+20075137,Pedestrian,40_to_64
+20075169,Driver,40_to_64
+20075128,Motorcycle rider,17_to_25
+20075174,Motorcycle rider,26_to_39
+20075100,Passenger,26_to_39
+20075089,Driver,40_to_64
+20075164,Driver,40_to_64
+20075171,Motorcycle rider,26_to_39
+20075121,Driver,26_to_39
+20075189,Driver,40_to_64
+20075125,Passenger,75_or_older
+20075021,Passenger,0_to_16
+20075176,Driver,17_to_25
+20075003,Driver,40_to_64
+20075159,Passenger,75_or_older
+20075159,Driver,75_or_older
+20075006,Passenger,17_to_25
+20075084,Motorcycle rider,26_to_39
+20075185,Passenger,26_to_39
+20075006,Passenger,26_to_39
+20075047,Passenger,26_to_39
+20075124,Motorcycle rider,26_to_39
+20075053,Driver,26_to_39
+20075103,Passenger,40_to_64
+20075075,Driver,40_to_64
+20075140,Motorcycle rider,40_to_64
+20075165,Passenger,65_to_74
+20075047,Passenger,65_to_74
+20075135,Pedestrian,40_to_64
+20075090,Pedestrian,17_to_25
+20075056,Pedestrian,75_or_older
+20075115,Pedestrian,0_to_16
+20075083,Driver,26_to_39
+20075028,Passenger,0_to_16
+20065132,Motorcycle rider,17_to_25
+20065049,Driver,17_to_25
+20065105,Motorcycle rider,26_to_39
+20065008,Pedal cyclist,40_to_64
+20065058,Motorcycle rider,40_to_64
+20065010,Passenger,17_to_25
+20065128,Driver,17_to_25
+20065138,Driver,17_to_25
+20065136,Motorcycle rider,17_to_25
+20065065,Passenger,26_to_39
+20065083,Driver,26_to_39
+20065069,Passenger,40_to_64
+20065010,Passenger,0_to_16
+20065139,Motorcycle rider,26_to_39
+20065120,Driver,17_to_25
+20065156,Passenger,26_to_39
+20065028,Driver,40_to_64
+20065048,Passenger,40_to_64
+20065045,Driver,40_to_64
+20065067,Driver,40_to_64
+20065112,Driver,40_to_64
+20065060,Driver,40_to_64
+20065104,Motorcycle rider,17_to_25
+20065050,Driver,17_to_25
+20065034,Driver,17_to_25
+20065164,Driver,26_to_39
+20065110,Driver,40_to_64
+20065005,Passenger,17_to_25
+20065114,Driver,40_to_64
+20065166,Driver,75_or_older
+20065090,Driver,75_or_older
+20065173,Driver,75_or_older
+20065047,Passenger,17_to_25
+20065076,Driver,17_to_25
+20065147,Driver,40_to_64
+20065032,Driver,65_to_74
+20065024,Pedestrian,75_or_older
+20065109,Pedestrian,26_to_39
+20065094,Driver,26_to_39
+20065088,Driver,17_to_25
+20065115,Driver,17_to_25
+20065093,Passenger,26_to_39
+20065127,Motorcycle rider,26_to_39
+20065019,Driver,26_to_39
+20065077,Passenger,26_to_39
+20065129,Driver,17_to_25
+20065124,Motorcycle rider,17_to_25
+20065148,Driver,40_to_64
+20065031,Driver,75_or_older
+20065154,Passenger,17_to_25
+20065001,Driver,17_to_25
+20065066,Driver,40_to_64
+20065079,Pedestrian,0_to_16
+20065044,Passenger,65_to_74
+20065122,Passenger,75_or_older
+20065095,Driver,17_to_25
+20065030,Motorcycle rider,17_to_25
+20065137,Driver,17_to_25
+20065027,Motorcycle rider,26_to_39
+20065108,Passenger,17_to_25
+20065074,Motorcycle rider,17_to_25
+20065063,Passenger,17_to_25
+20065152,Driver,26_to_39
+20065113,Motorcycle rider,40_to_64
+20065149,Motorcycle rider,40_to_64
+20065149,Motorcycle pillion passenger,40_to_64
+20065082,Motorcycle rider,26_to_39
+20065084,Driver,40_to_64
+20065142,Motorcycle rider,40_to_64
+20065072,Passenger,40_to_64
+20065054,Driver,65_to_74
+20065159,Passenger,0_to_16
+20065133,Driver,17_to_25
+20065056,Driver,17_to_25
+20065096,Passenger,0_to_16
+20065092,Driver,17_to_25
+20065141,Passenger,26_to_39
+20065089,Passenger,17_to_25
+20065023,Driver,26_to_39
+20065073,Driver,26_to_39
+20065057,Driver,17_to_25
+20065003,Motorcycle rider,17_to_25
+20065052,Driver,40_to_64
+20065153,Driver,40_to_64
+20065080,Pedestrian,17_to_25
+20065170,Pedestrian,26_to_39
+20065002,Pedestrian,40_to_64
+20065107,Pedestrian,65_to_74
+20065097,Pedestrian,75_or_older
+20065070,Driver,17_to_25
+20065176,Motorcycle rider,40_to_64
+20065155,Driver,17_to_25
+20065021,Passenger,17_to_25
+20065100,Passenger,26_to_39
+20065029,Driver,17_to_25
+20065029,Passenger,17_to_25
+20065162,Pedal cyclist,65_to_74
+20065100,Passenger,40_to_64
+20065168,Driver,17_to_25
+20065168,Passenger,17_to_25
+20065143,Driver,40_to_64
+20065020,Driver,40_to_64
+20065020,Passenger,40_to_64
+20065022,Passenger,65_to_74
+20065022,Driver,65_to_74
+20065172,Pedestrian,75_or_older
+20065043,Pedestrian,40_to_64
+20065169,Driver,17_to_25
+20065007,Driver,26_to_39
+20065026,Motorcycle pillion passenger,17_to_25
+20065081,Passenger,26_to_39
+20065134,Driver,26_to_39
+20065009,Passenger,40_to_64
+20065018,Passenger,40_to_64
+20065081,Passenger,40_to_64
+20065178,Motorcycle rider,40_to_64
+20065087,Motorcycle rider,40_to_64
+20065160,Driver,40_to_64
+20065140,Pedestrian,26_to_39
+20065033,Pedestrian,26_to_39
+20065004,Pedestrian,17_to_25
+20065059,Motorcycle rider,17_to_25
+20065064,Driver,26_to_39
+20065026,Motorcycle rider,0_to_16
+20065161,Passenger,17_to_25
+20065150,Driver,26_to_39
+20065006,Driver,40_to_64
+20065118,Passenger,17_to_25
+20065151,Driver,17_to_25
+20065145,Motorcycle pillion passenger,26_to_39
+20065145,Motorcycle rider,26_to_39
+20065099,Driver,75_or_older
+20065106,Driver,40_to_64
+20065091,Driver,17_to_25
+20065055,Driver,26_to_39
+20065175,Driver,40_to_64
+20065036,Driver,65_to_74
+20065017,Pedestrian,75_or_older
+20065130,Driver,26_to_39
+20065135,Driver,17_to_25
+20065181,Driver,17_to_25
+20065117,Passenger,17_to_25
+20065117,Passenger,17_to_25
+20065037,Driver,17_to_25
+20065085,Driver,17_to_25
+20065051,Passenger,17_to_25
+20065025,Driver,26_to_39
+20065177,Pedestrian,40_to_64
+20065035,Pedestrian,75_or_older
+20065117,Driver,40_to_64
+20065011,Motorcycle rider,26_to_39
+20065116,Driver,17_to_25
+20065121,Motorcycle rider,26_to_39
+20065039,Driver,17_to_25
+20065098,Passenger,17_to_25
+20065125,Driver,26_to_39
+20065041,Passenger,40_to_64
+20065102,Driver,40_to_64
+20065125,Driver,40_to_64
+20065179,Pedestrian,0_to_16
+20065086,Pedestrian,65_to_74
+20065103,Passenger,0_to_16
+20065068,Driver,26_to_39
+20065013,Driver,26_to_39
+20065119,Motorcycle rider,17_to_25
+20065126,Motorcycle rider,17_to_25
+20065180,Passenger,26_to_39
+20065180,Passenger,40_to_64
+20065158,Passenger,17_to_25
+20065078,Passenger,0_to_16
+20065157,Driver,17_to_25
+20065078,Driver,17_to_25
+20065046,Driver,40_to_64
+20065040,Passenger,40_to_64
+20065163,Driver,17_to_25
+20065165,Passenger,17_to_25
+20065101,Driver,26_to_39
+20065146,Driver,26_to_39
+20065165,Passenger,26_to_39
+20065062,Motorcycle rider,40_to_64
+20065144,Passenger,17_to_25
+20065144,Driver,17_to_25
+20065016,Motorcycle rider,40_to_64
+20065167,Passenger,40_to_64
+20065071,Passenger,40_to_64
+20065015,Passenger,40_to_64
+20065075,Passenger,0_to_16
+20065061,Driver,40_to_64
+20065038,Driver,40_to_64
+20065038,Passenger,40_to_64
+20065174,Driver,40_to_64
+20065123,Pedestrian,17_to_25
+20065131,Pedestrian,26_to_39
+20065012,Pedestrian,75_or_older
+20065053,Pedestrian,17_to_25
+20065014,Pedal cyclist,0_to_16
+20065042,Driver,40_to_64
+20065144,Driver,65_to_74
+20065111,Driver,40_to_64
+20065171,Driver,26_to_39
+20055025,Driver,26_to_39
+20055143,Motorcycle rider,17_to_25
+20055070,Motorcycle pillion passenger,17_to_25
+20055070,Motorcycle rider,17_to_25
+20055110,Motorcycle rider,26_to_39
+20055010,Motorcycle rider,17_to_25
+20055058,Driver,26_to_39
+20055068,Passenger,40_to_64
+20055021,Driver,40_to_64
+20055086,Motorcycle rider,17_to_25
+20055112,Pedestrian,75_or_older
+20055008,Driver,26_to_39
+20055057,Passenger,40_to_64
+20055018,Driver,40_to_64
+20055035,Pedestrian,26_to_39
+20055121,Pedestrian,75_or_older
+20055079,Passenger,40_to_64
+20055063,Passenger,17_to_25
+20055063,Passenger,17_to_25
+20055138,Motorcycle rider,17_to_25
+20055011,Driver,26_to_39
+20055101,Driver,26_to_39
+20055097,Driver,75_or_older
+20055031,Pedal cyclist,75_or_older
+20055140,Driver,26_to_39
+20055036,Driver,65_to_74
+20055009,Pedestrian,17_to_25
+20055045,Passenger,40_to_64
+20055081,Driver,26_to_39
+20055137,Driver,40_to_64
+20055005,Driver,26_to_39
+20055088,Driver,75_or_older
+20055126,Motorcycle rider,17_to_25
+20055134,Passenger,17_to_25
+20055033,Driver,17_to_25
+20055142,Motorcycle rider,26_to_39
+20055064,Driver,40_to_64
+20055125,Passenger,0_to_16
+20055030,Motorcycle rider,17_to_25
+20055106,Driver,17_to_25
+20055133,Driver,26_to_39
+20055100,Driver,26_to_39
+20055119,Pedal cyclist,0_to_16
+20055120,Driver,17_to_25
+20055023,Passenger,65_to_74
+20055127,Passenger,0_to_16
+20055017,Driver,17_to_25
+20055007,Driver,17_to_25
+20055125,Driver,26_to_39
+20055125,Driver,26_to_39
+20055044,Driver,40_to_64
+20055065,Pedal cyclist,65_to_74
+20055144,Driver,65_to_74
+20055083,Pedestrian,40_to_64
+20055104,Driver,17_to_25
+20055039,Driver,17_to_25
+20055052,Driver,17_to_25
+20055061,Motorcycle rider,26_to_39
+20055098,Passenger,26_to_39
+20055151,Motorcycle pillion passenger,17_to_25
+20055013,Driver,26_to_39
+20055135,Passenger,40_to_64
+20055028,Driver,40_to_64
+20055073,Passenger,75_or_older
+20055040,Driver,26_to_39
+20055072,Passenger,17_to_25
+20055072,Driver,17_to_25
+20055132,Driver,26_to_39
+20055012,Driver,26_to_39
+20055012,Passenger,26_to_39
+20055026,Passenger,65_to_74
+20055046,Pedestrian,0_to_16
+20055090,Pedestrian,40_to_64
+20055099,Pedestrian,26_to_39
+20055034,Passenger,17_to_25
+20055050,Passenger,17_to_25
+20055029,Driver,40_to_64
+20055022,Driver,26_to_39
+20055075,Driver,17_to_25
+20055122,Driver,26_to_39
+20055109,Driver,17_to_25
+20055145,Driver,17_to_25
+20055118,Driver,40_to_64
+20055048,Pedestrian,40_to_64
+20055043,Driver,17_to_25
+20055001,Driver,26_to_39
+20055015,Passenger,0_to_16
+20055092,Driver,17_to_25
+20055089,Motorcycle rider,40_to_64
+20055102,Driver,40_to_64
+20055147,Pedestrian,26_to_39
+20055103,Driver,17_to_25
+20055087,Driver,17_to_25
+20055095,Driver,26_to_39
+20055136,Motorcycle rider,26_to_39
+20055131,Driver,26_to_39
+20055128,Driver,26_to_39
+20055020,Driver,40_to_64
+20055116,Passenger,65_to_74
+20055116,Driver,65_to_74
+20055038,Passenger,17_to_25
+20055027,Driver,65_to_74
+20055078,Driver,75_or_older
+20055060,Driver,26_to_39
+20055053,Driver,26_to_39
+20055130,Driver,40_to_64
+20055084,Passenger,40_to_64
+20055148,Driver,17_to_25
+20055107,Motorcycle rider,17_to_25
+20055019,Driver,17_to_25
+20055129,Driver,26_to_39
+20055139,Driver,26_to_39
+20055096,Driver,40_to_64
+20055108,Driver,40_to_64
+20055071,Pedestrian,40_to_64
+20055105,Pedestrian,75_or_older
+20055150,Pedestrian,40_to_64
+20055093,Motorcycle rider,40_to_64
+20055041,Driver,75_or_older
+20055041,Passenger,75_or_older
+20055066,Passenger,0_to_16
+20055074,Driver,17_to_25
+20055055,Passenger,17_to_25
+20055002,Driver,26_to_39
+20055054,Driver,26_to_39
+20055149,Motorcycle rider,17_to_25
+20055124,Passenger,17_to_25
+20055111,Driver,40_to_64
+20055047,Pedal cyclist,0_to_16
+20055042,Driver,40_to_64
+20055051,Driver,75_or_older
+20055032,Driver,26_to_39
+20055024,Driver,40_to_64
+20055049,Driver,40_to_64
+20055004,Pedal cyclist,65_to_74
+20055082,Driver,17_to_25
+20055014,Driver,17_to_25
+20055113,Driver,17_to_25
+20055080,Driver,17_to_25
+20055080,Passenger,17_to_25
+20055141,Passenger,40_to_64
+20055117,Passenger,17_to_25
+20055006,Motorcycle rider,26_to_39
+20055067,Passenger,0_to_16
+20055067,Driver,26_to_39
+20055037,Passenger,75_or_older
+20055146,Passenger,40_to_64
+20055003,Pedestrian,40_to_64
+20055085,Driver,40_to_64
+20055091,Driver,17_to_25
+20055091,Passenger,26_to_39
+20055016,Driver,26_to_39
+20055114,Driver,40_to_64
+20055094,Motorcycle rider,40_to_64
+20055069,Motorcycle rider,26_to_39
+20055059,Driver,26_to_39
+20055115,Passenger,0_to_16
+20055056,Passenger,17_to_25
+20055123,Driver,40_to_64
+20055062,Driver,40_to_64
+20055077,Pedestrian,17_to_25
+20055069,Motorcycle pillion passenger,17_to_25
+20055076,Pedestrian,75_or_older
+20045155,Passenger,17_to_25
+20045155,Driver,17_to_25
+20045006,Driver,17_to_25
+20045050,Driver,26_to_39
+20045050,Passenger,26_to_39
+20045141,Driver,0_to_16
+20045081,Driver,26_to_39
+20045156,Driver,17_to_25
+20045067,Driver,75_or_older
+20045101,Pedal cyclist,0_to_16
+20045044,Passenger,17_to_25
+20045056,Driver,17_to_25
+20045028,Driver,26_to_39
+20045043,Pedal cyclist,40_to_64
+20045045,Pedestrian,26_to_39
+20045129,Pedestrian,0_to_16
+20045063,Driver,17_to_25
+20045066,Driver,17_to_25
+20045083,Passenger,40_to_64
+20045108,Motorcycle pillion passenger,17_to_25
+20045005,Motorcycle rider,17_to_25
+20045017,Driver,17_to_25
+20045087,Driver,26_to_39
+20045154,Motorcycle rider,26_to_39
+20045033,Driver,40_to_64
+20045076,Pedestrian,17_to_25
+20045107,Pedestrian,26_to_39
+20045095,Passenger,40_to_64
+20045160,Driver,26_to_39
+20045014,Passenger,17_to_25
+20045001,Pedal cyclist,40_to_64
+20045148,Driver,40_to_64
+20045148,Passenger,40_to_64
+20045003,Driver,40_to_64
+20045093,Passenger,40_to_64
+20045051,Motorcycle rider,0_to_16
+20045096,Pedestrian,40_to_64
+20045094,Pedestrian,75_or_older
+20045111,Pedestrian,17_to_25
+20045130,Pedestrian,40_to_64
+20045132,Driver,75_or_older
+20045075,Driver,65_to_74
+20045117,Passenger,0_to_16
+20045042,Passenger,0_to_16
+20045040,Driver,26_to_39
+20045117,Passenger,17_to_25
+20045117,Driver,17_to_25
+20045070,Driver,40_to_64
+20045089,Driver,17_to_25
+20045060,Driver,26_to_39
+20045012,Driver,40_to_64
+20045069,Driver,75_or_older
+20045112,Driver,40_to_64
+20045084,Driver,40_to_64
+20045053,Passenger,40_to_64
+20045077,Passenger,65_to_74
+20045021,Pedestrian,17_to_25
+20045117,Passenger,40_to_64
+20045042,Passenger,40_to_64
+20045042,Driver,40_to_64
+20045042,Passenger,40_to_64
+20045042,Passenger,40_to_64
+20045099,Driver,26_to_39
+20045004,Driver,17_to_25
+20045145,Passenger,17_to_25
+20045032,Passenger,17_to_25
+20045038,Motorcycle rider,17_to_25
+20045119,Driver,17_to_25
+20045073,Motorcycle rider,0_to_16
+20045109,Driver,26_to_39
+20045161,Driver,40_to_64
+20045124,Pedestrian,75_or_older
+20045115,Pedestrian,17_to_25
+20045022,Pedestrian,26_to_39
+20045079,Pedestrian,26_to_39
+20045020,Driver,40_to_64
+20045135,Driver,65_to_74
+20045034,Passenger,17_to_25
+20045146,Driver,26_to_39
+20045126,Driver,17_to_25
+20045031,Driver,17_to_25
+20045078,Passenger,17_to_25
+20045023,Driver,40_to_64
+20045092,Driver,40_to_64
+20045114,Passenger,17_to_25
+20045140,Passenger,17_to_25
+20045057,Motorcycle rider,17_to_25
+20045088,Driver,26_to_39
+20045046,Driver,40_to_64
+20045035,Pedestrian,26_to_39
+20045052,Pedestrian,40_to_64
+20045150,Pedestrian,26_to_39
+20045116,Driver,17_to_25
+20045114,Passenger,17_to_25
+20045122,Passenger,65_to_74
+20045025,Passenger,17_to_25
+20045011,Passenger,40_to_64
+20045047,Motorcycle pillion passenger,17_to_25
+20045016,Driver,17_to_25
+20045049,Motorcycle rider,0_to_16
+20045037,Motorcycle rider,26_to_39
+20045024,Passenger,17_to_25
+20045158,Pedestrian,40_to_64
+20045138,Passenger,17_to_25
+20045024,Passenger,0_to_16
+20045082,Driver,26_to_39
+20045142,Driver,75_or_older
+20045085,Driver,26_to_39
+20045118,Driver,26_to_39
+20045027,Driver,26_to_39
+20045134,Motorcycle rider,26_to_39
+20045157,Passenger,75_or_older
+20045147,Driver,40_to_64
+20045102,Passenger,0_to_16
+20045064,Driver,17_to_25
+20045054,Driver,17_to_25
+20045128,Driver,26_to_39
+20045013,Driver,40_to_64
+20045091,Driver,26_to_39
+20045103,Driver,17_to_25
+20045105,Passenger,26_to_39
+20045065,Motorcycle rider,40_to_64
+20045010,Motorcycle rider,17_to_25
+20045059,Driver,65_to_74
+20045139,Passenger,0_to_16
+20045139,Passenger,0_to_16
+20045139,Driver,26_to_39
+20045098,Driver,40_to_64
+20045039,Driver,65_to_74
+20045041,Pedestrian,40_to_64
+20045055,Pedestrian,0_to_16
+20045149,Pedestrian,0_to_16
+20045048,Pedestrian,26_to_39
+20045162,Driver,17_to_25
+20045080,Motorcycle rider,17_to_25
+20045153,Driver,40_to_64
+20045086,Driver,26_to_39
+20045159,Driver,75_or_older
+20045137,Passenger,17_to_25
+20045100,Driver,17_to_25
+20045100,Passenger,17_to_25
+20045110,Pedestrian,26_to_39
+20045072,Driver,26_to_39
+20045123,Driver,40_to_64
+20045007,Driver,65_to_74
+20045071,Pedestrian,26_to_39
+20045009,Motorcycle rider,0_to_16
+20045036,Passenger,0_to_16
+20045019,Driver,17_to_25
+20045008,Driver,17_to_25
+20045127,Motorcycle rider,17_to_25
+20045018,Motorcycle rider,26_to_39
+20045015,Passenger,17_to_25
+20045133,Driver,17_to_25
+20045062,Motorcycle rider,26_to_39
+20045136,Motorcycle rider,26_to_39
+20045113,Driver,40_to_64
+20045030,Motorcycle rider,26_to_39
+20045026,Driver,40_to_64
+20045029,Pedestrian,75_or_older
+20045131,Pedestrian,65_to_74
+20045151,Driver,17_to_25
+20045074,Motorcycle rider,26_to_39
+20045104,Driver,26_to_39
+20045143,Driver,26_to_39
+20045068,Motorcycle rider,26_to_39
+20045058,Driver,17_to_25
+20045061,Driver,17_to_25
+20045125,Driver,26_to_39
+20045152,Driver,40_to_64
+20045097,Passenger,40_to_64
+20045106,Driver,65_to_74
+20045120,Passenger,17_to_25
+20045120,Driver,17_to_25
+20045090,Driver,26_to_39
+20045002,Driver,40_to_64
+20045144,Pedestrian,40_to_64
+20045121,Passenger,40_to_64
+20035120,Motorcycle rider,17_to_25
+20035119,Driver,17_to_25
+20035135,Driver,40_to_64
+20035110,Driver,17_to_25
+20035138,Driver,17_to_25
+20035067,Driver,17_to_25
+20035110,Driver,26_to_39
+20035110,Passenger,26_to_39
+20035070,Driver,26_to_39
+20035060,Passenger,26_to_39
+20035060,Passenger,40_to_64
+20035146,Motorcycle rider,40_to_64
+20035113,Driver,0_to_16
+20035069,Passenger,40_to_64
+20035069,Driver,40_to_64
+20035109,Passenger,0_to_16
+20035140,Driver,17_to_25
+20035039,Driver,75_or_older
+20035140,Passenger,0_to_16
+20035136,Motorcycle rider,26_to_39
+20035038,Driver,40_to_64
+20035147,Driver,40_to_64
+20035014,Driver,65_to_74
+20035039,Passenger,65_to_74
+20035035,Driver,26_to_39
+20035082,Motorcycle rider,26_to_39
+20035048,Driver,17_to_25
+20035044,Driver,26_to_39
+20035014,Passenger,0_to_16
+20035024,Driver,17_to_25
+20035019,Motorcycle rider,26_to_39
+20035011,Passenger,0_to_16
+20035011,Passenger,0_to_16
+20035055,Passenger,0_to_16
+20035055,Passenger,0_to_16
+20035145,Motorcycle rider,40_to_64
+20035141,Driver,40_to_64
+20035030,Driver,65_to_74
+20035041,Driver,40_to_64
+20035029,Passenger,75_or_older
+20035101,Driver,17_to_25
+20035046,Passenger,17_to_25
+20035150,Driver,26_to_39
+20035132,Driver,40_to_64
+20035126,Motorcycle rider,40_to_64
+20035126,Motorcycle pillion passenger,40_to_64
+20035118,Pedestrian,17_to_25
+20035148,Motorcycle rider,26_to_39
+20035112,Passenger,17_to_25
+20035112,Passenger,17_to_25
+20035151,Driver,17_to_25
+20035151,Passenger,17_to_25
+20035050,Driver,17_to_25
+20035066,Driver,17_to_25
+20035034,Driver,17_to_25
+20035097,Driver,40_to_64
+20035008,Passenger,40_to_64
+20035062,Passenger,65_to_74
+20035080,Driver,65_to_74
+20035043,Passenger,65_to_74
+20035043,Driver,65_to_74
+20035077,Pedestrian,26_to_39
+20035092,Motorcycle rider,26_to_39
+20035012,Driver,0_to_16
+20035031,Passenger,0_to_16
+20035130,Passenger,17_to_25
+20035099,Passenger,17_to_25
+20035079,Driver,26_to_39
+20035105,Passenger,0_to_16
+20035117,Passenger,17_to_25
+20035006,Pedal cyclist,0_to_16
+20035107,Passenger,0_to_16
+20035010,Driver,26_to_39
+20035061,Driver,17_to_25
+20035075,Motorcycle rider,17_to_25
+20035068,Passenger,40_to_64
+20035001,Driver,17_to_25
+20035020,Driver,0_to_16
+20035020,Driver,17_to_25
+20035153,Passenger,17_to_25
+20035056,Passenger,40_to_64
+20035083,Pedestrian,75_or_older
+20035125,Pedestrian,65_to_74
+20035073,Driver,17_to_25
+20035022,Driver,75_or_older
+20035025,Driver,26_to_39
+20035025,Passenger,26_to_39
+20035116,Passenger,26_to_39
+20035058,Driver,17_to_25
+20035111,Driver,26_to_39
+20035095,Passenger,26_to_39
+20035064,Driver,26_to_39
+20035091,Motorcycle rider,26_to_39
+20035108,Driver,40_to_64
+20035131,Driver,40_to_64
+20035104,Driver,40_to_64
+20035114,Pedestrian,40_to_64
+20035004,Passenger,75_or_older
+20035047,Passenger,17_to_25
+20035033,Driver,26_to_39
+20035049,Driver,17_to_25
+20035106,Passenger,0_to_16
+20035087,Driver,17_to_25
+20035086,Driver,26_to_39
+20035081,Driver,17_to_25
+20035154,Driver,40_to_64
+20035134,Passenger,40_to_64
+20035122,Pedestrian,26_to_39
+20035121,Driver,40_to_64
+20035052,Passenger,17_to_25
+20035088,Driver,17_to_25
+20035076,Passenger,17_to_25
+20035045,Driver,17_to_25
+20035026,Driver,17_to_25
+20035028,Motorcycle rider,26_to_39
+20035076,Driver,26_to_39
+20035139,Passenger,26_to_39
+20035013,Motorcycle rider,40_to_64
+20035027,Driver,75_or_older
+20035027,Passenger,75_or_older
+20035009,Driver,75_or_older
+20035032,Driver,0_to_16
+20035128,Passenger,17_to_25
+20035128,Driver,17_to_25
+20035051,Driver,40_to_64
+20035005,Driver,40_to_64
+20035144,Pedestrian,65_to_74
+20035054,Pedestrian,40_to_64
+20035017,Pedestrian,40_to_64
+20035026,Driver,40_to_64
+20035124,Driver,26_to_39
+20035072,Driver,0_to_16
+20035096,Driver,17_to_25
+20035093,Motorcycle rider,17_to_25
+20035085,Passenger,75_or_older
+20035037,Driver,17_to_25
+20035065,Driver,17_to_25
+20035007,Driver,17_to_25
+20035100,Motorcycle rider,17_to_25
+20035149,Passenger,17_to_25
+20035042,Motorcycle rider,17_to_25
+20035084,Driver,26_to_39
+20035103,Passenger,26_to_39
+20035152,Passenger,40_to_64
+20035016,Driver,65_to_74
+20035015,Pedestrian,17_to_25
+20035094,Pedestrian,75_or_older
+20035137,Pedestrian,0_to_16
+20035036,Pedestrian,26_to_39
+20035018,Driver,17_to_25
+20035102,Motorcycle pillion passenger,17_to_25
+20035018,Passenger,17_to_25
+20035040,Driver,40_to_64
+20035040,Passenger,40_to_64
+20035155,Passenger,0_to_16
+20035155,Passenger,0_to_16
+20035021,Pedestrian,26_to_39
+20035098,Driver,65_to_74
+20035059,Pedestrian,26_to_39
+20035102,Motorcycle rider,40_to_64
+20035089,Driver,40_to_64
+20035057,Passenger,17_to_25
+20035057,Driver,17_to_25
+20035123,Passenger,17_to_25
+20035078,Driver,40_to_64
+20035129,Motorcycle rider,40_to_64
+20035142,Passenger,26_to_39
+20035071,Passenger,26_to_39
+20035071,Driver,26_to_39
+20035063,Driver,75_or_older
+20035023,Driver,17_to_25
+20035143,Motorcycle rider,40_to_64
+20035115,Driver,40_to_64
+20035003,Driver,17_to_25
+20035053,Pedestrian,65_to_74
+20035090,Pedestrian,75_or_older
+20035127,Pedestrian,0_to_16
+20035002,Motorcycle rider,26_to_39
+20035074,Motorcycle rider,40_to_64
+20035133,Driver,75_or_older
+20025081,Passenger,17_to_25
+20025081,Driver,17_to_25
+20025078,Driver,17_to_25
+20025039,Passenger,26_to_39
+20025109,Pedal cyclist,75_or_older
+20025061,Motorcycle rider,26_to_39
+20025106,Passenger,40_to_64
+20025151,Driver,40_to_64
+20025046,Driver,40_to_64
+20025114,Pedestrian,26_to_39
+20025077,Motorcycle rider,26_to_39
+20025107,Driver,26_to_39
+20025007,Motorcycle rider,40_to_64
+20025025,Passenger,0_to_16
+20025066,Pedal cyclist,0_to_16
+20025030,Passenger,17_to_25
+20025030,Passenger,17_to_25
+20025015,Driver,40_to_64
+20025114,Pedestrian,40_to_64
+20025069,Driver,40_to_64
+20025097,Driver,40_to_64
+20025073,Pedestrian,40_to_64
+20025108,Pedestrian,40_to_64
+20025110,Driver,26_to_39
+20025110,Passenger,26_to_39
+20025028,Driver,26_to_39
+20025042,Motorcycle rider,0_to_16
+20025119,Driver,40_to_64
+20025140,Passenger,40_to_64
+20025065,Driver,17_to_25
+20025142,Passenger,17_to_25
+20025142,Passenger,17_to_25
+20025158,Driver,26_to_39
+20025016,Driver,40_to_64
+20025141,Driver,40_to_64
+20025027,Driver,40_to_64
+20025126,Driver,65_to_74
+20025127,Pedal cyclist,65_to_74
+20025010,Pedestrian,75_or_older
+20025149,Driver,75_or_older
+20025091,Passenger,75_or_older
+20025131,Driver,17_to_25
+20025100,Pedal cyclist,0_to_16
+20025102,Driver,26_to_39
+20025105,Driver,17_to_25
+20025014,Passenger,17_to_25
+20025132,Driver,26_to_39
+20025153,Driver,40_to_64
+20025105,Passenger,26_to_39
+20025014,Driver,26_to_39
+20025067,Pedestrian,26_to_39
+20025145,Driver,17_to_25
+20025099,Motorcycle rider,26_to_39
+20025138,Passenger,0_to_16
+20025005,Passenger,0_to_16
+20025048,Motorcycle rider,17_to_25
+20025005,Driver,26_to_39
+20025096,Driver,17_to_25
+20025093,Driver,40_to_64
+20025159,Driver,17_to_25
+20025053,Driver,26_to_39
+20025041,Passenger,17_to_25
+20025076,Passenger,75_or_older
+20025003,Passenger,17_to_25
+20025146,Motorcycle rider,26_to_39
+20025038,Driver,26_to_39
+20025070,Driver,26_to_39
+20025044,Passenger,26_to_39
+20025006,Driver,40_to_64
+20025117,Driver,65_to_74
+20025003,Driver,26_to_39
+20025013,Pedestrian,17_to_25
+20025112,Passenger,40_to_64
+20025071,Driver,17_to_25
+20025035,Motorcycle rider,26_to_39
+20025045,Driver,75_or_older
+20025134,Driver,75_or_older
+20025033,Motorcycle rider,17_to_25
+20025062,Passenger,17_to_25
+20025062,Driver,17_to_25
+20025072,Driver,17_to_25
+20025116,Passenger,26_to_39
+20025143,Motorcycle rider,26_to_39
+20025033,Driver,40_to_64
+20025022,Pedestrian,17_to_25
+20025147,Pedestrian,75_or_older
+20025011,Pedestrian,0_to_16
+20025154,Passenger,40_to_64
+20025080,Driver,40_to_64
+20025001,Driver,17_to_25
+20025150,Motorcycle rider,26_to_39
+20025139,Passenger,75_or_older
+20025139,Driver,75_or_older
+20025094,Driver,26_to_39
+20025139,Passenger,40_to_64
+20025059,Driver,26_to_39
+20025086,Driver,17_to_25
+20025075,Pedestrian,26_to_39
+20025128,Pedestrian,17_to_25
+20025034,Pedestrian,0_to_16
+20025090,Driver,40_to_64
+20025148,Passenger,26_to_39
+20025021,Passenger,0_to_16
+20025012,Driver,17_to_25
+20025009,Driver,17_to_25
+20025040,Passenger,26_to_39
+20025103,Motorcycle rider,26_to_39
+20025136,Passenger,75_or_older
+20025101,Passenger,0_to_16
+20025079,Driver,17_to_25
+20025047,Passenger,26_to_39
+20025120,Motorcycle rider,26_to_39
+20025004,Driver,26_to_39
+20025101,Driver,40_to_64
+20025084,Motorcycle rider,40_to_64
+20025047,Passenger,40_to_64
+20025082,Driver,65_to_74
+20025082,Passenger,65_to_74
+20025157,Other,65_to_74
+20025043,Pedal cyclist,65_to_74
+20025137,Pedestrian,26_to_39
+20025074,Driver,17_to_25
+20025029,Passenger,0_to_16
+20025087,Driver,40_to_64
+20025123,Driver,17_to_25
+20025037,Passenger,26_to_39
+20025089,Driver,40_to_64
+20025060,Driver,26_to_39
+20025130,Motorcycle rider,26_to_39
+20025008,Driver,17_to_25
+20025050,Pedestrian,40_to_64
+20025032,Pedestrian,75_or_older
+20025031,Pedestrian,40_to_64
+20025098,Pedestrian,17_to_25
+20025064,Driver,17_to_25
+20025121,Driver,17_to_25
+20025152,Driver,26_to_39
+20025063,Driver,40_to_64
+20025092,Passenger,40_to_64
+20025092,Passenger,40_to_64
+20025113,Driver,17_to_25
+20025113,Passenger,17_to_25
+20025104,Motorcycle rider,26_to_39
+20025051,Passenger,75_or_older
+20025133,Passenger,26_to_39
+20025023,Passenger,26_to_39
+20025020,Motorcycle rider,40_to_64
+20025111,Passenger,40_to_64
+20025085,Driver,40_to_64
+20025018,Passenger,40_to_64
+20025133,Driver,40_to_64
+20025135,Pedestrian,40_to_64
+20025054,Passenger,17_to_25
+20025129,Motorcycle rider,17_to_25
+20025056,Motorcycle rider,17_to_25
+20025144,Driver,17_to_25
+20025024,Driver,26_to_39
+20025058,Motorcycle rider,26_to_39
+20025026,Driver,26_to_39
+20025155,Motorcycle rider,26_to_39
+20025055,Pedal cyclist,40_to_64
+20025057,Driver,75_or_older
+20025115,Passenger,0_to_16
+20025002,Driver,17_to_25
+20025124,Motorcycle rider,26_to_39
+20025156,Driver,26_to_39
+20025156,Driver,26_to_39
+20025036,Driver,40_to_64
+20025068,Pedestrian,26_to_39
+20025019,Pedestrian,40_to_64
+20025122,Pedestrian,40_to_64
+20025083,Driver,0_to_16
+20025125,Passenger,17_to_25
+20025049,Passenger,40_to_64
+20025088,Driver,40_to_64
+20025052,Driver,17_to_25
+20025118,Motorcycle rider,17_to_25
+20025017,Pedestrian,26_to_39
+20025095,Pedestrian,0_to_16
+20015018,Passenger,26_to_39
+20015091,Driver,26_to_39
+20015006,Driver,17_to_25
+20015114,Passenger,0_to_16
+20015109,Motorcycle rider,17_to_25
+20015007,Driver,26_to_39
+20015150,Pedestrian,75_or_older
+20015002,Pedestrian,75_or_older
+20015072,Pedestrian,0_to_16
+20015093,Passenger,65_to_74
+20015138,Passenger,75_or_older
+20015066,Passenger,40_to_64
+20015021,Driver,40_to_64
+20015126,Driver,17_to_25
+20015110,Driver,17_to_25
+20015040,Passenger,17_to_25
+20015040,Passenger,17_to_25
+20015040,Driver,17_to_25
+20015084,Motorcycle rider,26_to_39
+20015053,Motorcycle rider,17_to_25
+20015012,Driver,17_to_25
+20015105,Pedal cyclist,26_to_39
+20015139,Passenger,40_to_64
+20015012,Driver,40_to_64
+20015120,Passenger,65_to_74
+20015101,Passenger,0_to_16
+20015030,Driver,17_to_25
+20015097,Driver,26_to_39
+20015098,Driver,26_to_39
+20015101,Driver,17_to_25
+20015077,Driver,0_to_16
+20015017,Driver,75_or_older
+20015068,Pedal cyclist,0_to_16
+20015025,Driver,40_to_64
+20015059,Driver,26_to_39
+20015063,Driver,40_to_64
+20015103,Passenger,40_to_64
+20015148,Driver,65_to_74
+20015028,Pedal cyclist,0_to_16
+20015112,Driver,17_to_25
+20015096,Driver,17_to_25
+20015035,Driver,17_to_25
+20015133,Driver,17_to_25
+20015129,Driver,40_to_64
+20015078,Driver,26_to_39
+20015043,Motorcycle rider,26_to_39
+20015089,Passenger,26_to_39
+20015003,Passenger,65_to_74
+20015060,Pedestrian,17_to_25
+20015125,Pedestrian,26_to_39
+20015081,Pedestrian,17_to_25
+20015001,Motorcycle rider,40_to_64
+20015073,Passenger,0_to_16
+20015061,Passenger,0_to_16
+20015051,Passenger,17_to_25
+20015083,Motorcycle rider,26_to_39
+20015142,Motorcycle rider,40_to_64
+20015073,Driver,17_to_25
+20015147,Driver,26_to_39
+20015061,Driver,17_to_25
+20015044,Motorcycle rider,17_to_25
+20015104,Pedestrian,17_to_25
+20015107,Pedestrian,75_or_older
+20015065,Driver,75_or_older
+20015055,Passenger,17_to_25
+20015004,Driver,17_to_25
+20015027,Passenger,17_to_25
+20015014,Driver,17_to_25
+20015137,Driver,40_to_64
+20015036,Motorcycle rider,17_to_25
+20015069,Driver,26_to_39
+20015124,Driver,75_or_older
+20015085,Driver,0_to_16
+20015100,Driver,26_to_39
+20015079,Driver,17_to_25
+20015099,Passenger,26_to_39
+20015102,Pedal cyclist,26_to_39
+20015033,Pedal cyclist,65_to_74
+20015076,Driver,26_to_39
+20015106,Driver,26_to_39
+20015014,Passenger,40_to_64
+20015039,Driver,40_to_64
+20015062,Driver,40_to_64
+20015029,Passenger,17_to_25
+20015070,Driver,17_to_25
+20015050,Passenger,26_to_39
+20015022,Driver,17_to_25
+20015031,Pedestrian,40_to_64
+20015134,Pedestrian,75_or_older
+20015119,Driver,26_to_39
+20015088,Passenger,40_to_64
+20015008,Motorcycle rider,26_to_39
+20015151,Driver,17_to_25
+20015071,Passenger,40_to_64
+20015071,Driver,40_to_64
+20015092,Driver,75_or_older
+20015130,Driver,17_to_25
+20015145,Driver,26_to_39
+20015092,Passenger,75_or_older
+20015041,Driver,17_to_25
+20015118,Motorcycle rider,17_to_25
+20015052,Driver,40_to_64
+20015057,Motorcycle rider,40_to_64
+20015094,Driver,40_to_64
+20015013,Pedestrian,26_to_39
+20015108,Pedestrian,40_to_64
+20015132,Pedestrian,26_to_39
+20015071,Driver,17_to_25
+20015020,Driver,17_to_25
+20015113,Motorcycle rider,40_to_64
+20015056,Passenger,17_to_25
+20015064,Driver,17_to_25
+20015034,Passenger,0_to_16
+20015049,Pedestrian,0_to_16
+20015087,Driver,17_to_25
+20015046,Driver,26_to_39
+20015086,Motorcycle rider,40_to_64
+20015087,Passenger,26_to_39
+20015140,Passenger,75_or_older
+20015144,Passenger,0_to_16
+20015037,Motorcycle rider,17_to_25
+20015127,Driver,26_to_39
+20015047,Pedestrian,75_or_older
+20015117,Pedestrian,0_to_16
+20015042,Pedestrian,40_to_64
+20015131,Driver,17_to_25
+20015010,Pedestrian,40_to_64
+20015067,Passenger,17_to_25
+20015067,Passenger,17_to_25
+20015067,Driver,17_to_25
+20015058,Passenger,17_to_25
+20015038,Passenger,17_to_25
+20015141,Pedestrian,17_to_25
+20015122,Motorcycle rider,26_to_39
+20015019,Driver,40_to_64
+20015074,Motorcycle rider,26_to_39
+20015121,Motorcycle rider,26_to_39
+20015026,Motorcycle rider,26_to_39
+20015016,Driver,40_to_64
+20015045,Driver,40_to_64
+20015095,Pedestrian,26_to_39
+20015009,Driver,40_to_64
+20015011,Driver,40_to_64
+20015146,Motorcycle rider,17_to_25
+20015135,Motorcycle rider,40_to_64
+20015135,Motorcycle rider,40_to_64
+20015136,Driver,75_or_older
+20015090,Passenger,0_to_16
+20015123,Passenger,17_to_25
+20015005,Driver,17_to_25
+20015082,Driver,17_to_25
+20015143,Driver,17_to_25
+20015149,Motorcycle rider,17_to_25
+20015075,Passenger,17_to_25
+20015015,Driver,17_to_25
+20015023,Motorcycle rider,26_to_39
+20015032,Motorcycle rider,40_to_64
+20015116,Driver,40_to_64
+20015048,Passenger,17_to_25
+20015115,Motorcycle rider,26_to_39
+20015111,Passenger,17_to_25
+20015128,Motorcycle rider,26_to_39
+20015080,Driver,17_to_25
+20015024,Motorcycle rider,26_to_39
+20015054,Passenger,26_to_39
+20005173,Motorcycle rider,17_to_25
+20005173,Motorcycle pillion passenger,17_to_25
+20005021,Driver,17_to_25
+20005053,Passenger,17_to_25
+20005117,Driver,26_to_39
+20005154,Driver,26_to_39
+20005139,Passenger,40_to_64
+20005139,Driver,40_to_64
+20005098,Driver,17_to_25
+20005169,Motorcycle rider,26_to_39
+20005165,Driver,26_to_39
+20005107,Driver,40_to_64
+20005175,Driver,40_to_64
+20005062,Driver,40_to_64
+20005071,Driver,40_to_64
+20005114,Pedestrian,17_to_25
+20005123,Motorcycle rider,26_to_39
+20005014,Driver,17_to_25
+20005133,Passenger,26_to_39
+20005068,Driver,26_to_39
+20005037,Motorcycle rider,26_to_39
+20005067,Driver,40_to_64
+20005070,Passenger,40_to_64
+20005077,Driver,17_to_25
+20005019,Driver,17_to_25
+20005001,Driver,17_to_25
+20005104,Motorcycle rider,26_to_39
+20005177,Passenger,40_to_64
+20005122,Passenger,17_to_25
+20005088,Driver,26_to_39
+20005089,Driver,40_to_64
+20005023,Pedestrian,75_or_older
+20005034,Pedestrian,75_or_older
+20005163,Driver,40_to_64
+20005126,Driver,40_to_64
+20005102,Driver,17_to_25
+20005038,Driver,17_to_25
+20005157,Passenger,26_to_39
+20005167,Passenger,0_to_16
+20005180,Motorcycle rider,26_to_39
+20005119,Driver,40_to_64
+20005082,Passenger,40_to_64
+20005167,Passenger,40_to_64
+20005167,Driver,40_to_64
+20005076,Driver,26_to_39
+20005046,Driver,26_to_39
+20005135,Driver,26_to_39
+20005138,Passenger,26_to_39
+20005116,Passenger,40_to_64
+20005116,Passenger,40_to_64
+20005116,Passenger,40_to_64
+20005138,Driver,40_to_64
+20005006,Pedestrian,0_to_16
+20005043,Pedestrian,65_to_74
+20005013,Pedestrian,17_to_25
+20005148,Pedestrian,40_to_64
+20005079,Passenger,0_to_16
+20005166,Pedestrian,0_to_16
+20005026,Driver,75_or_older
+20005116,Passenger,65_to_74
+20005149,Driver,40_to_64
+20005081,Driver,40_to_64
+20005069,Driver,17_to_25
+20005162,Pedal cyclist,17_to_25
+20005009,Passenger,17_to_25
+20005033,Passenger,0_to_16
+20005121,Passenger,0_to_16
+20005106,Passenger,0_to_16
+20005047,Driver,17_to_25
+20005084,Driver,17_to_25
+20005084,Passenger,17_to_25
+20005028,Driver,17_to_25
+20005112,Driver,17_to_25
+20005093,Driver,26_to_39
+20005118,Driver,40_to_64
+20005168,Passenger,40_to_64
+20005005,Motorcycle rider,65_to_74
+20005142,Driver,65_to_74
+20005041,Driver,65_to_74
+20005181,Driver,75_or_older
+20005074,Driver,26_to_39
+20005141,Passenger,0_to_16
+20005147,Driver,17_to_25
+20005097,Driver,17_to_25
+20005094,Driver,17_to_25
+20005094,Passenger,17_to_25
+20005094,Passenger,17_to_25
+20005086,Passenger,17_to_25
+20005085,Motorcycle rider,26_to_39
+20005052,Motorcycle rider,17_to_25
+20005127,Pedestrian,17_to_25
+20005111,Pedestrian,0_to_16
+20005174,Pedestrian,17_to_25
+20005099,Pedestrian,75_or_older
+20005146,Passenger,75_or_older
+20005018,Passenger,17_to_25
+20005018,Passenger,17_to_25
+20005018,Driver,17_to_25
+20005010,Motorcycle rider,26_to_39
+20005044,Driver,26_to_39
+20005129,Passenger,26_to_39
+20005065,Driver,0_to_16
+20005065,Passenger,0_to_16
+20005156,Driver,17_to_25
+20005055,Driver,17_to_25
+20005100,Passenger,0_to_16
+20005172,Pedal cyclist,0_to_16
+20005108,Driver,40_to_64
+20005137,Driver,40_to_64
+20005015,Pedestrian,17_to_25
+20005183,Pedestrian,65_to_74
+20005027,Pedestrian,17_to_25
+20005171,Pedestrian,26_to_39
+20005078,Driver,26_to_39
+20005152,Motorcycle rider,40_to_64
+20005051,Driver,17_to_25
+20005051,Passenger,17_to_25
+20005030,Passenger,17_to_25
+20005120,Motorcycle rider,26_to_39
+20005184,Driver,26_to_39
+20005087,Motorcycle rider,40_to_64
+20005007,Passenger,65_to_74
+20005095,Passenger,75_or_older
+20005040,Passenger,75_or_older
+20005040,Passenger,0_to_16
+20005115,Passenger,17_to_25
+20005115,Driver,17_to_25
+20005072,Driver,26_to_39
+20005092,Driver,40_to_64
+20005057,Driver,40_to_64
+20005105,Driver,65_to_74
+20005040,Passenger,17_to_25
+20005040,Passenger,26_to_39
+20005056,Driver,17_to_25
+20005042,Pedestrian,40_to_64
+20005136,Driver,40_to_64
+20005020,Passenger,40_to_64
+20005066,Driver,17_to_25
+20005029,Motorcycle rider,26_to_39
+20005170,Passenger,40_to_64
+20005022,Passenger,26_to_39
+20005011,Motorcycle rider,40_to_64
+20005080,Passenger,17_to_25
+20005132,Motorcycle pillion passenger,17_to_25
+20005080,Driver,40_to_64
+20005179,Pedestrian,26_to_39
+20005008,Pedestrian,65_to_74
+20005090,Pedestrian,0_to_16
+20005045,Pedestrian,65_to_74
+20005125,Pedestrian,0_to_16
+20005151,Pedestrian,40_to_64
+20005145,Driver,0_to_16
+20005064,Passenger,17_to_25
+20005064,Passenger,17_to_25
+20005059,Driver,26_to_39
+20005110,Passenger,17_to_25
+20005110,Passenger,26_to_39
+20005091,Driver,40_to_64
+20005024,Passenger,75_or_older
+20005143,Passenger,26_to_39
+20005176,Pedestrian,0_to_16
+20005164,Pedestrian,40_to_64
+20005101,Pedestrian,0_to_16
+20005060,Motorcycle rider,17_to_25
+20005063,Motorcycle rider,65_to_74
+20005060,Motorcycle pillion passenger,17_to_25
+20005049,Passenger,17_to_25
+20005058,Driver,17_to_25
+20005073,Driver,26_to_39
+20005049,Driver,17_to_25
+20005160,Motorcycle rider,26_to_39
+20005150,Driver,17_to_25
+20005150,Passenger,17_to_25
+20005161,Passenger,75_or_older
+20005158,Passenger,75_or_older
+20005032,Driver,17_to_25
+20005109,Driver,26_to_39
+20005039,Driver,40_to_64
+20005158,Driver,40_to_64
+20005144,Driver,40_to_64
+20005017,Driver,40_to_64
+20005130,Pedestrian,0_to_16
+20005182,Pedestrian,0_to_16
+20005103,Pedestrian,65_to_74
+20005025,Driver,17_to_25
+20005153,Passenger,17_to_25
+20005025,Passenger,26_to_39
+20005003,Driver,26_to_39
+20005075,Driver,17_to_25
+20005083,Driver,17_to_25
+20005159,Passenger,0_to_16
+20005096,Driver,40_to_64
+20005002,Driver,40_to_64
+20005012,Driver,40_to_64
+20005178,Pedestrian,0_to_16
+20005134,Passenger,0_to_16
+20005050,Passenger,17_to_25
+20005050,Driver,17_to_25
+20005054,Driver,26_to_39
+20005035,Driver,17_to_25
+20005036,Driver,26_to_39
+20005140,Motorcycle pillion passenger,26_to_39
+20005128,Driver,26_to_39
+20005031,Driver,26_to_39
+20005061,Passenger,40_to_64
+20005004,Passenger,65_to_74
+20005155,Pedestrian,17_to_25
+20005016,Pedestrian,26_to_39
+20005131,Pedestrian,0_to_16
+20005113,Pedestrian,17_to_25
+20005124,Pedestrian,40_to_64
+20005048,Motorcycle rider,26_to_39
+19995118,Passenger,17_to_25
+19995060,Passenger,17_to_25
+19995141,Motorcycle rider,26_to_39
+19995129,Driver,40_to_64
+19995063,Passenger,75_or_older
+19995149,Driver,40_to_64
+19995008,Passenger,17_to_25
+19995173,Driver,17_to_25
+19995034,Driver,26_to_39
+19995173,Driver,26_to_39
+19995090,Driver,0_to_16
+19995090,Passenger,17_to_25
+19995133,Driver,26_to_39
+19995062,Driver,75_or_older
+19995054,Driver,17_to_25
+19995130,Driver,17_to_25
+19995066,Motorcycle rider,26_to_39
+19995078,Passenger,40_to_64
+19995177,Passenger,17_to_25
+19995159,Motorcycle rider,26_to_39
+19995096,Driver,26_to_39
+19995087,Passenger,26_to_39
+19995064,Driver,26_to_39
+19995081,Passenger,17_to_25
+19995184,Motorcycle rider,26_to_39
+19995184,Passenger,40_to_64
+19995184,Driver,65_to_74
+19995084,Driver,26_to_39
+19995014,Driver,17_to_25
+19995189,Driver,26_to_39
+19995079,Motorcycle rider,26_to_39
+19995179,Driver,26_to_39
+19995059,Driver,40_to_64
+19995134,Passenger,40_to_64
+19995168,Pedestrian,0_to_16
+19995132,Pedestrian,26_to_39
+19995170,Passenger,17_to_25
+19995033,Driver,26_to_39
+19995004,Driver,26_to_39
+19995186,Passenger,26_to_39
+19995101,Driver,26_to_39
+19995056,Driver,65_to_74
+19995025,Driver,26_to_39
+19995157,Motorcycle pillion passenger,40_to_64
+19995013,Driver,26_to_39
+19995013,Passenger,26_to_39
+19995017,Driver,65_to_74
+19995083,Passenger,40_to_64
+19995113,Driver,65_to_74
+19995144,Pedestrian,75_or_older
+19995073,Passenger,75_or_older
+19995057,Passenger,75_or_older
+19995086,Passenger,17_to_25
+19995137,Passenger,17_to_25
+19995188,Driver,17_to_25
+19995139,Motorcycle rider,17_to_25
+19995143,Passenger,17_to_25
+19995086,Driver,26_to_39
+19995151,Passenger,17_to_25
+19995106,Driver,17_to_25
+19995082,Driver,17_to_25
+19995036,Driver,26_to_39
+19995045,Passenger,17_to_25
+19995045,Passenger,17_to_25
+19995045,Passenger,17_to_25
+19995045,Driver,17_to_25
+19995121,Passenger,75_or_older
+19995039,Driver,17_to_25
+19995061,Driver,26_to_39
+19995097,Driver,65_to_74
+19995174,Passenger,65_to_74
+19995164,Pedestrian,40_to_64
+19995154,Pedestrian,26_to_39
+19995167,Pedestrian,40_to_64
+19995036,Driver,17_to_25
+19995082,Passenger,26_to_39
+19995024,Driver,26_to_39
+19995150,Passenger,17_to_25
+19995176,Driver,17_to_25
+19995027,Driver,17_to_25
+19995135,Driver,17_to_25
+19995002,Passenger,40_to_64
+19995020,Passenger,0_to_16
+19995091,Driver,26_to_39
+19995058,Driver,26_to_39
+19995103,Driver,40_to_64
+19995160,Driver,75_or_older
+19995001,Passenger,0_to_16
+19995001,Passenger,0_to_16
+19995153,Passenger,0_to_16
+19995041,Driver,17_to_25
+19995023,Driver,17_to_25
+19995023,Passenger,17_to_25
+19995023,Passenger,17_to_25
+19995001,Passenger,26_to_39
+19995001,Driver,40_to_64
+19995030,Driver,40_to_64
+19995043,Pedestrian,40_to_64
+19995001,Driver,17_to_25
+19995046,Pedestrian,40_to_64
+19995095,Pedestrian,0_to_16
+19995163,Passenger,40_to_64
+19995116,Passenger,0_to_16
+19995016,Passenger,17_to_25
+19995012,Driver,26_to_39
+19995067,Passenger,0_to_16
+19995019,Motorcycle rider,17_to_25
+19995131,Driver,26_to_39
+19995138,Driver,40_to_64
+19995015,Passenger,65_to_74
+19995009,Passenger,65_to_74
+19995080,Passenger,40_to_64
+19995166,Pedestrian,75_or_older
+19995067,Driver,17_to_25
+19995161,Driver,65_to_74
+19995105,Passenger,17_to_25
+19995085,Driver,17_to_25
+19995089,Driver,17_to_25
+19995044,Passenger,75_or_older
+19995021,Driver,26_to_39
+19995044,Driver,26_to_39
+19995077,Driver,26_to_39
+19995172,Driver,26_to_39
+19995102,Passenger,0_to_16
+19995075,Driver,17_to_25
+19995048,Driver,75_or_older
+19995136,Passenger,17_to_25
+19995076,Driver,40_to_64
+19995071,Driver,40_to_64
+19995051,Driver,65_to_74
+19995114,Driver,65_to_74
+19995026,Driver,65_to_74
+19995018,Pedestrian,0_to_16
+19995100,Pedestrian,75_or_older
+19995105,Driver,26_to_39
+19995053,Driver,75_or_older
+19995125,Passenger,17_to_25
+19995094,Driver,17_to_25
+19995147,Driver,26_to_39
+19995107,Driver,17_to_25
+19995006,Driver,75_or_older
+19995104,Driver,75_or_older
+19995029,Passenger,26_to_39
+19995120,Motorcycle rider,26_to_39
+19995142,Motorcycle rider,40_to_64
+19995175,Driver,65_to_74
+19995068,Driver,65_to_74
+19995112,Driver,17_to_25
+19995088,Pedestrian,17_to_25
+19995108,Passenger,75_or_older
+19995152,Motorcycle rider,40_to_64
+19995183,Passenger,17_to_25
+19995155,Passenger,17_to_25
+19995155,Driver,26_to_39
+19995152,Motorcycle pillion passenger,26_to_39
+19995070,Passenger,0_to_16
+19995052,Driver,17_to_25
+19995052,Passenger,17_to_25
+19995005,Driver,26_to_39
+19995126,Driver,26_to_39
+19995148,Driver,65_to_74
+19995047,Pedestrian,26_to_39
+19995115,Pedestrian,26_to_39
+19995146,Pedestrian,40_to_64
+19995124,Driver,26_to_39
+19995055,Driver,40_to_64
+19995185,Driver,40_to_64
+19995093,Driver,26_to_39
+19995003,Driver,40_to_64
+19995165,Pedal cyclist,0_to_16
+19995098,Motorcycle rider,17_to_25
+19995128,Driver,26_to_39
+19995037,Pedal cyclist,40_to_64
+19995140,Motorcycle rider,0_to_16
+19995011,Driver,26_to_39
+19995127,Driver,40_to_64
+19995127,Passenger,40_to_64
+19995032,Passenger,75_or_older
+19995049,Driver,26_to_39
+19995042,Driver,26_to_39
+19995109,Pedestrian,17_to_25
+19995182,Pedestrian,0_to_16
+19995162,Pedestrian,40_to_64
+19995171,Driver,75_or_older
+19995127,Passenger,0_to_16
+19995010,Driver,17_to_25
+19995158,Driver,17_to_25
+19995035,Driver,40_to_64
+19995074,Passenger,0_to_16
+19995040,Driver,26_to_39
+19995156,Driver,40_to_64
+19995178,Motorcycle rider,40_to_64
+19995122,Passenger,40_to_64
+19995022,Driver,17_to_25
+19995035,Passenger,26_to_39
+19995031,Driver,26_to_39
+19995187,Driver,40_to_64
+19995022,Passenger,26_to_39
+19995119,Pedestrian,26_to_39
+19995065,Pedestrian,26_to_39
+19995092,Driver,17_to_25
+19995092,Passenger,17_to_25
+19995110,Driver,26_to_39
+19995111,Motorcycle rider,0_to_16
+19995050,Motorcycle rider,26_to_39
+19995038,Pedal cyclist,17_to_25
+19995069,Driver,17_to_25
+19995145,Passenger,17_to_25
+19995072,Passenger,0_to_16
+19995007,Passenger,0_to_16
+19995007,Passenger,0_to_16
+19995169,Driver,17_to_25
+19995099,Driver,26_to_39
+19995028,Driver,40_to_64
+19995181,Driver,40_to_64
+19995123,Motorcycle rider,65_to_74
+19995180,Pedestrian,75_or_older
+19995117,Motorcycle rider,26_to_39
+19985100,Passenger,0_to_16
+19985129,Passenger,0_to_16
+19985081,Driver,75_or_older
+19985058,Passenger,75_or_older
+19985069,Motorcycle rider,40_to_64
+19985069,Motorcycle pillion passenger,40_to_64
+19985007,Pedestrian,17_to_25
+19985152,Driver,65_to_74
+19985058,Driver,65_to_74
+19985041,Driver,26_to_39
+19985145,Driver,26_to_39
+19985012,Passenger,40_to_64
+19985160,Driver,40_to_64
+19985132,Pedestrian,17_to_25
+19985154,Pedestrian,26_to_39
+19985064,Pedestrian,65_to_74
+19985046,Pedestrian,26_to_39
+19985048,Pedestrian,26_to_39
+19985097,Driver,26_to_39
+19985113,Driver,65_to_74
+19985172,Other,17_to_25
+19985050,Passenger,26_to_39
+19985050,Driver,26_to_39
+19985040,Driver,26_to_39
+19985125,Driver,40_to_64
+19985149,Driver,40_to_64
+19985181,Driver,75_or_older
+19985005,Pedal cyclist,0_to_16
+19985171,Motorcycle rider,17_to_25
+19985139,Motorcycle rider,17_to_25
+19985139,Motorcycle pillion passenger,17_to_25
+19985065,Passenger,26_to_39
+19985047,Driver,40_to_64
+19985082,Motorcycle rider,40_to_64
+19985199,Pedestrian,40_to_64
+19985015,Pedestrian,40_to_64
+19985105,Pedestrian,0_to_16
+19985155,Pedestrian,17_to_25
+19985109,Driver,40_to_64
+19985061,Passenger,26_to_39
+19985186,Driver,40_to_64
+19985176,Driver,17_to_25
+19985176,Passenger,17_to_25
+19985195,Driver,17_to_25
+19985077,Driver,17_to_25
+19985150,Driver,17_to_25
+19985075,Driver,17_to_25
+19985016,Driver,26_to_39
+19985095,Motorcycle rider,26_to_39
+19985073,Driver,26_to_39
+19985072,Driver,17_to_25
+19985128,Passenger,26_to_39
+19985128,Driver,26_to_39
+19985190,Motorcycle rider,40_to_64
+19985030,Motorcycle rider,40_to_64
+19985136,Driver,65_to_74
+19985057,Passenger,0_to_16
+19985128,Driver,75_or_older
+19985142,Pedal cyclist,0_to_16
+19985191,Passenger,40_to_64
+19985182,Pedestrian,26_to_39
+19985182,Pedestrian,40_to_64
+19985057,Passenger,0_to_16
+19985130,Motorcycle rider,17_to_25
+19985167,Driver,26_to_39
+19985174,Passenger,17_to_25
+19985033,Passenger,17_to_25
+19985018,Passenger,40_to_64
+19985079,Passenger,17_to_25
+19985184,Motorcycle rider,40_to_64
+19985106,Passenger,40_to_64
+19985131,Driver,75_or_older
+19985131,Passenger,75_or_older
+19985001,Driver,75_or_older
+19985035,Passenger,0_to_16
+19985013,Motorcycle rider,0_to_16
+19985188,Driver,40_to_64
+19985185,Driver,40_to_64
+19985080,Passenger,40_to_64
+19985115,Passenger,26_to_39
+19985011,Pedestrian,40_to_64
+19985093,Driver,26_to_39
+19985148,Driver,75_or_older
+19985148,Passenger,75_or_older
+19985014,Driver,0_to_16
+19985017,Passenger,17_to_25
+19985059,Passenger,17_to_25
+19985124,Passenger,17_to_25
+19985117,Motorcycle rider,26_to_39
+19985162,Passenger,0_to_16
+19985159,Pedestrian,0_to_16
+19985062,Motorcycle rider,26_to_39
+19985029,Driver,65_to_74
+19985042,Driver,17_to_25
+19985094,Driver,40_to_64
+19985071,Passenger,0_to_16
+19985102,Motorcycle rider,26_to_39
+19985089,Pedal cyclist,40_to_64
+19985192,Pedestrian,26_to_39
+19985022,Pedestrian,0_to_16
+19985085,Passenger,26_to_39
+19985078,Pedal cyclist,0_to_16
+19985027,Motorcycle rider,17_to_25
+19985157,Driver,26_to_39
+19985134,Driver,40_to_64
+19985039,Motorcycle rider,26_to_39
+19985099,Passenger,40_to_64
+19985026,Passenger,65_to_74
+19985189,Passenger,75_or_older
+19985034,Passenger,0_to_16
+19985161,Driver,0_to_16
+19985034,Driver,17_to_25
+19985019,Motorcycle rider,17_to_25
+19985002,Pedal cyclist,17_to_25
+19985076,Motorcycle rider,26_to_39
+19985006,Driver,26_to_39
+19985088,Driver,40_to_64
+19985034,Driver,40_to_64
+19985034,Passenger,40_to_64
+19985108,Pedestrian,75_or_older
+19985052,Pedestrian,75_or_older
+19985092,Motorcycle rider,40_to_64
+19985144,Motorcycle rider,26_to_39
+19985068,Driver,17_to_25
+19985021,Driver,17_to_25
+19985036,Driver,40_to_64
+19985147,Driver,75_or_older
+19985147,Passenger,75_or_older
+19985003,Passenger,75_or_older
+19985123,Passenger,75_or_older
+19985170,Driver,17_to_25
+19985143,Driver,17_to_25
+19985038,Driver,40_to_64
+19985168,Pedal cyclist,40_to_64
+19985063,Driver,65_to_74
+19985070,Pedestrian,17_to_25
+19985110,Pedestrian,40_to_64
+19985193,Passenger,0_to_16
+19985112,Passenger,17_to_25
+19985053,Passenger,26_to_39
+19985126,Driver,26_to_39
+19985122,Motorcycle rider,26_to_39
+19985074,Driver,17_to_25
+19985086,Motorcycle rider,26_to_39
+19985166,Passenger,0_to_16
+19985101,Driver,17_to_25
+19985178,Passenger,17_to_25
+19985087,Driver,17_to_25
+19985091,Pedestrian,26_to_39
+19985178,Driver,26_to_39
+19985096,Driver,26_to_39
+19985096,Driver,40_to_64
+19985008,Driver,75_or_older
+19985153,Pedestrian,75_or_older
+19985084,Pedestrian,0_to_16
+19985031,Pedestrian,26_to_39
+19985020,Driver,40_to_64
+19985140,Motorcycle rider,17_to_25
+19985137,Motorcycle rider,26_to_39
+19985104,Driver,26_to_39
+19985146,Driver,26_to_39
+19985055,Driver,75_or_older
+19985051,Driver,40_to_64
+19985044,Driver,17_to_25
+19985118,Driver,75_or_older
+19985054,Passenger,0_to_16
+19985196,Driver,17_to_25
+19985114,Driver,17_to_25
+19985098,Passenger,26_to_39
+19985025,Driver,40_to_64
+19985098,Driver,40_to_64
+19985183,Passenger,65_to_74
+19985098,Passenger,65_to_74
+19985151,Pedestrian,40_to_64
+19985198,Pedestrian,40_to_64
+19985194,Pedestrian,75_or_older
+19985146,Passenger,0_to_16
+19985146,Passenger,17_to_25
+19985107,Driver,26_to_39
+19985138,Driver,17_to_25
+19985173,Passenger,40_to_64
+19985179,Motorcycle rider,17_to_25
+19985032,Driver,17_to_25
+19985120,Driver,26_to_39
+19985116,Passenger,40_to_64
+19985045,Driver,26_to_39
+19985119,Driver,40_to_64
+19985056,Passenger,0_to_16
+19985067,Motorcycle rider,26_to_39
+19985028,Driver,75_or_older
+19985083,Pedestrian,0_to_16
+19985023,Pedestrian,0_to_16
+19985164,Passenger,0_to_16
+19985164,Passenger,0_to_16
+19985121,Passenger,17_to_25
+19985127,Motorcycle rider,17_to_25
+19985103,Passenger,26_to_39
+19985165,Driver,26_to_39
+19985066,Driver,40_to_64
+19985135,Driver,75_or_older
+19985049,Passenger,26_to_39
+19985049,Driver,40_to_64
+19985169,Driver,17_to_25
+19985187,Passenger,65_to_74
+19985163,Passenger,17_to_25
+19985043,Driver,40_to_64
+19985133,Passenger,0_to_16
+19985175,Driver,17_to_25
+19985156,Passenger,17_to_25
+19985197,Driver,26_to_39
+19985177,Driver,40_to_64
+19985037,Driver,40_to_64
+19985024,Passenger,0_to_16
+19985009,Passenger,17_to_25
+19985111,Driver,17_to_25
+19985004,Driver,17_to_25
+19985060,Driver,17_to_25
+19985010,Driver,26_to_39
+19985090,Pedestrian,26_to_39
+19985180,Pedestrian,17_to_25
+19985158,Driver,26_to_39
+19985141,Passenger,40_to_64
+19985141,Driver,40_to_64
+19975106,Other,17_to_25
+19975080,Motorcycle pillion passenger,26_to_39
+19975093,Motorcycle rider,40_to_64
+19975100,Motorcycle rider,65_to_74
+19975070,Driver,65_to_74
+19975116,Pedestrian,40_to_64
+19975022,Pedestrian,65_to_74
+19975108,Pedestrian,65_to_74
+19975089,Driver,40_to_64
+19975091,Driver,65_to_74
+19975011,Driver,17_to_25
+19975099,Passenger,17_to_25
+19975048,Passenger,0_to_16
+19975083,Driver,17_to_25
+19975083,Passenger,17_to_25
+19975077,Pedestrian,17_to_25
+19975095,Passenger,17_to_25
+19975009,Passenger,26_to_39
+19975102,Driver,65_to_74
+19975156,Other,75_or_older
+19975074,Passenger,75_or_older
+19975030,Driver,17_to_25
+19975016,Pedestrian,26_to_39
+19975097,Passenger,17_to_25
+19975004,Motorcycle rider,26_to_39
+19975168,Driver,40_to_64
+19975168,Passenger,40_to_64
+19975110,Pedestrian,40_to_64
+19975057,Pedestrian,17_to_25
+19975111,Pedestrian,75_or_older
+19975113,Pedestrian,26_to_39
+19975125,Pedestrian,40_to_64
+19975040,Passenger,0_to_16
+19975165,Driver,17_to_25
+19975034,Passenger,17_to_25
+19975027,Motorcycle pillion passenger,26_to_39
+19975024,Passenger,17_to_25
+19975067,Passenger,26_to_39
+19975051,Driver,26_to_39
+19975023,Passenger,0_to_16
+19975079,Driver,26_to_39
+19975105,Driver,26_to_39
+19975142,Motorcycle rider,26_to_39
+19975153,Passenger,0_to_16
+19975013,Driver,26_to_39
+19975041,Passenger,65_to_74
+19975041,Driver,65_to_74
+19975149,Driver,65_to_74
+19975035,Pedestrian,40_to_64
+19975151,Passenger,0_to_16
+19975151,Driver,17_to_25
+19975031,Driver,40_to_64
+19975010,Driver,17_to_25
+19975136,Passenger,17_to_25
+19975061,Passenger,17_to_25
+19975055,Driver,40_to_64
+19975018,Driver,40_to_64
+19975050,Driver,0_to_16
+19975117,Driver,26_to_39
+19975150,Pedestrian,26_to_39
+19975159,Driver,0_to_16
+19975049,Driver,17_to_25
+19975090,Driver,17_to_25
+19975172,Pedestrian,26_to_39
+19975061,Driver,26_to_39
+19975126,Driver,40_to_64
+19975128,Motorcycle rider,0_to_16
+19975003,Driver,26_to_39
+19975094,Driver,40_to_64
+19975086,Passenger,40_to_64
+19975129,Driver,75_or_older
+19975005,Passenger,40_to_64
+19975002,Driver,40_to_64
+19975178,Passenger,40_to_64
+19975005,Driver,65_to_74
+19975062,Pedestrian,65_to_74
+19975044,Pedestrian,75_or_older
+19975124,Pedestrian,0_to_16
+19975137,Passenger,0_to_16
+19975144,Driver,26_to_39
+19975008,Passenger,65_to_74
+19975059,Motorcycle rider,17_to_25
+19975145,Pedal cyclist,0_to_16
+19975087,Driver,40_to_64
+19975017,Passenger,17_to_25
+19975140,Passenger,17_to_25
+19975170,Driver,26_to_39
+19975076,Driver,40_to_64
+19975139,Pedal cyclist,40_to_64
+19975078,Driver,17_to_25
+19975114,Pedestrian,26_to_39
+19975152,Passenger,75_or_older
+19975052,Driver,17_to_25
+19975132,Driver,26_to_39
+19975065,Driver,26_to_39
+19975147,Driver,40_to_64
+19975171,Driver,40_to_64
+19975162,Driver,40_to_64
+19975118,Pedestrian,26_to_39
+19975096,Pedestrian,75_or_older
+19975115,Pedestrian,0_to_16
+19975104,Pedestrian,40_to_64
+19975060,Driver,17_to_25
+19975075,Passenger,17_to_25
+19975075,Driver,26_to_39
+19975135,Driver,26_to_39
+19975174,Driver,26_to_39
+19975088,Driver,40_to_64
+19975184,Passenger,65_to_74
+19975037,Motorcycle rider,17_to_25
+19975026,Driver,26_to_39
+19975063,Passenger,26_to_39
+19975130,Driver,26_to_39
+19975141,Pedestrian,17_to_25
+19975146,Pedestrian,0_to_16
+19975072,Pedestrian,0_to_16
+19975092,Pedestrian,75_or_older
+19975019,Passenger,26_to_39
+19975143,Driver,40_to_64
+19975167,Driver,75_or_older
+19975103,Motorcycle rider,26_to_39
+19975032,Pedestrian,40_to_64
+19975066,Pedestrian,40_to_64
+19975176,Pedestrian,26_to_39
+19975069,Driver,17_to_25
+19975028,Passenger,17_to_25
+19975121,Passenger,17_to_25
+19975021,Motorcycle rider,26_to_39
+19975166,Passenger,0_to_16
+19975148,Passenger,17_to_25
+19975020,Motorcycle rider,17_to_25
+19975025,Passenger,17_to_25
+19975043,Passenger,26_to_39
+19975179,Motorcycle rider,40_to_64
+19975138,Pedestrian,17_to_25
+19975175,Driver,40_to_64
+19975014,Driver,75_or_older
+19975160,Passenger,0_to_16
+19975112,Motorcycle rider,26_to_39
+19975157,Driver,26_to_39
+19975033,Pedestrian,0_to_16
+19975045,Passenger,17_to_25
+19975058,Driver,17_to_25
+19975058,Passenger,17_to_25
+19975182,Driver,17_to_25
+19975177,Driver,26_to_39
+19975085,Driver,26_to_39
+19975071,Driver,40_to_64
+19975119,Pedestrian,0_to_16
+19975101,Driver,17_to_25
+19975181,Pedal cyclist,65_to_74
+19975163,Pedal cyclist,0_to_16
+19975064,Passenger,0_to_16
+19975047,Driver,17_to_25
+19975073,Passenger,17_to_25
+19975180,Passenger,17_to_25
+19975101,Passenger,26_to_39
+19975038,Driver,26_to_39
+19975029,Motorcycle rider,26_to_39
+19975012,Passenger,17_to_25
+19975101,Driver,40_to_64
+19975122,Passenger,0_to_16
+19975109,Motorcycle rider,26_to_39
+19975133,Driver,26_to_39
+19975084,Driver,0_to_16
+19975046,Motorcycle rider,17_to_25
+19975082,Driver,40_to_64
+19975107,Passenger,17_to_25
+19975161,Driver,17_to_25
+19975081,Passenger,26_to_39
+19975007,Motorcycle rider,26_to_39
+19975155,Driver,40_to_64
+19975164,Driver,40_to_64
+19975183,Driver,40_to_64
+19975098,Pedestrian,40_to_64
+19975053,Pedestrian,0_to_16
+19975039,Pedestrian,17_to_25
+19975134,Driver,40_to_64
+19975169,Pedal cyclist,26_to_39
+19975123,Passenger,17_to_25
+19975068,Driver,17_to_25
+19975001,Passenger,17_to_25
+19975120,Passenger,0_to_16
+19975042,Motorcycle rider,17_to_25
+19975056,Driver,17_to_25
+19975158,Pedestrian,17_to_25
+19975036,Driver,17_to_25
+19975154,Driver,17_to_25
+19975127,Driver,26_to_39
+19975006,Passenger,40_to_64
+19975006,Passenger,40_to_64
+19975006,Passenger,40_to_64
+19975006,Driver,40_to_64
+19975054,Pedestrian,26_to_39
+19975015,Pedestrian,75_or_older
+19975173,Pedestrian,26_to_39
+19975131,Pedal cyclist,40_to_64
+19965170,Passenger,17_to_25
+19965183,Motorcycle rider,17_to_25
+19965056,Driver,17_to_25
+19965089,Driver,17_to_25
+19965021,Pedestrian,17_to_25
+19965203,Driver,40_to_64
+19965137,Passenger,17_to_25
+19965175,Driver,26_to_39
+19965002,Driver,65_to_74
+19965043,Pedal cyclist,17_to_25
+19965156,Driver,26_to_39
+19965128,Driver,26_to_39
+19965078,Driver,65_to_74
+19965006,Driver,65_to_74
+19965046,Pedestrian,17_to_25
+19965121,Pedestrian,17_to_25
+19965159,Pedestrian,40_to_64
+19965199,Driver,65_to_74
+19965024,Driver,17_to_25
+19965074,Passenger,26_to_39
+19965068,Pedestrian,0_to_16
+19965070,Driver,26_to_39
+19965005,Motorcycle rider,26_to_39
+19965081,Motorcycle rider,26_to_39
+19965107,Driver,26_to_39
+19965064,Passenger,26_to_39
+19965141,Passenger,40_to_64
+19965207,Driver,17_to_25
+19965023,Passenger,17_to_25
+19965023,Driver,17_to_25
+19965174,Motorcycle rider,26_to_39
+19965102,Driver,26_to_39
+19965142,Driver,26_to_39
+19965176,Passenger,40_to_64
+19965094,Driver,40_to_64
+19965040,Pedestrian,26_to_39
+19965109,Pedestrian,26_to_39
+19965139,Pedestrian,26_to_39
+19965119,Pedestrian,26_to_39
+19965027,Passenger,65_to_74
+19965213,Motorcycle rider,17_to_25
+19965166,Driver,26_to_39
+19965133,Driver,40_to_64
+19965080,Motorcycle pillion passenger,17_to_25
+19965146,Passenger,75_or_older
+19965067,Passenger,26_to_39
+19965019,Passenger,40_to_64
+19965019,Passenger,40_to_64
+19965019,Passenger,40_to_64
+19965130,Driver,75_or_older
+19965130,Passenger,75_or_older
+19965050,Driver,17_to_25
+19965157,Passenger,17_to_25
+19965118,Driver,26_to_39
+19965047,Driver,40_to_64
+19965157,Driver,40_to_64
+19965075,Driver,65_to_74
+19965157,Passenger,40_to_64
+19965186,Pedestrian,75_or_older
+19965025,Pedestrian,17_to_25
+19965065,Pedestrian,26_to_39
+19965193,Pedal cyclist,0_to_16
+19965132,Driver,75_or_older
+19965095,Passenger,26_to_39
+19965145,Driver,26_to_39
+19965169,Driver,40_to_64
+19965219,Driver,17_to_25
+19965041,Driver,17_to_25
+19965051,Passenger,26_to_39
+19965099,Motorcycle rider,26_to_39
+19965091,Passenger,40_to_64
+19965041,Passenger,40_to_64
+19965076,Passenger,17_to_25
+19965017,Driver,17_to_25
+19965090,Driver,40_to_64
+19965026,Motorcycle rider,40_to_64
+19965076,Driver,40_to_64
+19965153,Pedestrian,17_to_25
+19965084,Pedestrian,75_or_older
+19965030,Other,17_to_25
+19965200,Motorcycle rider,17_to_25
+19965004,Driver,17_to_25
+19965079,Driver,17_to_25
+19965151,Driver,26_to_39
+19965110,Passenger,0_to_16
+19965029,Passenger,17_to_25
+19965136,Motorcycle rider,17_to_25
+19965214,Driver,17_to_25
+19965214,Passenger,17_to_25
+19965116,Passenger,26_to_39
+19965214,Driver,26_to_39
+19965214,Passenger,26_to_39
+19965181,Driver,40_to_64
+19965189,Driver,40_to_64
+19965150,Pedal cyclist,0_to_16
+19965116,Driver,40_to_64
+19965180,Pedal cyclist,0_to_16
+19965204,Driver,40_to_64
+19965034,Pedestrian,26_to_39
+19965140,Pedestrian,17_to_25
+19965216,Pedestrian,75_or_older
+19965100,Pedestrian,0_to_16
+19965035,Passenger,40_to_64
+19965042,Driver,17_to_25
+19965168,Passenger,0_to_16
+19965168,Passenger,0_to_16
+19965126,Driver,40_to_64
+19965018,Motorcycle rider,17_to_25
+19965044,Motorcycle rider,26_to_39
+19965092,Motorcycle rider,40_to_64
+19965143,Driver,26_to_39
+19965217,Passenger,26_to_39
+19965202,Motorcycle rider,26_to_39
+19965077,Driver,40_to_64
+19965032,Passenger,26_to_39
+19965201,Passenger,40_to_64
+19965009,Driver,26_to_39
+19965032,Driver,40_to_64
+19965135,Passenger,0_to_16
+19965209,Pedal cyclist,17_to_25
+19965011,Passenger,26_to_39
+19965148,Passenger,26_to_39
+19965208,Passenger,40_to_64
+19965152,Passenger,65_to_74
+19965049,Pedestrian,0_to_16
+19965196,Driver,40_to_64
+19965212,Pedestrian,40_to_64
+19965191,Motorcycle rider,26_to_39
+19965208,Passenger,0_to_16
+19965061,Motorcycle rider,17_to_25
+19965190,Pedestrian,0_to_16
+19965120,Pedal cyclist,26_to_39
+19965134,Passenger,26_to_39
+19965087,Driver,40_to_64
+19965218,Driver,17_to_25
+19965083,Passenger,40_to_64
+19965038,Driver,75_or_older
+19965194,Passenger,0_to_16
+19965163,Passenger,26_to_39
+19965220,Passenger,65_to_74
+19965053,Driver,40_to_64
+19965071,Pedestrian,75_or_older
+19965182,Pedestrian,65_to_74
+19965062,Pedestrian,65_to_74
+19965167,Pedestrian,75_or_older
+19965013,Motorcycle rider,17_to_25
+19965020,Passenger,17_to_25
+19965173,Motorcycle rider,17_to_25
+19965173,Motorcycle rider,17_to_25
+19965001,Driver,17_to_25
+19965114,Driver,40_to_64
+19965131,Motorcycle rider,40_to_64
+19965012,Driver,40_to_64
+19965144,Pedestrian,75_or_older
+19965127,Pedestrian,65_to_74
+19965007,Passenger,0_to_16
+19965007,Passenger,0_to_16
+19965007,Driver,17_to_25
+19965007,Passenger,17_to_25
+19965007,Passenger,17_to_25
+19965007,Passenger,17_to_25
+19965060,Driver,17_to_25
+19965086,Passenger,0_to_16
+19965003,Passenger,0_to_16
+19965188,Driver,26_to_39
+19965192,Motorcycle rider,26_to_39
+19965010,Motorcycle rider,26_to_39
+19965055,Motorcycle rider,26_to_39
+19965165,Passenger,26_to_39
+19965160,Driver,40_to_64
+19965162,Passenger,40_to_64
+19965072,Driver,40_to_64
+19965197,Driver,75_or_older
+19965085,Driver,17_to_25
+19965215,Driver,0_to_16
+19965058,Driver,40_to_64
+19965162,Driver,40_to_64
+19965172,Driver,40_to_64
+19965031,Driver,65_to_74
+19965206,Pedestrian,75_or_older
+19965014,Pedestrian,40_to_64
+19965073,Pedestrian,65_to_74
+19965122,Pedestrian,75_or_older
+19965154,Pedestrian,17_to_25
+19965082,Driver,17_to_25
+19965016,Driver,26_to_39
+19965161,Driver,17_to_25
+19965161,Passenger,17_to_25
+19965098,Driver,40_to_64
+19965106,Driver,17_to_25
+19965112,Driver,17_to_25
+19965164,Driver,75_or_older
+19965185,Motorcycle rider,17_to_25
+19965022,Pedal cyclist,0_to_16
+19965177,Driver,17_to_25
+19965033,Motorcycle rider,26_to_39
+19965147,Motorcycle rider,40_to_64
+19965149,Pedestrian,17_to_25
+19965097,Pedestrian,40_to_64
+19965108,Pedestrian,65_to_74
+19965037,Pedal cyclist,40_to_64
+19965036,Driver,65_to_74
+19965205,Passenger,0_to_16
+19965198,Motorcycle rider,17_to_25
+19965210,Driver,26_to_39
+19965205,Passenger,40_to_64
+19965093,Passenger,40_to_64
+19965028,Driver,75_or_older
+19965179,Motorcycle rider,17_to_25
+19965052,Driver,17_to_25
+19965171,Driver,17_to_25
+19965096,Motorcycle rider,26_to_39
+19965101,Driver,26_to_39
+19965069,Motorcycle rider,40_to_64
+19965115,Pedestrian,17_to_25
+19965211,Pedestrian,40_to_64
+19965155,Passenger,0_to_16
+19965088,Pedestrian,0_to_16
+19965125,Pedal cyclist,0_to_16
+19965205,Driver,26_to_39
+19965124,Pedal cyclist,75_or_older
+19965123,Motorcycle rider,17_to_25
+19965039,Motorcycle rider,17_to_25
+19965015,Passenger,17_to_25
+19965113,Driver,26_to_39
+19965103,Driver,26_to_39
+19965129,Passenger,0_to_16
+19965158,Passenger,26_to_39
+19965195,Passenger,0_to_16
+19965057,Passenger,17_to_25
+19965008,Driver,17_to_25
+19965105,Driver,26_to_39
+19965045,Driver,26_to_39
+19965057,Driver,26_to_39
+19965048,Motorcycle rider,40_to_64
+19965059,Driver,26_to_39
+19965063,Pedestrian,65_to_74
+19965187,Pedestrian,65_to_74
+19965066,Pedestrian,75_or_older
+19965117,Pedestrian,75_or_older
+19965104,Pedestrian,40_to_64
+19965138,Pedestrian,26_to_39
+19965054,Pedestrian,0_to_16
+19965178,Driver,17_to_25
+19965111,Motorcycle rider,17_to_25
+19965184,Driver,26_to_39
+19965054,Pedestrian,40_to_64
+19955026,Driver,0_to_16
+19955057,Passenger,0_to_16
+19955170,Driver,17_to_25
+19955017,Passenger,17_to_25
+19955052,Motorcycle rider,26_to_39
+19955080,Driver,40_to_64
+19955064,Pedestrian,26_to_39
+19955025,Driver,26_to_39
+19955183,Pedestrian,17_to_25
+19955136,Pedestrian,75_or_older
+19955106,Pedestrian,0_to_16
+19955158,Driver,17_to_25
+19955057,Passenger,17_to_25
+19955123,Driver,17_to_25
+19955061,Driver,26_to_39
+19955155,Passenger,17_to_25
+19955173,Passenger,17_to_25
+19955079,Driver,40_to_64
+19955022,Pedal cyclist,0_to_16
+19955156,Motorcycle rider,26_to_39
+19955189,Passenger,0_to_16
+19955191,Motorcycle rider,17_to_25
+19955109,Passenger,17_to_25
+19955097,Driver,17_to_25
+19955162,Driver,26_to_39
+19955101,Driver,40_to_64
+19955186,Driver,65_to_74
+19955058,Pedestrian,26_to_39
+19955148,Pedestrian,40_to_64
+19955001,Pedestrian,75_or_older
+19955161,Driver,26_to_39
+19955021,Driver,40_to_64
+19955118,Driver,26_to_39
+19955082,Driver,26_to_39
+19955090,Passenger,26_to_39
+19955145,Passenger,26_to_39
+19955154,Passenger,26_to_39
+19955096,Driver,40_to_64
+19955073,Driver,40_to_64
+19955068,Passenger,17_to_25
+19955068,Driver,17_to_25
+19955089,Driver,26_to_39
+19955012,Driver,40_to_64
+19955126,Passenger,0_to_16
+19955168,Driver,26_to_39
+19955005,Driver,40_to_64
+19955127,Motorcycle rider,40_to_64
+19955041,Driver,40_to_64
+19955067,Pedestrian,40_to_64
+19955105,Driver,40_to_64
+19955062,Passenger,26_to_39
+19955119,Passenger,75_or_older
+19955142,Driver,17_to_25
+19955164,Driver,17_to_25
+19955014,Driver,17_to_25
+19955102,Driver,17_to_25
+19955129,Passenger,17_to_25
+19955176,Passenger,26_to_39
+19955049,Driver,26_to_39
+19955193,Driver,26_to_39
+19955075,Driver,26_to_39
+19955065,Passenger,0_to_16
+19955078,Passenger,0_to_16
+19955103,Driver,40_to_64
+19955078,Passenger,40_to_64
+19955083,Driver,26_to_39
+19955070,Driver,75_or_older
+19955030,Passenger,17_to_25
+19955165,Driver,17_to_25
+19955107,Passenger,26_to_39
+19955104,Motorcycle rider,17_to_25
+19955160,Pedestrian,17_to_25
+19955029,Pedestrian,65_to_74
+19955063,Pedestrian,65_to_74
+19955072,Driver,0_to_16
+19955031,Passenger,17_to_25
+19955174,Driver,26_to_39
+19955117,Driver,40_to_64
+19955179,Passenger,0_to_16
+19955141,Passenger,40_to_64
+19955056,Passenger,0_to_16
+19955153,Passenger,17_to_25
+19955076,Pedestrian,40_to_64
+19955042,Passenger,26_to_39
+19955042,Passenger,40_to_64
+19955047,Driver,65_to_74
+19955039,Pedestrian,75_or_older
+19955020,Pedal cyclist,0_to_16
+19955178,Driver,65_to_74
+19955081,Driver,17_to_25
+19955143,Passenger,17_to_25
+19955194,Driver,17_to_25
+19955028,Driver,40_to_64
+19955157,Passenger,0_to_16
+19955044,Passenger,17_to_25
+19955044,Driver,17_to_25
+19955192,Driver,40_to_64
+19955055,Passenger,40_to_64
+19955034,Driver,75_or_older
+19955166,Passenger,0_to_16
+19955093,Driver,17_to_25
+19955167,Driver,26_to_39
+19955125,Passenger,40_to_64
+19955166,Passenger,17_to_25
+19955016,Pedestrian,17_to_25
+19955177,Pedestrian,75_or_older
+19955085,Passenger,40_to_64
+19955115,Driver,17_to_25
+19955053,Driver,17_to_25
+19955088,Driver,26_to_39
+19955092,Driver,26_to_39
+19955151,Driver,26_to_39
+19955181,Motorcycle rider,17_to_25
+19955098,Passenger,17_to_25
+19955139,Motorcycle rider,26_to_39
+19955019,Passenger,26_to_39
+19955138,Driver,40_to_64
+19955122,Driver,65_to_74
+19955128,Passenger,75_or_older
+19955019,Driver,17_to_25
+19955159,Driver,17_to_25
+19955133,Driver,40_to_64
+19955019,Passenger,26_to_39
+19955108,Pedestrian,0_to_16
+19955095,Pedestrian,26_to_39
+19955163,Motorcycle pillion passenger,17_to_25
+19955032,Driver,17_to_25
+19955074,Passenger,17_to_25
+19955010,Driver,26_to_39
+19955147,Passenger,26_to_39
+19955037,Driver,40_to_64
+19955027,Motorcycle pillion passenger,17_to_25
+19955150,Motorcycle rider,40_to_64
+19955120,Passenger,40_to_64
+19955169,Passenger,40_to_64
+19955087,Passenger,65_to_74
+19955172,Pedestrian,40_to_64
+19955134,Pedestrian,40_to_64
+19955069,Pedestrian,26_to_39
+19955011,Passenger,75_or_older
+19955024,Driver,26_to_39
+19955185,Passenger,17_to_25
+19955013,Passenger,17_to_25
+19955152,Driver,40_to_64
+19955013,Driver,17_to_25
+19955140,Driver,75_or_older
+19955132,Driver,75_or_older
+19955054,Passenger,0_to_16
+19955004,Passenger,17_to_25
+19955045,Pedestrian,0_to_16
+19955007,Pedestrian,17_to_25
+19955135,Pedestrian,75_or_older
+19955066,Pedestrian,0_to_16
+19955023,Passenger,17_to_25
+19955023,Passenger,17_to_25
+19955071,Driver,40_to_64
+19955124,Driver,17_to_25
+19955187,Driver,26_to_39
+19955086,Passenger,0_to_16
+19955094,Driver,17_to_25
+19955050,Driver,17_to_25
+19955114,Passenger,40_to_64
+19955046,Driver,75_or_older
+19955003,Driver,17_to_25
+19955084,Driver,40_to_64
+19955035,Pedestrian,0_to_16
+19955130,Driver,17_to_25
+19955110,Driver,17_to_25
+19955146,Passenger,17_to_25
+19955175,Motorcycle rider,17_to_25
+19955175,Motorcycle rider,17_to_25
+19955100,Passenger,26_to_39
+19955100,Passenger,26_to_39
+19955051,Driver,26_to_39
+19955190,Driver,40_to_64
+19955100,Passenger,26_to_39
+19955171,Driver,17_to_25
+19955113,Passenger,0_to_16
+19955111,Motorcycle rider,26_to_39
+19955036,Motorcycle rider,17_to_25
+19955116,Motorcycle rider,17_to_25
+19955040,Pedal cyclist,17_to_25
+19955091,Passenger,40_to_64
+19955149,Motorcycle rider,40_to_64
+19955188,Driver,40_to_64
+19955137,Pedal cyclist,65_to_74
+19955015,Driver,75_or_older
+19955131,Pedestrian,65_to_74
+19955100,Passenger,26_to_39
+19955077,Driver,17_to_25
+19955033,Driver,26_to_39
+19955038,Driver,40_to_64
+19955121,Driver,17_to_25
+19955002,Passenger,75_or_older
+19955180,Driver,40_to_64
+19955006,Passenger,40_to_64
+19955048,Passenger,75_or_older
+19955018,Driver,75_or_older
+19955182,Passenger,75_or_older
+19955112,Driver,17_to_25
+19955009,Passenger,17_to_25
+19955009,Driver,17_to_25
+19955043,Motorcycle rider,26_to_39
+19955060,Driver,40_to_64
+19955184,Driver,40_to_64
+19955059,Pedestrian,0_to_16
+19955099,Pedestrian,17_to_25
+19955144,Pedestrian,17_to_25
+19955008,Driver,26_to_39
+19945036,Driver,26_to_39
+19945064,Driver,17_to_25
+19945146,Motorcycle rider,17_to_25
+19945010,Driver,26_to_39
+19945102,Passenger,17_to_25
+19945176,Driver,26_to_39
+19945194,Driver,75_or_older
+19945182,Passenger,17_to_25
+19945182,Driver,17_to_25
+19945001,Driver,26_to_39
+19945167,Motorcycle rider,26_to_39
+19945168,Driver,40_to_64
+19945183,Pedestrian,40_to_64
+19945104,Passenger,26_to_39
+19945048,Driver,26_to_39
+19945040,Driver,40_to_64
+19945171,Passenger,17_to_25
+19945052,Passenger,17_to_25
+19945126,Passenger,17_to_25
+19945044,Passenger,17_to_25
+19945124,Passenger,0_to_16
+19945116,Motorcycle pillion passenger,17_to_25
+19945033,Driver,26_to_39
+19945162,Driver,26_to_39
+19945153,Passenger,26_to_39
+19945124,Driver,26_to_39
+19945124,Passenger,26_to_39
+19945141,Driver,17_to_25
+19945021,Passenger,0_to_16
+19945013,Passenger,17_to_25
+19945140,Driver,17_to_25
+19945123,Passenger,26_to_39
+19945139,Driver,40_to_64
+19945053,Passenger,40_to_64
+19945057,Driver,65_to_74
+19945021,Driver,26_to_39
+19945181,Pedestrian,40_to_64
+19945152,Pedestrian,40_to_64
+19945166,Driver,40_to_64
+19945043,Passenger,17_to_25
+19945150,Driver,17_to_25
+19945110,Driver,26_to_39
+19945110,Passenger,26_to_39
+19945170,Motorcycle rider,26_to_39
+19945067,Driver,26_to_39
+19945131,Passenger,17_to_25
+19945131,Driver,17_to_25
+19945016,Driver,17_to_25
+19945030,Motorcycle rider,17_to_25
+19945060,Other,0_to_16
+19945192,Pedal cyclist,17_to_25
+19945027,Motorcycle rider,17_to_25
+19945161,Passenger,26_to_39
+19945095,Driver,40_to_64
+19945109,Driver,40_to_64
+19945018,Passenger,40_to_64
+19945038,Pedestrian,75_or_older
+19945072,Pedestrian,17_to_25
+19945066,Pedestrian,40_to_64
+19945134,Driver,26_to_39
+19945019,Driver,40_to_64
+19945174,Passenger,0_to_16
+19945034,Motorcycle rider,17_to_25
+19945054,Driver,17_to_25
+19945037,Driver,26_to_39
+19945158,Driver,17_to_25
+19945113,Driver,40_to_64
+19945078,Driver,26_to_39
+19945031,Passenger,75_or_older
+19945031,Driver,75_or_older
+19945108,Driver,26_to_39
+19945100,Motorcycle rider,26_to_39
+19945172,Driver,65_to_74
+19945045,Driver,40_to_64
+19945051,Pedestrian,40_to_64
+19945069,Pedestrian,17_to_25
+19945055,Pedestrian,17_to_25
+19945047,Pedestrian,0_to_16
+19945035,Pedestrian,0_to_16
+19945121,Pedestrian,65_to_74
+19945099,Passenger,17_to_25
+19945195,Driver,40_to_64
+19945094,Driver,65_to_74
+19945137,Driver,65_to_74
+19945008,Passenger,0_to_16
+19945132,Driver,65_to_74
+19945103,Driver,17_to_25
+19945068,Driver,17_to_25
+19945081,Passenger,17_to_25
+19945068,Driver,26_to_39
+19945163,Passenger,0_to_16
+19945050,Passenger,40_to_64
+19945071,Driver,40_to_64
+19945015,Passenger,40_to_64
+19945135,Driver,17_to_25
+19945084,Passenger,26_to_39
+19945165,Driver,40_to_64
+19945142,Motorcycle rider,40_to_64
+19945114,Driver,75_or_older
+19945020,Pedestrian,75_or_older
+19945169,Pedestrian,26_to_39
+19945154,Pedestrian,40_to_64
+19945112,Pedestrian,26_to_39
+19945120,Driver,0_to_16
+19945056,Passenger,0_to_16
+19945085,Passenger,17_to_25
+19945082,Driver,17_to_25
+19945056,Passenger,17_to_25
+19945097,Driver,17_to_25
+19945173,Driver,26_to_39
+19945179,Driver,17_to_25
+19945039,Driver,17_to_25
+19945076,Motorcycle rider,17_to_25
+19945107,Driver,40_to_64
+19945022,Pedestrian,40_to_64
+19945058,Pedestrian,75_or_older
+19945023,Pedestrian,65_to_74
+19945061,Driver,65_to_74
+19945118,Pedestrian,17_to_25
+19945122,Pedestrian,0_to_16
+19945193,Pedestrian,0_to_16
+19945117,Pedestrian,40_to_64
+19945083,Other,0_to_16
+19945074,Motorcycle rider,26_to_39
+19945079,Driver,26_to_39
+19945128,Driver,17_to_25
+19945091,Passenger,26_to_39
+19945096,Passenger,26_to_39
+19945070,Driver,40_to_64
+19945106,Driver,17_to_25
+19945009,Passenger,26_to_39
+19945092,Passenger,40_to_64
+19945092,Passenger,40_to_64
+19945092,Driver,40_to_64
+19945026,Driver,40_to_64
+19945130,Passenger,65_to_74
+19945002,Driver,65_to_74
+19945024,Pedestrian,65_to_74
+19945127,Driver,0_to_16
+19945190,Passenger,0_to_16
+19945191,Driver,40_to_64
+19945062,Driver,26_to_39
+19945080,Driver,65_to_74
+19945088,Pedal cyclist,0_to_16
+19945125,Driver,17_to_25
+19945177,Motorcycle rider,26_to_39
+19945004,Driver,26_to_39
+19945046,Driver,40_to_64
+19945125,Passenger,40_to_64
+19945125,Passenger,40_to_64
+19945087,Pedestrian,40_to_64
+19945073,Pedestrian,26_to_39
+19945144,Pedestrian,40_to_64
+19945191,Passenger,65_to_74
+19945155,Pedestrian,75_or_older
+19945115,Pedestrian,0_to_16
+19945148,Driver,17_to_25
+19945178,Passenger,17_to_25
+19945180,Passenger,0_to_16
+19945029,Pedal cyclist,17_to_25
+19945138,Passenger,17_to_25
+19945175,Driver,40_to_64
+19945164,Driver,17_to_25
+19945133,Passenger,17_to_25
+19945164,Driver,26_to_39
+19945101,Driver,65_to_74
+19945136,Passenger,0_to_16
+19945042,Passenger,26_to_39
+19945086,Driver,26_to_39
+19945065,Driver,65_to_74
+19945012,Pedestrian,75_or_older
+19945093,Pedestrian,75_or_older
+19945184,Driver,17_to_25
+19945007,Motorcycle rider,26_to_39
+19945075,Passenger,17_to_25
+19945151,Driver,17_to_25
+19945032,Motorcycle rider,40_to_64
+19945157,Motorcycle rider,17_to_25
+19945160,Driver,17_to_25
+19945089,Driver,40_to_64
+19945017,Pedestrian,17_to_25
+19945159,Pedestrian,17_to_25
+19945149,Pedestrian,17_to_25
+19945028,Pedestrian,0_to_16
+19945063,Pedestrian,65_to_74
+19945059,Passenger,0_to_16
+19945077,Driver,17_to_25
+19945006,Passenger,65_to_74
+19945187,Motorcycle rider,17_to_25
+19945189,Driver,17_to_25
+19945090,Driver,17_to_25
+19945143,Motorcycle rider,26_to_39
+19945005,Pedal cyclist,0_to_16
+19945129,Passenger,17_to_25
+19945156,Passenger,17_to_25
+19945041,Driver,17_to_25
+19945147,Passenger,26_to_39
+19945105,Pedestrian,17_to_25
+19945025,Driver,65_to_74
+19945090,Passenger,17_to_25
+19945011,Driver,17_to_25
+19945188,Passenger,17_to_25
+19945098,Passenger,17_to_25
+19945049,Motorcycle rider,26_to_39
+19945111,Driver,17_to_25
+19945185,Passenger,17_to_25
+19945186,Motorcycle rider,17_to_25
+19945145,Passenger,17_to_25
+19945119,Pedestrian,17_to_25
+19945003,Driver,65_to_74
+19945014,Driver,65_to_74
+19935081,Driver,17_to_25
+19935152,Motorcycle rider,17_to_25
+19935187,Passenger,17_to_25
+19935029,Driver,40_to_64
+19935100,Passenger,17_to_25
+19935130,Motorcycle rider,17_to_25
+19935063,Driver,40_to_64
+19935032,Passenger,17_to_25
+19935082,Driver,17_to_25
+19935046,Motorcycle rider,26_to_39
+19935085,Motorcycle rider,26_to_39
+19935023,Passenger,0_to_16
+19935024,Passenger,17_to_25
+19935139,Driver,17_to_25
+19935036,Motorcycle rider,26_to_39
+19935037,Passenger,26_to_39
+19935168,Driver,26_to_39
+19935028,Driver,40_to_64
+19935187,Passenger,40_to_64
+19935024,Driver,40_to_64
+19935008,Driver,40_to_64
+19935108,Pedestrian,75_or_older
+19935121,Pedestrian,17_to_25
+19935172,Motorcycle rider,17_to_25
+19935069,Driver,40_to_64
+19935050,Passenger,26_to_39
+19935074,Passenger,26_to_39
+19935026,Passenger,17_to_25
+19935161,Motorcycle rider,26_to_39
+19935132,Driver,17_to_25
+19935115,Driver,17_to_25
+19935164,Passenger,26_to_39
+19935173,Driver,17_to_25
+19935131,Driver,17_to_25
+19935131,Driver,40_to_64
+19935165,Driver,17_to_25
+19935044,Driver,17_to_25
+19935170,Driver,26_to_39
+19935034,Pedestrian,40_to_64
+19935016,Passenger,0_to_16
+19935147,Driver,26_to_39
+19935132,Passenger,40_to_64
+19935061,Driver,26_to_39
+19935004,Pedal cyclist,0_to_16
+19935176,Passenger,17_to_25
+19935051,Driver,17_to_25
+19935051,Passenger,17_to_25
+19935154,Driver,17_to_25
+19935101,Driver,26_to_39
+19935123,Driver,26_to_39
+19935167,Driver,26_to_39
+19935054,Driver,26_to_39
+19935052,Driver,40_to_64
+19935138,Driver,17_to_25
+19935035,Driver,17_to_25
+19935095,Motorcycle rider,17_to_25
+19935062,Motorcycle rider,26_to_39
+19935072,Motorcycle rider,26_to_39
+19935107,Passenger,26_to_39
+19935031,Passenger,40_to_64
+19935183,Driver,65_to_74
+19935038,Motorcycle rider,17_to_25
+19935047,Pedestrian,65_to_74
+19935094,Pedestrian,75_or_older
+19935188,Pedestrian,65_to_74
+19935128,Driver,17_to_25
+19935183,Passenger,75_or_older
+19935055,Passenger,26_to_39
+19935022,Motorcycle rider,40_to_64
+19935099,Driver,26_to_39
+19935076,Passenger,0_to_16
+19935009,Driver,40_to_64
+19935076,Driver,40_to_64
+19935102,Driver,75_or_older
+19935145,Passenger,0_to_16
+19935058,Passenger,0_to_16
+19935189,Driver,17_to_25
+19935092,Pedestrian,75_or_older
+19935133,Pedestrian,40_to_64
+19935166,Pedestrian,17_to_25
+19935086,Pedestrian,65_to_74
+19935065,Motorcycle rider,26_to_39
+19935158,Passenger,17_to_25
+19935191,Driver,17_to_25
+19935180,Passenger,17_to_25
+19935078,Driver,40_to_64
+19935005,Passenger,17_to_25
+19935005,Passenger,17_to_25
+19935182,Motorcycle rider,17_to_25
+19935137,Passenger,0_to_16
+19935109,Driver,17_to_25
+19935174,Passenger,40_to_64
+19935174,Passenger,40_to_64
+19935109,Passenger,40_to_64
+19935057,Passenger,65_to_74
+19935137,Passenger,26_to_39
+19935090,Pedestrian,26_to_39
+19935049,Driver,26_to_39
+19935136,Driver,26_to_39
+19935142,Passenger,26_to_39
+19935041,Pedestrian,17_to_25
+19935014,Pedestrian,17_to_25
+19935040,Pedestrian,17_to_25
+19935033,Pedestrian,65_to_74
+19935043,Pedestrian,17_to_25
+19935157,Pedestrian,40_to_64
+19935153,Driver,26_to_39
+19935105,Driver,17_to_25
+19935087,Passenger,40_to_64
+19935185,Passenger,17_to_25
+19935006,Driver,40_to_64
+19935006,Passenger,40_to_64
+19935089,Pedestrian,17_to_25
+19935001,Driver,17_to_25
+19935124,Driver,26_to_39
+19935070,Passenger,40_to_64
+19935073,Driver,40_to_64
+19935178,Pedal cyclist,40_to_64
+19935146,Passenger,65_to_74
+19935112,Passenger,40_to_64
+19935066,Pedestrian,17_to_25
+19935039,Pedestrian,75_or_older
+19935027,Driver,0_to_16
+19935001,Passenger,0_to_16
+19935111,Passenger,17_to_25
+19935084,Pedestrian,0_to_16
+19935181,Driver,17_to_25
+19935186,Driver,17_to_25
+19935068,Passenger,26_to_39
+19935075,Passenger,40_to_64
+19935163,Pedal cyclist,40_to_64
+19935117,Pedestrian,17_to_25
+19935025,Pedestrian,75_or_older
+19935010,Pedestrian,0_to_16
+19935060,Pedestrian,26_to_39
+19935151,Pedestrian,40_to_64
+19935127,Driver,40_to_64
+19935111,Passenger,26_to_39
+19935162,Driver,26_to_39
+19935068,Passenger,0_to_16
+19935103,Passenger,40_to_64
+19935077,Driver,40_to_64
+19935011,Driver,26_to_39
+19935160,Passenger,17_to_25
+19935012,Motorcycle rider,17_to_25
+19935175,Passenger,40_to_64
+19935156,Driver,65_to_74
+19935135,Driver,40_to_64
+19935097,Passenger,0_to_16
+19935106,Driver,26_to_39
+19935155,Passenger,0_to_16
+19935118,Motorcycle rider,17_to_25
+19935104,Motorcycle rider,26_to_39
+19935030,Passenger,40_to_64
+19935114,Driver,40_to_64
+19935144,Motorcycle rider,17_to_25
+19935020,Pedestrian,75_or_older
+19935190,Driver,17_to_25
+19935190,Passenger,40_to_64
+19935134,Passenger,0_to_16
+19935177,Driver,40_to_64
+19935067,Motorcycle rider,40_to_64
+19935080,Passenger,0_to_16
+19935134,Passenger,17_to_25
+19935064,Driver,75_or_older
+19935048,Motorcycle pillion passenger,0_to_16
+19935048,Motorcycle rider,0_to_16
+19935013,Driver,17_to_25
+19935007,Motorcycle rider,40_to_64
+19935091,Driver,40_to_64
+19935140,Driver,40_to_64
+19935143,Pedestrian,17_to_25
+19935179,Pedestrian,17_to_25
+19935045,Driver,40_to_64
+19935141,Pedal cyclist,0_to_16
+19935126,Driver,17_to_25
+19935122,Passenger,17_to_25
+19935098,Driver,26_to_39
+19935093,Passenger,17_to_25
+19935149,Driver,17_to_25
+19935079,Driver,17_to_25
+19935116,Motorcycle rider,26_to_39
+19935088,Driver,26_to_39
+19935071,Driver,65_to_74
+19935129,Pedestrian,17_to_25
+19935171,Pedestrian,75_or_older
+19935148,Pedestrian,0_to_16
+19935119,Pedestrian,0_to_16
+19935017,Pedestrian,65_to_74
+19935056,Pedestrian,75_or_older
+19935110,Motorcycle rider,17_to_25
+19935015,Motorcycle rider,17_to_25
+19935021,Driver,26_to_39
+19935096,Driver,17_to_25
+19935083,Driver,26_to_39
+19935169,Passenger,75_or_older
+19935042,Passenger,0_to_16
+19935150,Motorcycle rider,26_to_39
+19935018,Driver,75_or_older
+19935120,Driver,26_to_39
+19935159,Pedestrian,26_to_39
+19935002,Motorcycle rider,17_to_25
+19935184,Driver,26_to_39
+19935053,Driver,40_to_64
+19935113,Passenger,40_to_64
+19935003,Passenger,17_to_25
+19935125,Passenger,40_to_64
+19935019,Pedestrian,17_to_25
+19935059,Pedestrian,26_to_39
+19925010,Passenger,17_to_25
+19925150,Passenger,17_to_25
+19925088,Passenger,17_to_25
+19925057,Motorcycle rider,26_to_39
+19925151,Driver,26_to_39
+19925055,Driver,26_to_39
+19925010,Passenger,26_to_39
+19925094,Passenger,17_to_25
+19925158,Driver,17_to_25
+19925067,Driver,26_to_39
+19925043,Driver,40_to_64
+19925001,Passenger,0_to_16
+19925106,Passenger,17_to_25
+19925021,Driver,17_to_25
+19925030,Passenger,0_to_16
+19925096,Driver,17_to_25
+19925085,Passenger,26_to_39
+19925030,Driver,26_to_39
+19925155,Pedestrian,17_to_25
+19925103,Pedestrian,17_to_25
+19925108,Pedestrian,17_to_25
+19925051,Driver,17_to_25
+19925004,Driver,0_to_16
+19925066,Driver,17_to_25
+19925164,Motorcycle rider,26_to_39
+19925117,Passenger,17_to_25
+19925117,Passenger,17_to_25
+19925117,Passenger,17_to_25
+19925115,Passenger,17_to_25
+19925159,Driver,17_to_25
+19925126,Passenger,17_to_25
+19925060,Motorcycle pillion passenger,26_to_39
+19925101,Driver,26_to_39
+19925101,Passenger,26_to_39
+19925101,Passenger,26_to_39
+19925156,Driver,40_to_64
+19925167,Driver,40_to_64
+19925023,Driver,75_or_older
+19925068,Pedestrian,40_to_64
+19925163,Passenger,0_to_16
+19925104,Driver,17_to_25
+19925075,Driver,17_to_25
+19925138,Driver,17_to_25
+19925114,Passenger,26_to_39
+19925165,Motorcycle rider,0_to_16
+19925143,Driver,40_to_64
+19925090,Driver,17_to_25
+19925017,Driver,17_to_25
+19925029,Motorcycle rider,17_to_25
+19925019,Driver,40_to_64
+19925146,Passenger,65_to_74
+19925136,Passenger,65_to_74
+19925062,Pedestrian,65_to_74
+19925163,Driver,17_to_25
+19925163,Passenger,17_to_25
+19925163,Passenger,17_to_25
+19925163,Passenger,26_to_39
+19925146,Driver,65_to_74
+19925026,Driver,17_to_25
+19925133,Driver,17_to_25
+19925036,Passenger,17_to_25
+19925116,Passenger,17_to_25
+19925087,Motorcycle rider,17_to_25
+19925141,Passenger,17_to_25
+19925170,Driver,26_to_39
+19925014,Driver,26_to_39
+19925133,Passenger,0_to_16
+19925133,Passenger,0_to_16
+19925162,Passenger,0_to_16
+19925171,Passenger,0_to_16
+19925135,Passenger,26_to_39
+19925076,Driver,26_to_39
+19925171,Passenger,26_to_39
+19925152,Driver,65_to_74
+19925133,Driver,26_to_39
+19925162,Passenger,26_to_39
+19925025,Motorcycle rider,17_to_25
+19925091,Driver,26_to_39
+19925079,Motorcycle rider,26_to_39
+19925091,Passenger,40_to_64
+19925044,Pedestrian,40_to_64
+19925044,Pedestrian,40_to_64
+19925148,Passenger,40_to_64
+19925024,Pedestrian,75_or_older
+19925161,Driver,40_to_64
+19925124,Pedestrian,40_to_64
+19925142,Passenger,17_to_25
+19925102,Driver,17_to_25
+19925113,Driver,26_to_39
+19925123,Passenger,0_to_16
+19925144,Passenger,26_to_39
+19925130,Motorcycle rider,17_to_25
+19925157,Motorcycle rider,17_to_25
+19925071,Driver,40_to_64
+19925089,Passenger,0_to_16
+19925093,Driver,17_to_25
+19925003,Passenger,26_to_39
+19925154,Passenger,40_to_64
+19925154,Passenger,40_to_64
+19925154,Passenger,40_to_64
+19925047,Passenger,0_to_16
+19925082,Driver,26_to_39
+19925047,Driver,40_to_64
+19925048,Driver,75_or_older
+19925063,Driver,75_or_older
+19925139,Passenger,75_or_older
+19925020,Driver,17_to_25
+19925052,Passenger,0_to_16
+19925153,Passenger,17_to_25
+19925153,Passenger,17_to_25
+19925038,Driver,26_to_39
+19925041,Passenger,40_to_64
+19925153,Driver,40_to_64
+19925022,Passenger,17_to_25
+19925022,Passenger,17_to_25
+19925022,Driver,17_to_25
+19925022,Passenger,17_to_25
+19925111,Driver,17_to_25
+19925016,Driver,40_to_64
+19925028,Passenger,17_to_25
+19925125,Passenger,17_to_25
+19925131,Passenger,17_to_25
+19925169,Passenger,17_to_25
+19925140,Passenger,26_to_39
+19925112,Passenger,75_or_older
+19925039,Pedestrian,75_or_older
+19925100,Pedestrian,65_to_74
+19925105,Passenger,17_to_25
+19925107,Driver,17_to_25
+19925095,Passenger,17_to_25
+19925086,Driver,17_to_25
+19925069,Passenger,17_to_25
+19925061,Driver,26_to_39
+19925109,Driver,40_to_64
+19925035,Driver,40_to_64
+19925118,Driver,65_to_74
+19925054,Driver,40_to_64
+19925073,Driver,26_to_39
+19925053,Driver,17_to_25
+19925168,Driver,26_to_39
+19925050,Driver,40_to_64
+19925092,Pedestrian,17_to_25
+19925059,Pedestrian,40_to_64
+19925032,Driver,17_to_25
+19925077,Passenger,0_to_16
+19925134,Driver,40_to_64
+19925015,Passenger,40_to_64
+19925007,Pedal cyclist,26_to_39
+19925070,Passenger,17_to_25
+19925120,Motorcycle pillion passenger,17_to_25
+19925120,Motorcycle rider,17_to_25
+19925049,Passenger,17_to_25
+19925147,Driver,40_to_64
+19925065,Pedestrian,0_to_16
+19925083,Pedestrian,26_to_39
+19925037,Driver,65_to_74
+19925064,Driver,17_to_25
+19925058,Passenger,17_to_25
+19925064,Passenger,26_to_39
+19925099,Driver,26_to_39
+19925012,Pedestrian,17_to_25
+19925027,Driver,40_to_64
+19925005,Driver,26_to_39
+19925128,Driver,17_to_25
+19925013,Motorcycle rider,40_to_64
+19925097,Driver,17_to_25
+19925160,Driver,26_to_39
+19925160,Passenger,26_to_39
+19925034,Driver,26_to_39
+19925042,Passenger,40_to_64
+19925084,Driver,40_to_64
+19925033,Pedestrian,17_to_25
+19925040,Pedestrian,65_to_74
+19925074,Driver,17_to_25
+19925031,Driver,26_to_39
+19925149,Passenger,0_to_16
+19925056,Passenger,17_to_25
+19925137,Driver,17_to_25
+19925121,Driver,17_to_25
+19925129,Driver,26_to_39
+19925072,Passenger,17_to_25
+19925045,Driver,40_to_64
+19925166,Passenger,40_to_64
+19925127,Driver,40_to_64
+19925009,Driver,17_to_25
+19925110,Driver,17_to_25
+19925018,Motorcycle rider,26_to_39
+19925006,Passenger,0_to_16
+19925078,Driver,17_to_25
+19925098,Passenger,0_to_16
+19925132,Passenger,0_to_16
+19925145,Passenger,17_to_25
+19925122,Driver,40_to_64
+19925046,Driver,40_to_64
+19925008,Driver,40_to_64
+19925002,Driver,65_to_74
+19925119,Pedestrian,0_to_16
+19925080,Driver,17_to_25
+19925011,Passenger,26_to_39
+19925081,Driver,40_to_64
+19915160,Passenger,26_to_39
+19915114,Driver,0_to_16
+19915041,Driver,26_to_39
+19915041,Driver,40_to_64
+19915103,Driver,17_to_25
+19915059,Driver,40_to_64
+19915021,Passenger,0_to_16
+19915139,Driver,17_to_25
+19915090,Driver,17_to_25
+19915021,Passenger,26_to_39
+19915112,Driver,26_to_39
+19915173,Motorcycle rider,26_to_39
+19915062,Driver,40_to_64
+19915015,Driver,65_to_74
+19915031,Driver,65_to_74
+19915030,Driver,26_to_39
+19915101,Passenger,0_to_16
+19915168,Driver,17_to_25
+19915101,Passenger,17_to_25
+19915184,Driver,40_to_64
+19915008,Driver,75_or_older
+19915147,Motorcycle rider,26_to_39
+19915118,Driver,75_or_older
+19915038,Passenger,17_to_25
+19915038,Passenger,17_to_25
+19915091,Passenger,0_to_16
+19915093,Motorcycle rider,17_to_25
+19915151,Passenger,26_to_39
+19915087,Pedal cyclist,0_to_16
+19915157,Passenger,75_or_older
+19915159,Driver,17_to_25
+19915081,Pedal cyclist,26_to_39
+19915060,Driver,40_to_64
+19915157,Passenger,65_to_74
+19915129,Driver,17_to_25
+19915048,Passenger,17_to_25
+19915096,Motorcycle rider,17_to_25
+19915150,Driver,17_to_25
+19915096,Motorcycle pillion passenger,26_to_39
+19915097,Motorcycle rider,26_to_39
+19915178,Driver,0_to_16
+19915092,Passenger,17_to_25
+19915170,Motorcycle rider,26_to_39
+19915013,Driver,26_to_39
+19915012,Driver,65_to_74
+19915165,Driver,65_to_74
+19915107,Driver,17_to_25
+19915026,Motorcycle rider,26_to_39
+19915156,Driver,40_to_64
+19915077,Driver,65_to_74
+19915143,Pedestrian,40_to_64
+19915061,Pedestrian,75_or_older
+19915017,Pedestrian,75_or_older
+19915185,Motorcycle pillion passenger,0_to_16
+19915099,Pedal cyclist,0_to_16
+19915185,Motorcycle rider,17_to_25
+19915131,Pedestrian,65_to_74
+19915137,Driver,17_to_25
+19915136,Passenger,17_to_25
+19915047,Driver,17_to_25
+19915025,Motorcycle rider,17_to_25
+19915133,Driver,17_to_25
+19915063,Driver,26_to_39
+19915124,Motorcycle rider,26_to_39
+19915183,Driver,40_to_64
+19915135,Passenger,17_to_25
+19915071,Motorcycle rider,26_to_39
+19915003,Driver,40_to_64
+19915127,Pedal cyclist,40_to_64
+19915161,Driver,17_to_25
+19915040,Motorcycle rider,17_to_25
+19915179,Passenger,26_to_39
+19915122,Driver,26_to_39
+19915076,Driver,26_to_39
+19915123,Driver,26_to_39
+19915020,Passenger,40_to_64
+19915056,Motorcycle rider,17_to_25
+19915162,Driver,17_to_25
+19915007,Passenger,17_to_25
+19915068,Driver,17_to_25
+19915075,Driver,40_to_64
+19915163,Driver,17_to_25
+19915163,Passenger,17_to_25
+19915126,Passenger,26_to_39
+19915044,Driver,26_to_39
+19915174,Motorcycle rider,26_to_39
+19915158,Motorcycle rider,75_or_older
+19915116,Passenger,0_to_16
+19915116,Passenger,17_to_25
+19915116,Passenger,17_to_25
+19915111,Motorcycle rider,17_to_25
+19915042,Driver,17_to_25
+19915069,Motorcycle rider,17_to_25
+19915032,Pedal cyclist,40_to_64
+19915132,Driver,40_to_64
+19915069,Motorcycle rider,40_to_64
+19915148,Motorcycle rider,65_to_74
+19915029,Pedestrian,0_to_16
+19915120,Passenger,65_to_74
+19915074,Passenger,26_to_39
+19915104,Motorcycle rider,17_to_25
+19915155,Motorcycle rider,17_to_25
+19915167,Passenger,26_to_39
+19915023,Driver,26_to_39
+19915050,Passenger,75_or_older
+19915134,Motorcycle rider,17_to_25
+19915064,Driver,75_or_older
+19915049,Driver,75_or_older
+19915018,Passenger,17_to_25
+19915169,Passenger,17_to_25
+19915073,Driver,26_to_39
+19915086,Pedestrian,40_to_64
+19915102,Pedestrian,65_to_74
+19915005,Passenger,75_or_older
+19915033,Passenger,0_to_16
+19915057,Motorcycle rider,17_to_25
+19915033,Driver,17_to_25
+19915009,Passenger,17_to_25
+19915043,Driver,26_to_39
+19915115,Driver,40_to_64
+19915055,Driver,17_to_25
+19915153,Driver,40_to_64
+19915180,Driver,75_or_older
+19915140,Driver,26_to_39
+19915070,Motorcycle rider,26_to_39
+19915054,Pedestrian,17_to_25
+19915152,Driver,65_to_74
+19915039,Driver,17_to_25
+19915089,Passenger,17_to_25
+19915106,Driver,26_to_39
+19915146,Motorcycle rider,17_to_25
+19915024,Passenger,40_to_64
+19915128,Driver,65_to_74
+19915141,Pedestrian,40_to_64
+19915037,Pedestrian,75_or_older
+19915085,Pedestrian,0_to_16
+19915089,Motorcycle rider,26_to_39
+19915113,Driver,65_to_74
+19915045,Motorcycle rider,26_to_39
+19915117,Passenger,17_to_25
+19915187,Passenger,17_to_25
+19915027,Motorcycle rider,26_to_39
+19915171,Passenger,40_to_64
+19915052,Passenger,40_to_64
+19915110,Passenger,40_to_64
+19915144,Driver,75_or_older
+19915182,Passenger,75_or_older
+19915138,Driver,17_to_25
+19915028,Motorcycle rider,26_to_39
+19915181,Motorcycle pillion passenger,26_to_39
+19915006,Pedal cyclist,26_to_39
+19915182,Passenger,26_to_39
+19915121,Driver,26_to_39
+19915083,Driver,40_to_64
+19915011,Driver,40_to_64
+19915172,Pedestrian,26_to_39
+19915078,Driver,17_to_25
+19915105,Motorcycle rider,17_to_25
+19915094,Motorcycle rider,17_to_25
+19915016,Driver,26_to_39
+19915001,Driver,75_or_older
+19915125,Motorcycle rider,26_to_39
+19915036,Passenger,40_to_64
+19915036,Passenger,40_to_64
+19915119,Pedal cyclist,40_to_64
+19915080,Motorcycle rider,40_to_64
+19915149,Pedestrian,26_to_39
+19915098,Pedestrian,65_to_74
+19915035,Passenger,75_or_older
+19915016,Passenger,0_to_16
+19915176,Passenger,0_to_16
+19915175,Motorcycle rider,40_to_64
+19915145,Driver,40_to_64
+19915154,Passenger,0_to_16
+19915002,Driver,17_to_25
+19915186,Passenger,26_to_39
+19915065,Motorcycle rider,26_to_39
+19915066,Pedal cyclist,0_to_16
+19915010,Passenger,17_to_25
+19915130,Driver,40_to_64
+19915176,Passenger,26_to_39
+19915072,Driver,17_to_25
+19915100,Passenger,17_to_25
+19915164,Passenger,17_to_25
+19915164,Driver,17_to_25
+19915164,Passenger,17_to_25
+19915164,Passenger,17_to_25
+19915014,Motorcycle rider,40_to_64
+19915019,Driver,17_to_25
+19915079,Driver,26_to_39
+19915004,Driver,26_to_39
+19915177,Motorcycle rider,17_to_25
+19915053,Driver,26_to_39
+19915142,Passenger,0_to_16
+19915034,Driver,17_to_25
+19915088,Motorcycle rider,17_to_25
+19915051,Motorcycle rider,17_to_25
+19915058,Passenger,17_to_25
+19915095,Driver,40_to_64
+19915082,Passenger,40_to_64
+19915022,Driver,40_to_64
+19915046,Passenger,65_to_74
+19915067,Driver,40_to_64
+19915109,Pedestrian,75_or_older
+19915084,Passenger,0_to_16
+19915166,Passenger,65_to_74
+19915108,Pedestrian,26_to_39
+19905133,Passenger,17_to_25
+19905086,Driver,17_to_25
+19905059,Driver,17_to_25
+19905051,Motorcycle rider,17_to_25
+19905027,Motorcycle rider,17_to_25
+19905153,Passenger,17_to_25
+19905158,Driver,26_to_39
+19905013,Motorcycle rider,17_to_25
+19905138,Passenger,0_to_16
+19905075,Passenger,40_to_64
+19905069,Passenger,17_to_25
+19905069,Driver,17_to_25
+19905081,Passenger,65_to_74
+19905107,Driver,0_to_16
+19905100,Pedestrian,26_to_39
+19905140,Pedal cyclist,17_to_25
+19905157,Passenger,26_to_39
+19905159,Pedal cyclist,26_to_39
+19905072,Driver,40_to_64
+19905167,Passenger,40_to_64
+19905167,Driver,0_to_16
+19905169,Pedestrian,17_to_25
+19905161,Pedestrian,17_to_25
+19905055,Pedestrian,0_to_16
+19905056,Driver,17_to_25
+19905094,Passenger,26_to_39
+19905023,Driver,26_to_39
+19905048,Driver,26_to_39
+19905141,Driver,40_to_64
+19905064,Motorcycle rider,17_to_25
+19905038,Motorcycle pillion passenger,17_to_25
+19905018,Passenger,17_to_25
+19905099,Motorcycle rider,17_to_25
+19905006,Motorcycle rider,26_to_39
+19905028,Passenger,0_to_16
+19905028,Driver,17_to_25
+19905117,Passenger,26_to_39
+19905012,Passenger,26_to_39
+19905057,Driver,40_to_64
+19905101,Pedestrian,0_to_16
+19905025,Driver,17_to_25
+19905121,Motorcycle rider,17_to_25
+19905165,Driver,40_to_64
+19905106,Motorcycle rider,26_to_39
+19905074,Motorcycle rider,17_to_25
+19905165,Passenger,0_to_16
+19905070,Driver,26_to_39
+19905152,Passenger,75_or_older
+19905015,Pedal cyclist,26_to_39
+19905152,Driver,40_to_64
+19905019,Pedestrian,17_to_25
+19905105,Pedestrian,26_to_39
+19905110,Driver,40_to_64
+19905150,Driver,17_to_25
+19905151,Driver,17_to_25
+19905091,Passenger,17_to_25
+19905134,Motorcycle rider,26_to_39
+19905077,Passenger,26_to_39
+19905175,Driver,26_to_39
+19905003,Pedal cyclist,0_to_16
+19905114,Driver,17_to_25
+19905024,Driver,17_to_25
+19905024,Passenger,17_to_25
+19905115,Driver,17_to_25
+19905173,Driver,17_to_25
+19905082,Driver,17_to_25
+19905132,Passenger,65_to_74
+19905178,Pedestrian,26_to_39
+19905118,Driver,65_to_74
+19905005,Driver,40_to_64
+19905135,Driver,17_to_25
+19905154,Passenger,26_to_39
+19905083,Driver,17_to_25
+19905083,Driver,26_to_39
+19905083,Passenger,26_to_39
+19905014,Pedestrian,17_to_25
+19905147,Pedestrian,17_to_25
+19905036,Passenger,0_to_16
+19905111,Passenger,17_to_25
+19905090,Driver,17_to_25
+19905035,Driver,17_to_25
+19905166,Driver,26_to_39
+19905130,Driver,40_to_64
+19905164,Driver,17_to_25
+19905119,Driver,17_to_25
+19905061,Pedal cyclist,75_or_older
+19905066,Driver,17_to_25
+19905097,Driver,75_or_older
+19905143,Pedestrian,40_to_64
+19905145,Pedestrian,26_to_39
+19905050,Pedestrian,40_to_64
+19905040,Pedestrian,0_to_16
+19905174,Pedal cyclist,0_to_16
+19905125,Motorcycle rider,17_to_25
+19905033,Passenger,17_to_25
+19905109,Driver,26_to_39
+19905087,Passenger,26_to_39
+19905112,Passenger,17_to_25
+19905112,Driver,17_to_25
+19905171,Passenger,26_to_39
+19905071,Driver,26_to_39
+19905071,Driver,40_to_64
+19905170,Driver,40_to_64
+19905032,Passenger,75_or_older
+19905093,Motorcycle rider,26_to_39
+19905180,Passenger,0_to_16
+19905127,Motorcycle rider,17_to_25
+19905084,Passenger,26_to_39
+19905142,Passenger,26_to_39
+19905136,Driver,40_to_64
+19905149,Motorcycle rider,40_to_64
+19905034,Pedestrian,40_to_64
+19905122,Pedestrian,26_to_39
+19905113,Pedestrian,26_to_39
+19905073,Pedestrian,40_to_64
+19905172,Pedestrian,65_to_74
+19905137,Pedestrian,40_to_64
+19905065,Motorcycle rider,0_to_16
+19905021,Driver,17_to_25
+19905039,Pedal cyclist,17_to_25
+19905016,Passenger,0_to_16
+19905022,Pedal cyclist,0_to_16
+19905102,Motorcycle rider,17_to_25
+19905016,Driver,26_to_39
+19905001,Driver,40_to_64
+19905004,Driver,40_to_64
+19905062,Motorcycle rider,26_to_39
+19905020,Pedestrian,0_to_16
+19905029,Motorcycle rider,17_to_25
+19905129,Driver,17_to_25
+19905058,Passenger,17_to_25
+19905148,Passenger,17_to_25
+19905045,Passenger,0_to_16
+19905045,Driver,0_to_16
+19905045,Passenger,0_to_16
+19905044,Driver,26_to_39
+19905131,Passenger,26_to_39
+19905068,Motorcycle rider,26_to_39
+19905126,Driver,40_to_64
+19905120,Passenger,17_to_25
+19905128,Driver,26_to_39
+19905128,Driver,26_to_39
+19905080,Passenger,17_to_25
+19905088,Driver,26_to_39
+19905144,Driver,40_to_64
+19905089,Driver,40_to_64
+19905155,Passenger,65_to_74
+19905043,Pedestrian,17_to_25
+19905010,Pedestrian,0_to_16
+19905042,Pedestrian,75_or_older
+19905092,Pedestrian,40_to_64
+19905045,Driver,40_to_64
+19905067,Driver,26_to_39
+19905060,Pedestrian,17_to_25
+19905031,Driver,40_to_64
+19905002,Driver,17_to_25
+19905054,Motorcycle rider,40_to_64
+19905104,Passenger,17_to_25
+19905007,Driver,40_to_64
+19905046,Driver,26_to_39
+19905078,Driver,65_to_74
+19905098,Pedestrian,40_to_64
+19905096,Pedestrian,75_or_older
+19905116,Driver,65_to_74
+19905108,Driver,17_to_25
+19905030,Pedestrian,75_or_older
+19905156,Driver,17_to_25
+19905009,Motorcycle rider,17_to_25
+19905037,Driver,17_to_25
+19905079,Driver,26_to_39
+19905052,Motorcycle rider,26_to_39
+19905160,Passenger,0_to_16
+19905139,Motorcycle rider,17_to_25
+19905103,Driver,17_to_25
+19905177,Pedal cyclist,0_to_16
+19905063,Motorcycle rider,17_to_25
+19905011,Motorcycle rider,17_to_25
+19905049,Driver,26_to_39
+19905179,Driver,26_to_39
+19905123,Driver,26_to_39
+19905026,Passenger,17_to_25
+19905076,Driver,17_to_25
+19905168,Driver,26_to_39
+19905053,Motorcycle rider,26_to_39
+19905124,Driver,17_to_25
+19905095,Passenger,17_to_25
+19905162,Passenger,65_to_74
+19905163,Passenger,17_to_25
+19905047,Motorcycle rider,17_to_25
+19905146,Driver,40_to_64
+19905008,Driver,40_to_64
+19905017,Driver,65_to_74
+19905085,Pedestrian,17_to_25
+19905041,Pedestrian,0_to_16
+19905176,Passenger,0_to_16
+19905181,Driver,17_to_25
+19895174,Driver,17_to_25
+19895039,Motorcycle pillion passenger,17_to_25
+19895126,Driver,26_to_39
+19895066,Passenger,26_to_39
+19895066,Driver,40_to_64
+19895142,Passenger,17_to_25
+19895142,Driver,17_to_25
+19895087,Motorcycle rider,17_to_25
+19895034,Driver,26_to_39
+19895052,Driver,26_to_39
+19895121,Passenger,0_to_16
+19895149,Driver,17_to_25
+19895099,Driver,26_to_39
+19895116,Passenger,26_to_39
+19895080,Driver,65_to_74
+19895196,Driver,75_or_older
+19895101,Passenger,17_to_25
+19895113,Pedestrian,26_to_39
+19895069,Driver,17_to_25
+19895075,Passenger,40_to_64
+19895075,Driver,40_to_64
+19895022,Driver,65_to_74
+19895209,Driver,65_to_74
+19895109,Driver,65_to_74
+19895164,Pedestrian,0_to_16
+19895114,Motorcycle rider,17_to_25
+19895160,Pedal cyclist,40_to_64
+19895052,Passenger,40_to_64
+19895136,Motorcycle rider,0_to_16
+19895197,Driver,26_to_39
+19895122,Passenger,17_to_25
+19895015,Passenger,17_to_25
+19895002,Driver,17_to_25
+19895019,Pedal cyclist,0_to_16
+19895073,Driver,17_to_25
+19895092,Motorcycle rider,17_to_25
+19895144,Driver,0_to_16
+19895028,Driver,17_to_25
+19895198,Pedal cyclist,0_to_16
+19895119,Pedestrian,26_to_39
+19895051,Driver,26_to_39
+19895181,Pedestrian,26_to_39
+19895141,Pedestrian,40_to_64
+19895193,Pedestrian,65_to_74
+19895018,Pedestrian,65_to_74
+19895025,Pedestrian,75_or_older
+19895161,Driver,40_to_64
+19895031,Passenger,26_to_39
+19895083,Driver,40_to_64
+19895152,Passenger,17_to_25
+19895152,Passenger,17_to_25
+19895024,Driver,17_to_25
+19895158,Passenger,17_to_25
+19895158,Passenger,17_to_25
+19895206,Passenger,17_to_25
+19895150,Driver,65_to_74
+19895036,Passenger,0_to_16
+19895047,Driver,26_to_39
+19895186,Driver,26_to_39
+19895115,Passenger,40_to_64
+19895036,Passenger,40_to_64
+19895036,Passenger,40_to_64
+19895155,Pedestrian,26_to_39
+19895044,Pedestrian,65_to_74
+19895062,Motorcycle rider,17_to_25
+19895058,Driver,26_to_39
+19895123,Motorcycle rider,0_to_16
+19895050,Driver,26_to_39
+19895205,Motorcycle rider,17_to_25
+19895146,Passenger,17_to_25
+19895105,Driver,17_to_25
+19895033,Passenger,26_to_39
+19895151,Driver,26_to_39
+19895020,Passenger,40_to_64
+19895203,Pedal cyclist,0_to_16
+19895016,Driver,17_to_25
+19895016,Passenger,17_to_25
+19895124,Passenger,17_to_25
+19895061,Passenger,26_to_39
+19895124,Passenger,26_to_39
+19895055,Passenger,65_to_74
+19895082,Passenger,17_to_25
+19895082,Driver,17_to_25
+19895008,Motorcycle rider,17_to_25
+19895177,Passenger,17_to_25
+19895176,Driver,26_to_39
+19895005,Passenger,40_to_64
+19895074,Pedestrian,26_to_39
+19895009,Pedestrian,75_or_older
+19895084,Pedestrian,0_to_16
+19895049,Passenger,75_or_older
+19895156,Passenger,17_to_25
+19895156,Driver,17_to_25
+19895060,Passenger,17_to_25
+19895060,Driver,17_to_25
+19895089,Motorcycle rider,17_to_25
+19895046,Driver,17_to_25
+19895162,Driver,17_to_25
+19895118,Driver,17_to_25
+19895057,Passenger,26_to_39
+19895169,Driver,26_to_39
+19895096,Passenger,40_to_64
+19895104,Driver,40_to_64
+19895014,Passenger,17_to_25
+19895167,Pedal cyclist,17_to_25
+19895200,Driver,40_to_64
+19895097,Motorcycle rider,17_to_25
+19895090,Passenger,26_to_39
+19895090,Driver,26_to_39
+19895179,Motorcycle rider,26_to_39
+19895068,Driver,65_to_74
+19895010,Pedestrian,75_or_older
+19895143,Pedestrian,26_to_39
+19895070,Motorcycle rider,17_to_25
+19895199,Driver,40_to_64
+19895107,Passenger,17_to_25
+19895201,Driver,17_to_25
+19895184,Driver,17_to_25
+19895166,Driver,26_to_39
+19895117,Driver,40_to_64
+19895037,Motorcycle rider,17_to_25
+19895026,Passenger,40_to_64
+19895127,Passenger,0_to_16
+19895173,Passenger,26_to_39
+19895077,Passenger,26_to_39
+19895077,Passenger,26_to_39
+19895026,Driver,40_to_64
+19895098,Pedestrian,0_to_16
+19895178,Pedestrian,17_to_25
+19895038,Pedestrian,17_to_25
+19895140,Pedestrian,26_to_39
+19895111,Pedestrian,0_to_16
+19895111,Pedestrian,0_to_16
+19895076,Pedestrian,0_to_16
+19895078,Pedestrian,40_to_64
+19895094,Motorcycle rider,17_to_25
+19895048,Driver,17_to_25
+19895048,Passenger,17_to_25
+19895157,Driver,17_to_25
+19895013,Motorcycle rider,17_to_25
+19895001,Driver,17_to_25
+19895042,Passenger,0_to_16
+19895183,Motorcycle rider,17_to_25
+19895042,Driver,40_to_64
+19895042,Passenger,75_or_older
+19895159,Passenger,0_to_16
+19895134,Driver,40_to_64
+19895214,Passenger,0_to_16
+19895165,Driver,17_to_25
+19895102,Motorcycle rider,17_to_25
+19895131,Driver,17_to_25
+19895030,Driver,17_to_25
+19895059,Driver,40_to_64
+19895012,Pedestrian,26_to_39
+19895091,Pedestrian,17_to_25
+19895085,Pedestrian,26_to_39
+19895056,Driver,17_to_25
+19895103,Passenger,17_to_25
+19895032,Motorcycle rider,26_to_39
+19895130,Driver,40_to_64
+19895053,Driver,40_to_64
+19895112,Driver,17_to_25
+19895170,Driver,75_or_older
+19895100,Motorcycle rider,17_to_25
+19895041,Passenger,17_to_25
+19895041,Driver,17_to_25
+19895145,Motorcycle pillion passenger,26_to_39
+19895132,Driver,40_to_64
+19895175,Pedestrian,40_to_64
+19895137,Pedestrian,65_to_74
+19895054,Driver,40_to_64
+19895106,Driver,17_to_25
+19895106,Passenger,17_to_25
+19895120,Pedestrian,0_to_16
+19895213,Pedal cyclist,26_to_39
+19895180,Passenger,40_to_64
+19895125,Driver,26_to_39
+19895138,Motorcycle rider,26_to_39
+19895035,Motorcycle rider,17_to_25
+19895212,Driver,26_to_39
+19895135,Driver,26_to_39
+19895110,Driver,17_to_25
+19895187,Driver,26_to_39
+19895064,Driver,40_to_64
+19895003,Driver,40_to_64
+19895204,Motorcycle rider,26_to_39
+19895007,Passenger,26_to_39
+19895185,Driver,40_to_64
+19895095,Passenger,17_to_25
+19895154,Driver,17_to_25
+19895027,Driver,75_or_older
+19895148,Driver,17_to_25
+19895153,Motorcycle pillion passenger,17_to_25
+19895195,Pedal cyclist,0_to_16
+19895072,Passenger,17_to_25
+19895093,Driver,17_to_25
+19895017,Passenger,40_to_64
+19895128,Driver,40_to_64
+19895194,Driver,40_to_64
+19895017,Driver,65_to_74
+19895072,Passenger,26_to_39
+19895147,Pedestrian,0_to_16
+19895086,Pedestrian,26_to_39
+19895063,Pedestrian,75_or_older
+19895065,Pedestrian,0_to_16
+19895011,Driver,17_to_25
+19895023,Motorcycle rider,26_to_39
+19895192,Driver,17_to_25
+19895189,Passenger,17_to_25
+19895108,Driver,26_to_39
+19895208,Passenger,75_or_older
+19895021,Driver,17_to_25
+19895202,Driver,17_to_25
+19895067,Driver,17_to_25
+19895129,Driver,26_to_39
+19895004,Driver,40_to_64
+19895040,Passenger,75_or_older
+19895071,Passenger,17_to_25
+19895071,Passenger,17_to_25
+19895171,Passenger,17_to_25
+19895006,Driver,26_to_39
+19895139,Passenger,40_to_64
+19895163,Passenger,40_to_64
+19895045,Driver,17_to_25
+19895081,Motorcycle rider,26_to_39
+19895211,Passenger,26_to_39
+19895172,Passenger,17_to_25
+19895029,Driver,17_to_25
+19895043,Passenger,40_to_64
+19895210,Driver,17_to_25
+19895079,Passenger,0_to_16
+19895188,Driver,17_to_25
+19895182,Driver,17_to_25
+19895191,Passenger,40_to_64
+19895191,Driver,40_to_64
+19895190,Driver,40_to_64
+19895168,Driver,17_to_25
+19895207,Driver,40_to_64
+19895133,Driver,65_to_74
+19895088,Passenger,17_to_25
+19895088,Passenger,17_to_25
+19895088,Passenger,17_to_25
